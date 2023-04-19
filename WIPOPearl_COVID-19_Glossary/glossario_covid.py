@@ -1,9 +1,9 @@
 import re
 import json
+from deep_translator import GoogleTranslator
 
 with open ("WIPOPearl_COVID-19_Glossary.xml","r", encoding="UTF8") as file:
     lines = file.read()
-
 
 # Remover
 lines = re.sub(r"</?text.*?>", "",lines)
@@ -69,6 +69,12 @@ new_entries = [(designation, ({"desc": description1, "fr": description2, "pt": d
                 for designation, description1, description2, description3 in entries]
 
 dic = dict(new_entries)
+
+for key, value in dic.items():
+    dic[key] = {"desc_pt" : GoogleTranslator(source='en', target='pt').translate(value['desc']),
+                  "desc_en" : value['desc'],
+                  "pt" : value['pt'],
+                  "fr" : value['fr']}
          
 with open('glos.json', 'w', encoding="UTF8") as f:
     json.dump(dic, f, ensure_ascii=False, indent=4)

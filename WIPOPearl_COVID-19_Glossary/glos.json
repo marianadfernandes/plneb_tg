@@ -1,732 +1,878 @@
 {
     "acute respiratory distress syndrome": {
-        "desc": "Respiratory disease characterized by the rapid onset of widespread inflammation in the lungs.",
-        "fr": "syndrome de détresse respiratoire aiguë",
-        "pt": "síndrome do desconforto respiratório agudo"
+        "desc_pt": "Doença respiratória caracterizada pelo rápido início de inflamação generalizada nos pulmões.",
+        "desc_en": "Respiratory disease characterized by the rapid onset of widespread inflammation in the lungs.",
+        "pt": "síndrome do desconforto respiratório agudo",
+        "fr": "syndrome de détresse respiratoire aiguë"
     },
     "adaptive immunity": {
-        "desc": "Immunity acquired during a person’s lifetime upon exposure to an infectious agent either by previous infection or immunization.",
-        "fr": "immunité acquise",
-        "pt": "imunidade adquirida"
+        "desc_pt": "Imunidade adquirida durante a vida de uma pessoa após a exposição a um agente infeccioso por infecção prévia ou imunização.",
+        "desc_en": "Immunity acquired during a person’s lifetime upon exposure to an infectious agent either by previous infection or immunization.",
+        "pt": "imunidade adquirida",
+        "fr": "immunité acquise"
     },
     "aerosol": {
-        "desc": "Suspension of solid or liquid particles in a gas.",
-        "fr": "aérosol",
-        "pt": "aerossol"
+        "desc_pt": "Suspensão de partículas sólidas ou líquidas em um gás.",
+        "desc_en": "Suspension of solid or liquid particles in a gas.",
+        "pt": "aerossol",
+        "fr": "aérosol"
     },
     "ageusia": {
-        "desc": "Disorder characterized by loss of taste.",
-        "fr": "agueusie",
-        "pt": "ageusia"
+        "desc_pt": "Distúrbio caracterizado pela perda do paladar.",
+        "desc_en": "Disorder characterized by loss of taste.",
+        "pt": "ageusia",
+        "fr": "agueusie"
     },
     "airborne transmission": {
-        "desc": "Mode of indirect transmission of an infectious disease that occurs when an infectious agent is carried by dust or droplet nuclei suspended in the air in the form of aerosols.",
-        "fr": "transmission par aérosol",
-        "pt": "transmissão por aerossóis"
+        "desc_pt": "Modo de transmissão indireta de uma doença infecciosa que ocorre quando um agente infeccioso é transportado por poeira ou núcleos de gotículas suspensos no ar na forma de aerossóis.",
+        "desc_en": "Mode of indirect transmission of an infectious disease that occurs when an infectious agent is carried by dust or droplet nuclei suspended in the air in the form of aerosols.",
+        "pt": "transmissão por aerossóis",
+        "fr": "transmission par aérosol"
     },
     "angiotensin-converting enzyme": {
-        "desc": "Class of ectoenzymes found in, e.g., the lungs, heart, skin, or blood vessels, whose function is to cleave circulating peptides, among which angiotensinogen, which are then used to regulate specific cell functions.",
-        "fr": "enzyme de conversion de l'angiotensine",
-        "pt": "enzima conversora de angiotensina"
+        "desc_pt": "Classe de ectoenzimas encontradas, por exemplo, nos pulmões, coração, pele ou vasos sanguíneos, cuja função é clivar peptídeos circulantes, entre os quais o angiotensinogênio, que são então usados ​​para regular funções celulares específicas.",
+        "desc_en": "Class of ectoenzymes found in, e.g., the lungs, heart, skin, or blood vessels, whose function is to cleave circulating peptides, among which angiotensinogen, which are then used to regulate specific cell functions.",
+        "pt": "enzima conversora de angiotensina",
+        "fr": "enzyme de conversion de l'angiotensine"
     },
     "anosmia": {
-        "desc": "Disorder characterized by loss of smell.",
-        "fr": "anosmie",
-        "pt": "anosmia"
+        "desc_pt": "Distúrbio caracterizado pela perda do olfato.",
+        "desc_en": "Disorder characterized by loss of smell.",
+        "pt": "anosmia",
+        "fr": "anosmie"
     },
     "antibody": {
-        "desc": "Protein produced by B lymphocytes that can recognize and neutralize an antigen.",
-        "fr": "anticorps",
-        "pt": "anticorpo"
+        "desc_pt": "Proteína produzida por linfócitos B que podem reconhecer e neutralizar um antígeno.",
+        "desc_en": "Protein produced by B lymphocytes that can recognize and neutralize an antigen.",
+        "pt": "anticorpo",
+        "fr": "anticorps"
     },
     "antigen": {
-        "desc": "Particle, typically a protein, which the immune system recognizes as foreign.",
-        "fr": "antigène",
-        "pt": "antígeno"
+        "desc_pt": "Partícula, geralmente uma proteína, que o sistema imunológico reconhece como estranha.",
+        "desc_en": "Particle, typically a protein, which the immune system recognizes as foreign.",
+        "pt": "antígeno",
+        "fr": "antigène"
     },
     "asymptomatic transmission": {
-        "desc": "Mode of transmission of an infectious disease to another person from an infected person who does not develop symptoms.",
-        "fr": "transmission asymptomatique",
-        "pt": "transmissão assintomática"
+        "desc_pt": "Modo de transmissão de uma doença infecciosa para outra pessoa de uma pessoa infectada que não desenvolve sintomas.",
+        "desc_en": "Mode of transmission of an infectious disease to another person from an infected person who does not develop symptoms.",
+        "pt": "transmissão assintomática",
+        "fr": "transmission asymptomatique"
     },
     "attack rate": {
-        "desc": "Proportion of people that contract a disease in a population initially free of the disease, i.e. during a disease outbreak.",
-        "fr": "taux d'attaque",
-        "pt": "taxa de ataque"
+        "desc_pt": "Proporção de pessoas que contraem uma doença em uma população inicialmente livre da doença, ou seja, durante um surto de doença.",
+        "desc_en": "Proportion of people that contract a disease in a population initially free of the disease, i.e. during a disease outbreak.",
+        "pt": "taxa de ataque",
+        "fr": "taux d'attaque"
     },
     "basic reproduction number": {
-        "desc": "Average number of secondary cases that one case produces in a population at risk.",
-        "fr": "taux de reproduction de base",
-        "pt": "número básico de reprodução"
+        "desc_pt": "Número médio de casos secundários que um caso produz em uma população de risco.",
+        "desc_en": "Average number of secondary cases that one case produces in a population at risk.",
+        "pt": "número básico de reprodução",
+        "fr": "taux de reproduction de base"
     },
     "biostatistics": {
-        "desc": "Application of statistical methods and tools to the fields of biological sciences and medicine, including study design, data collection and analysis, and interpretation of findings.",
-        "fr": "biostatistique",
-        "pt": "bioestatística"
+        "desc_pt": "Aplicação de métodos e ferramentas estatísticas nas áreas de ciências biológicas e medicina, incluindo desenho de estudo, coleta e análise de dados e interpretação de descobertas.",
+        "desc_en": "Application of statistical methods and tools to the fields of biological sciences and medicine, including study design, data collection and analysis, and interpretation of findings.",
+        "pt": "bioestatística",
+        "fr": "biostatistique"
     },
     "blood plasma": {
-        "desc": "Liquid part of the blood in which red and white blood cells and platelets are suspended and which carries such blood cells as well as proteins, mineral salts, sugars, fats, and hormones throughout the body.",
-        "fr": "plasma sanguin",
-        "pt": "plasma sanguíneo"
+        "desc_pt": "Parte líquida do sangue na qual os glóbulos vermelhos, brancos e plaquetas estão suspensos e que transporta essas células sanguíneas, bem como proteínas, sais minerais, açúcares, gorduras e hormônios por todo o corpo.",
+        "desc_en": "Liquid part of the blood in which red and white blood cells and platelets are suspended and which carries such blood cells as well as proteins, mineral salts, sugars, fats, and hormones throughout the body.",
+        "pt": "plasma sanguíneo",
+        "fr": "plasma sanguin"
     },
     "case": {
-        "desc": "Person who is diagnosed as having a disease.",
-        "fr": "cas",
-        "pt": "caso"
+        "desc_pt": "Pessoa que é diagnosticada como portadora de uma doença.",
+        "desc_en": "Person who is diagnosed as having a disease.",
+        "pt": "caso",
+        "fr": "cas"
     },
     "case definition": {
-        "desc": "Set of criteria used to decide whether a person has contracted a specific disease.",
-        "fr": "définition de cas",
-        "pt": "definição de caso"
+        "desc_pt": "Conjunto de critérios usados ​​para decidir se uma pessoa contraiu uma doença específica.",
+        "desc_en": "Set of criteria used to decide whether a person has contracted a specific disease.",
+        "pt": "definição de caso",
+        "fr": "définition de cas"
     },
     "case fatality rate": {
-        "desc": "Proportion of people who die of a given disease out of all the confirmed cases.",
-        "fr": "taux de létalité",
-        "pt": "taxa de letalidade"
+        "desc_pt": "Proporção de pessoas que morrem de uma determinada doença em relação ao total de casos confirmados.",
+        "desc_en": "Proportion of people who die of a given disease out of all the confirmed cases.",
+        "pt": "taxa de letalidade",
+        "fr": "taux de létalité"
     },
     "casual contact": {
-        "desc": "Person who has been in the proximity of a person affected by an infectious disease but does not live with or care for the infected person.",
-        "fr": "contact occasionnel",
-        "pt": "contato casual"
+        "desc_pt": "Pessoa que esteve na proximidade de uma pessoa afetada por uma doença infecciosa, mas não vive ou cuida da pessoa infectada.",
+        "desc_en": "Person who has been in the proximity of a person affected by an infectious disease but does not live with or care for the infected person.",
+        "pt": "contato casual",
+        "fr": "contact occasionnel"
     },
     "chain of infection": {
-        "desc": "Process in which an infectious agent leaves its reservoir or host through a portal of exit, is conveyed by a mode of transmission, and enters a susceptible host through a portal of entry.",
-        "fr": "chaîne de transmission",
-        "pt": "cadeia de transmissão"
+        "desc_pt": "Processo no qual um agente infeccioso deixa seu reservatório ou hospedeiro por uma porta de saída, é transportado por um modo de transmissão e entra em um hospedeiro suscetível por uma porta de entrada.",
+        "desc_en": "Process in which an infectious agent leaves its reservoir or host through a portal of exit, is conveyed by a mode of transmission, and enters a susceptible host through a portal of entry.",
+        "pt": "cadeia de transmissão",
+        "fr": "chaîne de transmission"
     },
     "chloroquine": {
-        "desc": "Quinoline that is substituted at position 4 by a [5-(diethylamino)pentan-2-yl]amino group and at position 7 by chlorine and is used for the treatment of e.g. malaria, lupus erythematosus, and rheumatoid arthritis.",
-        "fr": "chloroquine",
-        "pt": "cloroquina"
+        "desc_pt": "Quinolina que é substituída na posição 4 por um grupo [5-(dietilamino)pentan-2-il]amino e na posição 7 por cloro e é utilizada para o tratamento de e. malária, lúpus eritematoso e artrite reumatoide.",
+        "desc_en": "Quinoline that is substituted at position 4 by a [5-(diethylamino)pentan-2-yl]amino group and at position 7 by chlorine and is used for the treatment of e.g. malaria, lupus erythematosus, and rheumatoid arthritis.",
+        "pt": "cloroquina",
+        "fr": "chloroquine"
     },
     "close contact": {
-        "desc": "Person who lives with, cares for, or has direct contact with the respiratory secretions or body fluids of, a person affected by an infectious disease.",
-        "fr": "contact étroit",
-        "pt": "contato próximo"
+        "desc_pt": "Pessoa que convive, cuida ou tem contato direto com as secreções respiratórias ou fluidos corporais de uma pessoa afetada por uma doença infecciosa.",
+        "desc_en": "Person who lives with, cares for, or has direct contact with the respiratory secretions or body fluids of, a person affected by an infectious disease.",
+        "pt": "contato próximo",
+        "fr": "contact étroit"
     },
     "cluster": {
-        "desc": "Aggregation of cases of a disease within a given place and time.",
-        "fr": "cluster",
-        "pt": "conglomerado"
+        "desc_pt": "Agregação de casos de uma doença em um determinado local e tempo.",
+        "desc_en": "Aggregation of cases of a disease within a given place and time.",
+        "pt": "conglomerado",
+        "fr": "cluster"
     },
     "computed tomography": {
-        "desc": "Medical imaging technique by which three-dimensional images of the body are obtained by directing a beam of x-rays at the patient and quickly rotating them around the patient’s body, producing cross-sectional images that are then stacked together by a computed tomography scanner.",
-        "fr": "tomographie assistée par ordinateur",
-        "pt": "tomografia computadorizada"
+        "desc_pt": "Técnica de imagem médica pela qual imagens tridimensionais do corpo são obtidas direcionando um feixe de raios X para o paciente e girando-o rapidamente ao redor do corpo do paciente, produzindo imagens transversais que são empilhadas por um scanner de tomografia computadorizada.",
+        "desc_en": "Medical imaging technique by which three-dimensional images of the body are obtained by directing a beam of x-rays at the patient and quickly rotating them around the patient’s body, producing cross-sectional images that are then stacked together by a computed tomography scanner.",
+        "pt": "tomografia computadorizada",
+        "fr": "tomographie assistée par ordinateur"
     },
     "confirmed case": {
-        "desc": "Case that is confirmed by a laboratory test.",
-        "fr": "cas positif",
-        "pt": "caso confirmado"
+        "desc_pt": "Caso confirmado por exame laboratorial.",
+        "desc_en": "Case that is confirmed by a laboratory test.",
+        "pt": "caso confirmado",
+        "fr": "cas positif"
     },
     "contact": {
-        "desc": "Person who has been in the proximity of another person affected by an infectious disease and who is at risk of having contracted this disease.",
-        "fr": "contact",
-        "pt": "contato"
+        "desc_pt": "Pessoa que esteve na proximidade de outra pessoa afetada por uma doença infecciosa e que corre o risco de contrair esta doença.",
+        "desc_en": "Person who has been in the proximity of another person affected by an infectious disease and who is at risk of having contracted this disease.",
+        "pt": "contato",
+        "fr": "contact"
     },
     "contact follow-up": {
-        "desc": "Process of monitoring the contacts of a case for symptoms of the disease.",
-        "fr": "suivi des contacts",
-        "pt": "seguimento de contatos"
+        "desc_pt": "Processo de monitoramento dos contatos de um caso quanto a sintomas da doença.",
+        "desc_en": "Process of monitoring the contacts of a case for symptoms of the disease.",
+        "pt": "seguimento de contatos",
+        "fr": "suivi des contacts"
     },
     "contact identification": {
-        "desc": "Process aimed at identifying all contacts of a case by asking about the activities of the case and the activities and roles of the people around the case since the onset of the disease.",
-        "fr": "identification des contacts",
-        "pt": "identificação de contatos"
+        "desc_pt": "Processo destinado a identificar todos os contatos de um caso, perguntando sobre as atividades do caso e as atividades e papéis das pessoas ao redor do caso desde o início da doença.",
+        "desc_en": "Process aimed at identifying all contacts of a case by asking about the activities of the case and the activities and roles of the people around the case since the onset of the disease.",
+        "pt": "identificação de contatos",
+        "fr": "identification des contacts"
     },
     "contact tracing": {
-        "desc": "Process of identification, listing and follow-up of contacts.",
-        "fr": "traçage des contacts",
-        "pt": "rastreamento de contatos"
+        "desc_pt": "Processo de identificação, listagem e seguimento de contactos.",
+        "desc_en": "Process of identification, listing and follow-up of contacts.",
+        "pt": "rastreamento de contatos",
+        "fr": "traçage des contacts"
     },
     "containment": {
-        "desc": "Strategy adopted by a public body to cut off transmission of a disease.",
-        "fr": "endiguement",
-        "pt": "contenção"
+        "desc_pt": "Estratégia adotada por um órgão público para interromper a transmissão de uma doença.",
+        "desc_en": "Strategy adopted by a public body to cut off transmission of a disease.",
+        "pt": "contenção",
+        "fr": "endiguement"
     },
     "convalescent plasma therapy": {
-        "desc": "Therapeutic treatment whereby the blood plasma donated by individuals who have recovered from an infectious disease is introduced into the blood of people who are suffering from the same disease in order to help control the symptoms and limit the progression of the disease.",
-        "fr": "utilisation thérapeutique de plasma de convalescents",
-        "pt": "terapia com plasma convalescente"
+        "desc_pt": "Tratamento terapêutico pelo qual o plasma sanguíneo doado por indivíduos que se recuperaram de uma doença infecciosa é introduzido no sangue de pessoas que sofrem da mesma doença para ajudar a controlar os sintomas e limitar a progressão da doença.",
+        "desc_en": "Therapeutic treatment whereby the blood plasma donated by individuals who have recovered from an infectious disease is introduced into the blood of people who are suffering from the same disease in order to help control the symptoms and limit the progression of the disease.",
+        "pt": "terapia com plasma convalescente",
+        "fr": "utilisation thérapeutique de plasma de convalescents"
     },
     "coronavirus": {
-        "desc": "CoV   Family of viruses that consist of a core comprising a positive-sense single-stranded RNA, an envelope, a capsid, and spikes.",
-        "fr": "coronavirusCoV",
-        "pt": "coronavírusCoV"
+        "desc_pt": "CoV Família de vírus que consiste em um núcleo que compreende um RNA de fita simples de sentido positivo, um envelope, um capsídeo e picos.",
+        "desc_en": "CoV   Family of viruses that consist of a core comprising a positive-sense single-stranded RNA, an envelope, a capsid, and spikes.",
+        "pt": "coronavírusCoV",
+        "fr": "coronavirusCoV"
     },
     "coronavirus disease 2019": {
-        "desc": "Infectious disease caused by SARS-CoV-2.",
-        "fr": "COVID-19Covid-19, covid-19",
-        "pt": "doença do coronavírus 2019"
+        "desc_pt": "Doença infecciosa causada pelo SARS-CoV-2.",
+        "desc_en": "Infectious disease caused by SARS-CoV-2.",
+        "pt": "doença do coronavírus 2019",
+        "fr": "COVID-19Covid-19, covid-19"
     },
     "cough reflex": {
-        "desc": "Body's natural response to help clear irritants from the airways.",
-        "fr": "réflexe tussigène",
-        "pt": "reflexo de tosse"
+        "desc_pt": "A resposta natural do corpo para ajudar a eliminar substâncias irritantes das vias respiratórias.",
+        "desc_en": "Body's natural response to help clear irritants from the airways.",
+        "pt": "reflexo de tosse",
+        "fr": "réflexe tussigène"
     },
     "cytokine release syndrome": {
-        "desc": "Systemic inflammatory response syndrome caused by a large and rapid release of cytokines into the blood, which may be triggered by different factors, e.g. a viral infection or the use of certain drugs in immunotherapy.",
-        "fr": "syndrome de libération de cytokines",
-        "pt": "síndrome de liberação de citocinas"
+        "desc_pt": "Síndrome da resposta inflamatória sistêmica causada por uma grande e rápida liberação de citocinas no sangue, que pode ser desencadeada por diversos fatores, por exemplo, uma infecção viral ou o uso de certos medicamentos em imunoterapia.",
+        "desc_en": "Systemic inflammatory response syndrome caused by a large and rapid release of cytokines into the blood, which may be triggered by different factors, e.g. a viral infection or the use of certain drugs in immunotherapy.",
+        "pt": "síndrome de liberação de citocinas",
+        "fr": "syndrome de libération de cytokines"
     },
     "death-to-case ratio": {
-        "desc": "Number of deaths attributed to a particular disease in a specified period divided by the number of new cases of the disease identified during the same period.",
-        "fr": "taux de mortalité",
-        "pt": "taxa de mortalidade"
+        "desc_pt": "Número de mortes atribuídas a uma determinada doença em um período especificado dividido pelo número de novos casos da doença identificados durante o mesmo período.",
+        "desc_en": "Number of deaths attributed to a particular disease in a specified period divided by the number of new cases of the disease identified during the same period.",
+        "pt": "taxa de mortalidade",
+        "fr": "taux de mortalité"
     },
     "direct contact transmission": {
-        "desc": "Mode of transmission that occurs when an infectious agent is transferred from a reservoir to a host by direct contact or droplet transmission.",
-        "fr": "transmission par contact direct",
-        "pt": "transmissão direta"
+        "desc_pt": "Modo de transmissão que ocorre quando um agente infeccioso é transferido de um reservatório para um hospedeiro por contato direto ou transmissão por gotículas.",
+        "desc_en": "Mode of transmission that occurs when an infectious agent is transferred from a reservoir to a host by direct contact or droplet transmission.",
+        "pt": "transmissão direta",
+        "fr": "transmission par contact direct"
     },
     "disease": {
-        "desc": "Abnormal condition that has a negative impact on the structure or function of all or part of an organism, generally associated with certain signs and symptoms.",
-        "fr": "maladie",
-        "pt": "doença"
+        "desc_pt": "Condição anormal que tem um impacto negativo na estrutura ou função de todo ou parte de um organismo, geralmente associada a certos sinais e sintomas.",
+        "desc_en": "Abnormal condition that has a negative impact on the structure or function of all or part of an organism, generally associated with certain signs and symptoms.",
+        "pt": "doença",
+        "fr": "maladie"
     },
     "disease outbreak": {
-        "desc": "Cluster of a disease with a common cause and an overall number of cases that is inferior to that of an epidemic.",
-        "fr": "flambée épidémique",
-        "pt": "surto"
+        "desc_pt": "Aglomerado de uma doença com uma causa comum e um número total de casos inferior ao de uma epidemia.",
+        "desc_en": "Cluster of a disease with a common cause and an overall number of cases that is inferior to that of an epidemic.",
+        "pt": "surto",
+        "fr": "flambée épidémique"
     },
     "deoxyribonucleic acid": {
-        "desc": "Double-stranded nucleic acid whose nucleotides consist of a backbone made up by a modified sugar, called deoxyribose, a nitrogenous base, i.e. adenine, guanine, cytosine, and thymine, and a phosphate group.",
-        "fr": "acide désoxyribonucléique",
-        "pt": "ácido desoxirribonucleico"
+        "desc_pt": "Ácido nucléico de fita dupla cujos nucleotídeos consistem em um esqueleto formado por um açúcar modificado, denominado desoxirribose, uma base nitrogenada, ou seja, adenina, guanina, citosina e timina, e um grupo fosfato.",
+        "desc_en": "Double-stranded nucleic acid whose nucleotides consist of a backbone made up by a modified sugar, called deoxyribose, a nitrogenous base, i.e. adenine, guanine, cytosine, and thymine, and a phosphate group.",
+        "pt": "ácido desoxirribonucleico",
+        "fr": "acide désoxyribonucléique"
     },
     "drive-through testing": {
-        "desc": "Method of performing swab tests on people whilst they remain in their vehicles.",
-        "fr": "test de dépistage en voiture",
-        "pt": "rastreio drive-through"
+        "desc_pt": "Método de realização de testes de swab em pessoas enquanto elas permanecem em seus veículos.",
+        "desc_en": "Method of performing swab tests on people whilst they remain in their vehicles.",
+        "pt": "rastreio drive-through",
+        "fr": "test de dépistage en voiture"
     },
     "droplet nucleus": {
-        "desc": "Dried residue, approximately ≤ 5 μm in diameter, which results from the evaporation of droplets coughed or sneezed into the air.",
-        "fr": "noyau de gouttelettes",
-        "pt": "núcleo goticular"
+        "desc_pt": "Resíduo seco, de aproximadamente ≤ 5 μm de diâmetro, que resulta da evaporação de gotículas tossidas ou espirradas para o ar.",
+        "desc_en": "Dried residue, approximately ≤ 5 μm in diameter, which results from the evaporation of droplets coughed or sneezed into the air.",
+        "pt": "núcleo goticular",
+        "fr": "noyau de gouttelettes"
     },
     "droplet transmission": {
-        "desc": "Mode of direct transmission of an infectious disease that occurs when a person is in the proximity of an infected person who has respiratory symptoms, e.g., via coughing, sneezing, breathing, or talking.",
-        "fr": "transmission par gouttelettes",
-        "pt": "transmissão por gotículas respiratórias"
+        "desc_pt": "Modo de transmissão direta de uma doença infecciosa que ocorre quando uma pessoa está próxima de uma pessoa infectada que apresenta sintomas respiratórios, por exemplo, por meio de tosse, espirro, respiração ou fala.",
+        "desc_en": "Mode of direct transmission of an infectious disease that occurs when a person is in the proximity of an infected person who has respiratory symptoms, e.g., via coughing, sneezing, breathing, or talking.",
+        "pt": "transmissão por gotículas respiratórias",
+        "fr": "transmission par gouttelettes"
     },
     "elimination": {
-        "desc": "Strategy adopted by a public body to reduce to zero the incidence of a disease in a given geographical area.",
-        "fr": "élimination",
-        "pt": "eliminação"
+        "desc_pt": "Estratégia adotada por um órgão público para reduzir a zero a incidência de uma doença em uma determinada área geográfica.",
+        "desc_en": "Strategy adopted by a public body to reduce to zero the incidence of a disease in a given geographical area.",
+        "pt": "eliminação",
+        "fr": "élimination"
     },
     "endemic disease": {
-        "desc": "Disease for which there are as many cases as would be expected in a given population at a given time.",
-        "fr": "endémie",
-        "pt": "doença endêmica"
+        "desc_pt": "Doença para a qual existem tantos casos quanto seriam esperados em uma determinada população em um determinado momento.",
+        "desc_en": "Disease for which there are as many cases as would be expected in a given population at a given time.",
+        "pt": "doença endêmica",
+        "fr": "endémie"
     },
     "environmental cleaning": {
-        "desc": "Set of actions and processes, including cleaning, disinfecting and monitoring, implemented in places at risk of spread of an infectious agent through contaminated objects.",
-        "fr": "nettoyage de l'environnement",
-        "pt": "limpeza ambiental"
+        "desc_pt": "Conjunto de ações e processos, incluindo limpeza, desinfecção e monitoramento, implementados em locais com risco de propagação de agente infeccioso por meio de objetos contaminados.",
+        "desc_en": "Set of actions and processes, including cleaning, disinfecting and monitoring, implemented in places at risk of spread of an infectious agent through contaminated objects.",
+        "pt": "limpeza ambiental",
+        "fr": "nettoyage de l'environnement"
     },
     "epidemic curve": {
-        "desc": "Graphical representation of the incidence of a disease or other health-related event plotted over time.",
-        "fr": "courbe épidémique",
-        "pt": "curva epidêmica"
+        "desc_pt": "Representação gráfica da incidência de uma doença ou outro evento relacionado à saúde plotado ao longo do tempo.",
+        "desc_en": "Graphical representation of the incidence of a disease or other health-related event plotted over time.",
+        "pt": "curva epidêmica",
+        "fr": "courbe épidémique"
     },
     "epidemic disease": {
-        "desc": "Disease for which there are many more cases than would be expected at a given time in a given population and which can be ascribed to the same cause.",
-        "fr": "épidémie",
-        "pt": "epidemia"
+        "desc_pt": "Doença para a qual há muito mais casos do que seria esperado em um determinado momento em uma determinada população e que pode ser atribuída à mesma causa.",
+        "desc_en": "Disease for which there are many more cases than would be expected at a given time in a given population and which can be ascribed to the same cause.",
+        "pt": "epidemia",
+        "fr": "épidémie"
     },
     "epidemic threshold": {
-        "desc": "Number of individuals within a population at risk that is required for an epidemic to occur.",
-        "fr": "seuil épidémique",
-        "pt": "limite epidêmico"
+        "desc_pt": "Número de indivíduos em uma população em risco que é necessário para que uma epidemia ocorra.",
+        "desc_en": "Number of individuals within a population at risk that is required for an epidemic to occur.",
+        "pt": "limite epidêmico",
+        "fr": "seuil épidémique"
     },
     "epidemiology": {
-        "desc": "Scientific study of the occurrence of a disease or other health-related event in specified populations, and its application to the control of health problems.",
-        "fr": "épidémiologie",
-        "pt": "epidemiologia"
+        "desc_pt": "Estudo científico da ocorrência de uma doença ou outro evento relacionado à saúde em populações específicas e sua aplicação no controle de problemas de saúde.",
+        "desc_en": "Scientific study of the occurrence of a disease or other health-related event in specified populations, and its application to the control of health problems.",
+        "pt": "epidemiologia",
+        "fr": "épidémiologie"
     },
     "fever": {
-        "desc": "Innate immune response mechanism that increases a person’s body temperature above the normal level.",
-        "fr": "fièvre",
-        "pt": "febre"
+        "desc_pt": "Mecanismo de resposta imune inata que aumenta a temperatura corporal de uma pessoa acima do nível normal.",
+        "desc_en": "Innate immune response mechanism that increases a person’s body temperature above the normal level.",
+        "pt": "febre",
+        "fr": "fièvre"
     },
     "filtering facepiece respirator": {
-        "desc": "Respiratory protective equipment that uses filters to remove hazardous substances from the air being breathed by the wearer.",
-        "fr": "masque de protection respiratoire",
-        "pt": "máscara autofiltrante"
+        "desc_pt": "Equipamento de proteção respiratória que utiliza filtros para remover substâncias perigosas do ar respirado pelo usuário.",
+        "desc_en": "Respiratory protective equipment that uses filters to remove hazardous substances from the air being breathed by the wearer.",
+        "pt": "máscara autofiltrante",
+        "fr": "masque de protection respiratoire"
     },
     "fomite": {
-        "desc": "Inanimate object contaminated by an infectious agent that can indirectly transmit an infectious disease.",
-        "fr": "vecteur passif",
-        "pt": "fômite"
+        "desc_pt": "Objeto inanimado contaminado por um agente infeccioso que pode transmitir indiretamente uma doença infecciosa.",
+        "desc_en": "Inanimate object contaminated by an infectious agent that can indirectly transmit an infectious disease.",
+        "pt": "fômite",
+        "fr": "vecteur passif"
     },
     "full face shield": {
-        "desc": "Personal protective equipment that protects the wearer’s eyes and face from sprays, splashes, and large-particle droplets, and prevents the spread of respiratory droplets from the wearer to others.",
-        "fr": "visière",
-        "pt": "viseira de proteção facial"
+        "desc_pt": "Equipamento de proteção individual que protege os olhos e o rosto do usuário de sprays, respingos e gotículas de partículas grandes e evita a propagação de gotículas respiratórias do usuário para outras pessoas.",
+        "desc_en": "Personal protective equipment that protects the wearer’s eyes and face from sprays, splashes, and large-particle droplets, and prevents the spread of respiratory droplets from the wearer to others.",
+        "pt": "viseira de proteção facial",
+        "fr": "visière"
     },
     "gene": {
-        "desc": "Sequence of DNA that carries the required information for making a specific molecule, typically a protein.",
-        "fr": "gène",
-        "pt": "gene"
+        "desc_pt": "Sequência de DNA que carrega as informações necessárias para fazer uma molécula específica, geralmente uma proteína.",
+        "desc_en": "Sequence of DNA that carries the required information for making a specific molecule, typically a protein.",
+        "pt": "gene",
+        "fr": "gène"
     },
     "gene therapy": {
-        "desc": "Therapeutic treatment whereby one or more foreign genes are inserted into the genome of an organism by means of a vector, to compensate for abnormal genes or to help the organism produce a protein that can be beneficial for it.",
-        "fr": "thérapie génique",
-        "pt": "terapia gênica"
+        "desc_pt": "Tratamento terapêutico pelo qual um ou mais genes estranhos são inseridos no genoma de um organismo por meio de um vetor, para compensar genes anormais ou para ajudar o organismo a produzir uma proteína que pode ser benéfica para ele.",
+        "desc_en": "Therapeutic treatment whereby one or more foreign genes are inserted into the genome of an organism by means of a vector, to compensate for abnormal genes or to help the organism produce a protein that can be beneficial for it.",
+        "pt": "terapia gênica",
+        "fr": "thérapie génique"
     },
     "genome": {
-        "desc": "Complete set of DNA of a living organism, including all of its genes.",
-        "fr": "génome",
-        "pt": "genoma"
+        "desc_pt": "Conjunto completo de DNA de um organismo vivo, incluindo todos os seus genes.",
+        "desc_en": "Complete set of DNA of a living organism, including all of its genes.",
+        "pt": "genoma",
+        "fr": "génome"
     },
     "hand sanitizer": {
-        "desc": "Gel, foam, or liquid used for handwashing that may or may not contain alcohol.",
-        "fr": "désinfectant pour les mains",
-        "pt": "gel desinfetante"
+        "desc_pt": "Gel, espuma ou líquido para lavagem das mãos que pode ou não conter álcool.",
+        "desc_en": "Gel, foam, or liquid used for handwashing that may or may not contain alcohol.",
+        "pt": "gel desinfetante",
+        "fr": "désinfectant pour les mains"
     },
     "hand washing": {
-        "desc": "Action of removing any unwanted substance or microorganism from a person's hands using water or another liquid, with or without soap or other detergents.",
-        "fr": "lavage des mains",
-        "pt": "lavagem das mãos"
+        "desc_pt": "Ação de remover qualquer substância indesejável ou microrganismo das mãos de uma pessoa com água ou outro líquido, com ou sem sabão ou outros detergentes.",
+        "desc_en": "Action of removing any unwanted substance or microorganism from a person's hands using water or another liquid, with or without soap or other detergents.",
+        "pt": "lavagem das mãos",
+        "fr": "lavage des mains"
     },
     "herd immunity": {
-        "desc": "Indirect protection from an infectious agent achieved in a population at risk when a sufficiently large proportion of individuals in the population show an acquired immunity to that infectious agent.",
-        "fr": "immunité de groupe",
-        "pt": "imunidade de grupo"
+        "desc_pt": "A proteção indireta contra um agente infeccioso é alcançada em uma população em risco quando uma proporção suficientemente grande de indivíduos na população mostra uma imunidade adquirida a esse agente infeccioso.",
+        "desc_en": "Indirect protection from an infectious agent achieved in a population at risk when a sufficiently large proportion of individuals in the population show an acquired immunity to that infectious agent.",
+        "pt": "imunidade de grupo",
+        "fr": "immunité de groupe"
     },
     "high-risk group": {
-        "desc": "Part of a population at risk that has higher than average prevalence, incidence or severity of a disease.",
-        "fr": "groupe à haut risque",
-        "pt": "grupo de alto risco"
+        "desc_pt": "Parte de uma população em risco que tem prevalência, incidência ou gravidade de uma doença acima da média.",
+        "desc_en": "Part of a population at risk that has higher than average prevalence, incidence or severity of a disease.",
+        "pt": "grupo de alto risco",
+        "fr": "groupe à haut risque"
     },
     "hospital gown": {
-        "desc": "Garment of personal protective equipment worn in healthcare settings to reduce the risk of exposure to infectious agents.",
-        "fr": "casaque",
-        "pt": "bata hospitalar"
+        "desc_pt": "Vestuário de equipamento de proteção individual usado em ambientes de saúde para reduzir o risco de exposição a agentes infecciosos.",
+        "desc_en": "Garment of personal protective equipment worn in healthcare settings to reduce the risk of exposure to infectious agents.",
+        "pt": "bata hospitalar",
+        "fr": "casaque"
     },
     "hospitalization": {
-        "desc": "Admission and stay of a patient in a hospital for treatment.",
-        "fr": "hospitalisation",
-        "pt": "hospitalização"
+        "desc_pt": "Admissão e permanência de um paciente em um hospital para tratamento.",
+        "desc_en": "Admission and stay of a patient in a hospital for treatment.",
+        "pt": "hospitalização",
+        "fr": "hospitalisation"
     },
     "host": {
-        "desc": "Person or animal infected by an infectious agent.",
-        "fr": "hôte",
-        "pt": "hospedeiro"
+        "desc_pt": "Pessoa ou animal infectado por um agente infeccioso.",
+        "desc_en": "Person or animal infected by an infectious agent.",
+        "pt": "hospedeiro",
+        "fr": "hôte"
     },
     "hygiene": {
-        "desc": "Set of practices that help to maintain health and prevent the spread of diseases.",
-        "fr": "hygiène",
-        "pt": "higiene"
+        "desc_pt": "Conjunto de práticas que ajudam a manter a saúde e prevenir a propagação de doenças.",
+        "desc_en": "Set of practices that help to maintain health and prevent the spread of diseases.",
+        "pt": "higiene",
+        "fr": "hygiène"
     },
     "immune response": {
-        "desc": "Reaction of the immune system of an organism to potentially harmful stimuli.",
-        "fr": "réponse immunitaire",
-        "pt": "resposta imunitária"
+        "desc_pt": "Reação do sistema imunológico de um organismo a estímulos potencialmente nocivos.",
+        "desc_en": "Reaction of the immune system of an organism to potentially harmful stimuli.",
+        "pt": "resposta imunitária",
+        "fr": "réponse immunitaire"
     },
     "immune system": {
-        "desc": "Network of cells and antibodies that defends the body against the attack of agents perceived as extraneous and potentially harmful to it by triggering an immune response, which can be specific (adaptive) or not specific (innate).",
-        "fr": "système immunitaire",
-        "pt": "sistema imunitário"
+        "desc_pt": "Rede de células e anticorpos que defende o organismo contra o ataque de agentes percebidos como estranhos e potencialmente prejudiciais a ele, desencadeando uma resposta imune, que pode ser específica (adaptativa) ou não específica (inata).",
+        "desc_en": "Network of cells and antibodies that defends the body against the attack of agents perceived as extraneous and potentially harmful to it by triggering an immune response, which can be specific (adaptive) or not specific (innate).",
+        "pt": "sistema imunitário",
+        "fr": "système immunitaire"
     },
     "immunity": {
-        "desc": "Condition of being protected against an infectious disease.",
-        "fr": "immunité",
-        "pt": "imunidade"
+        "desc_pt": "Condição de estar protegido contra uma doença infecciosa.",
+        "desc_en": "Condition of being protected against an infectious disease.",
+        "pt": "imunidade",
+        "fr": "immunité"
     },
     "imported case": {
-        "desc": "Case who has a history of travel from an affected area some time before the onset of the disease and cannot be linked to local transmission.",
-        "fr": "cas importé",
-        "pt": "caso importado"
+        "desc_pt": "Caso que tenha histórico de viagem de uma área afetada algum tempo antes do início da doença e não possa ser relacionado à transmissão local.",
+        "desc_en": "Case who has a history of travel from an affected area some time before the onset of the disease and cannot be linked to local transmission.",
+        "pt": "caso importado",
+        "fr": "cas importé"
     },
     "incidence": {
-        "desc": "New cases of a disease arising in a given period in a population at risk.",
-        "fr": "incidence",
-        "pt": "incidência"
+        "desc_pt": "Novos casos de uma doença surgidos em um determinado período em uma população de risco.",
+        "desc_en": "New cases of a disease arising in a given period in a population at risk.",
+        "pt": "incidência",
+        "fr": "incidence"
     },
     "incubation period": {
-        "desc": "Lapse of time between the exposure to an infectious agent and the onset of the symptoms of a disease.",
-        "fr": "période d'incubation",
-        "pt": "período de incubação"
+        "desc_pt": "Intervalo de tempo entre a exposição a um agente infeccioso e o aparecimento dos sintomas de uma doença.",
+        "desc_en": "Lapse of time between the exposure to an infectious agent and the onset of the symptoms of a disease.",
+        "pt": "período de incubação",
+        "fr": "période d'incubation"
     },
     "index case": {
-        "desc": "The first known case of the outbreak of a disease in a cluster.",
-        "fr": "cas index",
-        "pt": "caso índice"
+        "desc_pt": "O primeiro caso conhecido do surto de uma doença em um cluster.",
+        "desc_en": "The first known case of the outbreak of a disease in a cluster.",
+        "pt": "caso índice",
+        "fr": "cas index"
     },
     "indirect contact transmission": {
-        "desc": "Mode of transmission that occurs when an infectious agent is transferred from a reservoir to a host by means of a vehicle, i.e. water, food or air, a vector or a fomite.",
-        "fr": "transmission par contact indirect",
-        "pt": "transmissão indireta"
+        "desc_pt": "Modo de transmissão que ocorre quando um agente infeccioso é transferido de um reservatório para um hospedeiro por meio de um veículo, ou seja, água, alimento ou ar, um vetor ou fômite.",
+        "desc_en": "Mode of transmission that occurs when an infectious agent is transferred from a reservoir to a host by means of a vehicle, i.e. water, food or air, a vector or a fomite.",
+        "pt": "transmissão indireta",
+        "fr": "transmission par contact indirect"
     },
     "infection fatality rate": {
-        "desc": "Proportion of people who will die of a certain disease out of all those who have been infected.",
-        "fr": "taux de mortalité par infection",
-        "pt": "taxa de letalidade da infecção"
+        "desc_pt": "Proporção de pessoas que morrerão de uma determinada doença entre todas as que foram infectadas.",
+        "desc_en": "Proportion of people who will die of a certain disease out of all those who have been infected.",
+        "pt": "taxa de letalidade da infecção",
+        "fr": "taux de mortalité par infection"
     },
     "infectious agent": {
-        "desc": "Biological agent that may or may not cause an infectious disease.",
-        "fr": "agent infectieux",
-        "pt": "agente infeccioso"
+        "desc_pt": "Agente biológico que pode ou não causar uma doença infecciosa.",
+        "desc_en": "Biological agent that may or may not cause an infectious disease.",
+        "pt": "agente infeccioso",
+        "fr": "agent infectieux"
     },
     "infectious disease": {
-        "desc": "Disease caused by a pathogen.",
-        "fr": "maladie infectieuse",
-        "pt": "doença infecciosa"
+        "desc_pt": "Doença causada por um patógeno.",
+        "desc_en": "Disease caused by a pathogen.",
+        "pt": "doença infecciosa",
+        "fr": "maladie infectieuse"
     },
     "infectivity": {
-        "desc": "Ability of an infectious agent to enter, survive, and multiply in a host.",
-        "fr": "infectiosité",
-        "pt": "infecciosidade"
+        "desc_pt": "Capacidade de um agente infeccioso entrar, sobreviver e se multiplicar em um hospedeiro.",
+        "desc_en": "Ability of an infectious agent to enter, survive, and multiply in a host.",
+        "pt": "infecciosidade",
+        "fr": "infectiosité"
     },
     "inflammation": {
-        "desc": "Series of innate immunity processes initiated by the body in response to an injury.",
-        "fr": "inflammation",
-        "pt": "inflamação"
+        "desc_pt": "Série de processos de imunidade inata iniciados pelo corpo em resposta a uma lesão.",
+        "desc_en": "Series of innate immunity processes initiated by the body in response to an injury.",
+        "pt": "inflamação",
+        "fr": "inflammation"
     },
     "intensive care unit": {
-        "desc": "Hospital facility that provides critical care and life support for acutely ill or injured patients.",
-        "fr": "unité de soins intensifs",
-        "pt": "unidade de cuidados intensivos"
+        "desc_pt": "Instalação hospitalar que fornece cuidados intensivos e suporte de vida para pacientes gravemente doentes ou feridos.",
+        "desc_en": "Hospital facility that provides critical care and life support for acutely ill or injured patients.",
+        "pt": "unidade de cuidados intensivos",
+        "fr": "unité de soins intensifs"
     },
     "intubation": {
-        "desc": "Invasive lung ventilation method in which a tube is inserted into the patient’s trachea through the mouth or nose.",
-        "fr": "intubation",
-        "pt": "intubação"
+        "desc_pt": "Método de ventilação pulmonar invasiva no qual um tubo é inserido na traquéia do paciente pela boca ou nariz.",
+        "desc_en": "Invasive lung ventilation method in which a tube is inserted into the patient’s trachea through the mouth or nose.",
+        "pt": "intubação",
+        "fr": "intubation"
     },
     "laboratory test": {
-        "desc": "Diagnostic test performed on samples of a person’s body, e.g. blood, urine, saliva, tissues, typically in specially equipped facilities.",
-        "fr": "examen de laboratoire",
-        "pt": "teste laboratorial"
+        "desc_pt": "Teste de diagnóstico realizado em amostras do corpo de uma pessoa, por ex. sangue, urina, saliva, tecidos, geralmente em instalações especialmente equipadas.",
+        "desc_en": "Diagnostic test performed on samples of a person’s body, e.g. blood, urine, saliva, tissues, typically in specially equipped facilities.",
+        "pt": "teste laboratorial",
+        "fr": "examen de laboratoire"
     },
     "lockdown": {
-        "desc": "Strategy adopted by a public body because of an emergency that requires people to remain in a certain location which they may not leave other than for exceptional reasons.",
-        "fr": "confinement",
-        "pt": "confinamento"
+        "desc_pt": "Estratégia adotada por um órgão público em caso de emergência que obrigue a permanência de pessoas em determinado local, do qual não podem sair a não ser por motivos excepcionais.",
+        "desc_en": "Strategy adopted by a public body because of an emergency that requires people to remain in a certain location which they may not leave other than for exceptional reasons.",
+        "pt": "confinamento",
+        "fr": "confinement"
     },
     "magnetic resonance imaging": {
-        "desc": "Medical imaging technique by which three-dimensional images of the body are obtained by exciting protons present in the water of living tissues and detecting the change in the direction of their rotational axis by means of a magnetic resonance imaging scanner.",
-        "fr": "imagerie par résonance magnétique",
-        "pt": "imagiologia por ressonância magnética"
+        "desc_pt": "Técnica de imagiologia médica pela qual são obtidas imagens tridimensionais do corpo pela excitação de prótons presentes na água de tecidos vivos e pela detecção da mudança na direção de seu eixo de rotação por meio de um scanner de ressonância magnética.",
+        "desc_en": "Medical imaging technique by which three-dimensional images of the body are obtained by exciting protons present in the water of living tissues and detecting the change in the direction of their rotational axis by means of a magnetic resonance imaging scanner.",
+        "pt": "imagiologia por ressonância magnética",
+        "fr": "imagerie par résonance magnétique"
     },
     "mask": {
-        "desc": "Commercially produced or homemade covering for nose and mouth used to reduce the spread of respiratory droplets from the wearer to others.",
-        "fr": "masque",
-        "pt": "máscara"
+        "desc_pt": "Cobertura produzida comercialmente ou caseira para nariz e boca usada para reduzir a propagação de gotículas respiratórias do usuário para outras pessoas.",
+        "desc_en": "Commercially produced or homemade covering for nose and mouth used to reduce the spread of respiratory droplets from the wearer to others.",
+        "pt": "máscara",
+        "fr": "masque"
     },
     "mechanical ventilation": {
-        "desc": "Lung ventilation provided by driving fresh air into the lungs by positive pressure and/or by pumping expiratory air out of the lungs by negative pressure.",
-        "fr": "ventilation artificielle",
-        "pt": "ventilação mecânica"
+        "desc_pt": "Ventilação pulmonar fornecida pela condução de ar fresco para os pulmões por pressão positiva e/ou pelo bombeamento de ar expiratório para fora dos pulmões por pressão negativa.",
+        "desc_en": "Lung ventilation provided by driving fresh air into the lungs by positive pressure and/or by pumping expiratory air out of the lungs by negative pressure.",
+        "pt": "ventilação mecânica",
+        "fr": "ventilation artificielle"
     },
     "mechanical ventilator": {
-        "desc": "Machine that helps patients to breathe by driving fresh air into the lungs by positive pressure and/or by pumping expiratory air out of the lungs by negative pressure, replacing some or all of the muscular effort required for lung ventilation.",
-        "fr": "ventilateur mécanique",
-        "pt": "ventilador mecânico"
+        "desc_pt": "Máquina que ajuda os pacientes a respirar, introduzindo ar fresco nos pulmões por pressão positiva e/ou bombeando o ar expiratório para fora dos pulmões por pressão negativa, substituindo parte ou todo o esforço muscular necessário para a ventilação pulmonar.",
+        "desc_en": "Machine that helps patients to breathe by driving fresh air into the lungs by positive pressure and/or by pumping expiratory air out of the lungs by negative pressure, replacing some or all of the muscular effort required for lung ventilation.",
+        "pt": "ventilador mecânico",
+        "fr": "ventilateur mécanique"
     },
     "medical care": {
-        "desc": "Administration and delivery of healthcare by professionals.",
-        "fr": "soins médicaux",
-        "pt": "cuidado médico"
+        "desc_pt": "Administração e prestação de cuidados de saúde por profissionais.",
+        "desc_en": "Administration and delivery of healthcare by professionals.",
+        "pt": "cuidado médico",
+        "fr": "soins médicaux"
     },
     "medical glove": {
-        "desc": "Personal protective equipment for the hands typically worn by healthcare professionals to protect themselves from exposure to infectious agents or other biological, chemical or physical hazards.",
-        "fr": "gant médical",
-        "pt": "luva médica"
+        "desc_pt": "Equipamento de proteção individual para as mãos normalmente usado por profissionais de saúde para se proteger da exposição a agentes infecciosos ou outros perigos biológicos, químicos ou físicos.",
+        "desc_en": "Personal protective equipment for the hands typically worn by healthcare professionals to protect themselves from exposure to infectious agents or other biological, chemical or physical hazards.",
+        "pt": "luva médica",
+        "fr": "gant médical"
     },
     "mitigation": {
-        "desc": "Strategy adopted by a public body to reduce the number of infected people in a given geographical area and limit the impact on the health system of a disease outbreak.",
-        "fr": "stratégie d'atténuation",
-        "pt": "mitigação"
+        "desc_pt": "Estratégia adotada por um órgão público para reduzir o número de pessoas infectadas em uma determinada área geográfica e limitar o impacto no sistema de saúde de um surto de doença.",
+        "desc_en": "Strategy adopted by a public body to reduce the number of infected people in a given geographical area and limit the impact on the health system of a disease outbreak.",
+        "pt": "mitigação",
+        "fr": "stratégie d'atténuation"
     },
     "mode of transmission": {
-        "desc": "Means by which an infectious agent spreads from one host to another.",
-        "fr": "mode de transmission",
-        "pt": "modo de transmissão"
+        "desc_pt": "Meio pelo qual um agente infeccioso se espalha de um hospedeiro para outro.",
+        "desc_en": "Means by which an infectious agent spreads from one host to another.",
+        "pt": "modo de transmissão",
+        "fr": "mode de transmission"
     },
     "monoclonal antibody": {
-        "desc": "Laboratory-produced molecule that targets and attacks specific antigens, thereby triggering a specific immune response.",
-        "fr": "anticorps monoclonal",
-        "pt": "anticorpo monoclonal"
+        "desc_pt": "Molécula produzida em laboratório que visa e ataca antígenos específicos, desencadeando assim uma resposta imune específica.",
+        "desc_en": "Laboratory-produced molecule that targets and attacks specific antigens, thereby triggering a specific immune response.",
+        "pt": "anticorpo monoclonal",
+        "fr": "anticorps monoclonal"
     },
     "morbidity": {
-        "desc": "Level of health and well-being of an individual.",
-        "fr": "morbidité",
-        "pt": "morbidade"
+        "desc_pt": "Nível de saúde e bem-estar de um indivíduo.",
+        "desc_en": "Level of health and well-being of an individual.",
+        "pt": "morbidade",
+        "fr": "morbidité"
     },
     "multiple organ failure": {
-        "desc": "Inability of two or more organs or organ systems to perform their function.",
-        "fr": "défaillance multiviscérale",
-        "pt": "falência multiorgânica"
+        "desc_pt": "Incapacidade de dois ou mais órgãos ou sistemas de órgãos desempenharem suas funções.",
+        "desc_en": "Inability of two or more organs or organ systems to perform their function.",
+        "pt": "falência multiorgânica",
+        "fr": "défaillance multiviscérale"
     },
     "nasopharyngeal swab test": {
-        "desc": "Method of collecting a specimen of nasal secretions for diagnostic purposes by inserting a swab into each nostril, extending it back into the nasopharynx, leaving it in place for a few seconds, and slowly withdrawing it with a rotating motion.",
-        "fr": "prélèvement nasopharyngé",
-        "pt": "esfregaço nasofaríngeo"
+        "desc_pt": "Método de coleta de uma amostra de secreção nasal para fins de diagnóstico, inserindo um swab em cada narina, estendendo-o de volta à nasofaringe, deixando-o no local por alguns segundos e retirando-o lentamente com um movimento de rotação.",
+        "desc_en": "Method of collecting a specimen of nasal secretions for diagnostic purposes by inserting a swab into each nostril, extending it back into the nasopharynx, leaving it in place for a few seconds, and slowly withdrawing it with a rotating motion.",
+        "pt": "esfregaço nasofaríngeo",
+        "fr": "prélèvement nasopharyngé"
     },
     "non-invasive ventilation": {
-        "desc": "Positive pressure ventilation provided through a person’s upper respiratory airways using an oxygen mask.",
-        "fr": "ventilation non invasive",
-        "pt": "ventilação não-invasiva"
+        "desc_pt": "Ventilação com pressão positiva fornecida através das vias respiratórias superiores de uma pessoa usando uma máscara de oxigênio.",
+        "desc_en": "Positive pressure ventilation provided through a person’s upper respiratory airways using an oxygen mask.",
+        "pt": "ventilação não-invasiva",
+        "fr": "ventilation non invasive"
     },
     "nucleotide sequence": {
-        "desc": "Sequence of the repeating units of DNA or RNA.",
-        "fr": "séquence nucléotidique",
-        "pt": "sequência nucleotídica"
+        "desc_pt": "Sequência das unidades repetidas de DNA ou RNA.",
+        "desc_en": "Sequence of the repeating units of DNA or RNA.",
+        "pt": "sequência nucleotídica",
+        "fr": "séquence nucléotidique"
     },
     "pandemic": {
-        "desc": "Epidemic disease that has spread to different countries and continents.",
-        "fr": "pandémie",
-        "pt": "pandemia"
+        "desc_pt": "Doença epidêmica que se espalhou para diferentes países e continentes.",
+        "desc_en": "Epidemic disease that has spread to different countries and continents.",
+        "pt": "pandemia",
+        "fr": "pandémie"
     },
     "pandemic preparedness": {
-        "desc": "Ability of a public body to deal with a threat to human health caused by a pandemic by ensuring that appropriate response plans are in place.",
-        "fr": "préparation à une pandémie",
-        "pt": "preparação para pandemia"
+        "desc_pt": "Capacidade de um órgão público de lidar com uma ameaça à saúde humana causada por uma pandemia, garantindo que planos de resposta apropriados sejam implementados.",
+        "desc_en": "Ability of a public body to deal with a threat to human health caused by a pandemic by ensuring that appropriate response plans are in place.",
+        "pt": "preparação para pandemia",
+        "fr": "préparation à une pandémie"
     },
     "pathogen": {
-        "desc": "Infectious agent causing a disease.",
-        "fr": "agent pathogène",
-        "pt": "patógeno"
+        "desc_pt": "Agente infeccioso causador de doença.",
+        "desc_en": "Infectious agent causing a disease.",
+        "pt": "patógeno",
+        "fr": "agent pathogène"
     },
     "personal protective equipment": {
-        "desc": "Gear worn by an individual that provides protection against one or more risks to a person’s health and safety.",
-        "fr": "équipement de protection individuelle",
-        "pt": "equipamento de proteção individual"
+        "desc_pt": "Equipamento usado por um indivíduo que fornece proteção contra um ou mais riscos à saúde e segurança de uma pessoa.",
+        "desc_en": "Gear worn by an individual that provides protection against one or more risks to a person’s health and safety.",
+        "pt": "equipamento de proteção individual",
+        "fr": "équipement de protection individuelle"
     },
     "pharmacoepidemiology": {
-        "desc": "Study of the use and effects of drugs in large numbers of people, the aim of which is to estimate the probability of positive or negative effects of a drug.",
-        "fr": "pharmaco-épidémiologie",
-        "pt": "farmacoepidemiologia"
+        "desc_pt": "Estudo do uso e efeitos de drogas em grande número de pessoas, cujo objetivo é estimar a probabilidade de efeitos positivos ou negativos de uma droga.",
+        "desc_en": "Study of the use and effects of drugs in large numbers of people, the aim of which is to estimate the probability of positive or negative effects of a drug.",
+        "pt": "farmacoepidemiologia",
+        "fr": "pharmaco-épidémiologie"
     },
     "point-of-care testing": {
-        "desc": "Method of performing a laboratory test at or near the site of patient care.",
-        "fr": "analyses de biologie délocalisée",
-        "pt": "teste laboratorial remoto"
+        "desc_pt": "Método de realização de um teste laboratorial no local de atendimento ao paciente ou próximo a ele.",
+        "desc_en": "Method of performing a laboratory test at or near the site of patient care.",
+        "pt": "teste laboratorial remoto",
+        "fr": "analyses de biologie délocalisée"
     },
     "polymerase chain reaction": {
-        "desc": "Molecular biology technique that applies high temperature and a DNA polymerase to a sample of DNA containing the target sequence, thereby producing copies of small segments of the original DNA for use in further molecular and genetic analysis.",
-        "fr": "amplification en chaîne par polymérase",
-        "pt": "reação em cadeia da polimerase"
+        "desc_pt": "Técnica de biologia molecular que aplica alta temperatura e uma DNA polimerase a uma amostra de DNA contendo a sequência alvo, produzindo assim cópias de pequenos segmentos do DNA original para uso em análises moleculares e genéticas posteriores.",
+        "desc_en": "Molecular biology technique that applies high temperature and a DNA polymerase to a sample of DNA containing the target sequence, thereby producing copies of small segments of the original DNA for use in further molecular and genetic analysis.",
+        "pt": "reação em cadeia da polimerase",
+        "fr": "amplification en chaîne par polymérase"
     },
     "portal of entry": {
-        "desc": "Anatomical site at which an infectious agent enters a host.",
-        "fr": "porte d'entrée",
-        "pt": "porta de entrada"
+        "desc_pt": "Local anatômico no qual um agente infeccioso entra em um hospedeiro.",
+        "desc_en": "Anatomical site at which an infectious agent enters a host.",
+        "pt": "porta de entrada",
+        "fr": "porte d'entrée"
     },
     "portal of exit": {
-        "desc": "Anatomical site at which an infectious agent leaves a host.",
-        "fr": "porte de sortie",
-        "pt": "porta de saída"
+        "desc_pt": "Local anatômico no qual um agente infeccioso deixa um hospedeiro.",
+        "desc_en": "Anatomical site at which an infectious agent leaves a host.",
+        "pt": "porta de saída",
+        "fr": "porte de sortie"
     },
     "pre-symptomatic transmission": {
-        "desc": "Mode of transmission of an infectious disease to another person from an infected person who has not yet developed symptoms.",
-        "fr": "transmission pré-symptomatique",
-        "pt": "transmissão pré-sintomática"
+        "desc_pt": "Modo de transmissão de uma doença infecciosa para outra pessoa de uma pessoa infectada que ainda não desenvolveu sintomas.",
+        "desc_en": "Mode of transmission of an infectious disease to another person from an infected person who has not yet developed symptoms.",
+        "pt": "transmissão pré-sintomática",
+        "fr": "transmission pré-symptomatique"
     },
     "prevalence": {
-        "desc": "All cases of a disease observed at a given point in time in a population at risk.",
-        "fr": "prévalence",
-        "pt": "prevalência"
+        "desc_pt": "Todos os casos de uma doença observados em um determinado momento em uma população em risco.",
+        "desc_en": "All cases of a disease observed at a given point in time in a population at risk.",
+        "pt": "prevalência",
+        "fr": "prévalence"
     },
     "primary case": {
-        "desc": "Case to whom the onset of the outbreak of a disease can be traced back.",
-        "fr": "patient zéro",
-        "pt": "caso primário"
+        "desc_pt": "Caso a quem o início do surto de uma doença pode ser rastreado.",
+        "desc_en": "Case to whom the onset of the outbreak of a disease can be traced back.",
+        "pt": "caso primário",
+        "fr": "patient zéro"
     },
     "probable case": {
-        "desc": "Case that is compatible with a clinical case definition and for whom there is strong epidemiological evidence of disease, e.g. the person is a contact of a confirmed case but no laboratory test confirmation is available.",
-        "fr": "cas probable",
-        "pt": "caso provável"
+        "desc_pt": "Caso que seja compatível com uma definição de caso clínico e para o qual haja forte evidência epidemiológica da doença, por ex. a pessoa é um contato de um caso confirmado, mas nenhuma confirmação de teste de laboratório está disponível.",
+        "desc_en": "Case that is compatible with a clinical case definition and for whom there is strong epidemiological evidence of disease, e.g. the person is a contact of a confirmed case but no laboratory test confirmation is available.",
+        "pt": "caso provável",
+        "fr": "cas probable"
     },
     "public health": {
-        "desc": "Science of protecting and improving the health of people through the organized efforts of society by promoting a healthy lifestyle, preventing injuries, and preventing, detecting and responding to infectious diseases.",
-        "fr": "santé publique",
-        "pt": "saúde pública"
+        "desc_pt": "Ciência de proteger e melhorar a saúde das pessoas por meio dos esforços organizados da sociedade, promovendo um estilo de vida saudável, prevenindo lesões e prevenindo, detectando e respondendo a doenças infecciosas.",
+        "desc_en": "Science of protecting and improving the health of people through the organized efforts of society by promoting a healthy lifestyle, preventing injuries, and preventing, detecting and responding to infectious diseases.",
+        "pt": "saúde pública",
+        "fr": "santé publique"
     },
     "public health surveillance": {
-        "desc": "Ongoing systematic collection, analysis, and dissemination of health data to help guide public health decision making and action.",
-        "fr": "surveillance épidémiologique",
-        "pt": "vigilância sanitária pública"
+        "desc_pt": "Coleta, análise e disseminação sistemáticas e contínuas de dados de saúde para ajudar a orientar a tomada de decisões e ações de saúde pública.",
+        "desc_en": "Ongoing systematic collection, analysis, and dissemination of health data to help guide public health decision making and action.",
+        "pt": "vigilância sanitária pública",
+        "fr": "surveillance épidémiologique"
     },
     "quarantine": {
-        "desc": "Strategy adopted by a public body to keep apart from the general population for a certain period of time all individuals suspected of having contact with a person affected by an infectious disease or coming from an affected area, until it is confirmed that they have not contracted the disease.",
-        "fr": "quarantaine",
-        "pt": "quarentena"
+        "desc_pt": "Estratégia adotada por órgão público para manter afastado da população em geral, por determinado período de tempo, todos os indivíduos suspeitos de contato com pessoa acometida por doença infectocontagiosa ou procedente de área afetada, até que se confirme que não contraíram a doença doença.",
+        "desc_en": "Strategy adopted by a public body to keep apart from the general population for a certain period of time all individuals suspected of having contact with a person affected by an infectious disease or coming from an affected area, until it is confirmed that they have not contracted the disease.",
+        "pt": "quarentena",
+        "fr": "quarantaine"
     },
     "real-time reverse transcription-polymerase chain reaction": {
-        "desc": "Reverse transcription polymerase chain reaction in which detection and quantification of amplified DNA sequences are performed after each PCR cycle.",
-        "fr": "RT-PCR en temps reel",
-        "pt": "reação em cadeia da polimerase da transcrição reversa em tempo real"
+        "desc_pt": "Reação em cadeia da polimerase com transcrição reversa na qual a detecção e quantificação de sequências de DNA amplificadas são realizadas após cada ciclo de PCR.",
+        "desc_en": "Reverse transcription polymerase chain reaction in which detection and quantification of amplified DNA sequences are performed after each PCR cycle.",
+        "pt": "reação em cadeia da polimerase da transcrição reversa em tempo real",
+        "fr": "RT-PCR en temps reel"
     },
     "reservoir": {
-        "desc": "Natural habitat in which an infectious agent normally lives, grows, and multiplies.",
-        "fr": "réservoir",
-        "pt": "reservatório"
+        "desc_pt": "Hábitat natural no qual um agente infeccioso normalmente vive, cresce e se multiplica.",
+        "desc_en": "Natural habitat in which an infectious agent normally lives, grows, and multiplies.",
+        "pt": "reservatório",
+        "fr": "réservoir"
     },
     "respiratory disease": {
-        "desc": "Disease affecting the airways and the lungs and hindering normal breathing, which may be caused by, e.g., infection, air pollution, or exposure to noxious substances.",
-        "fr": "maladie respiratoire",
-        "pt": "doença respiratória"
+        "desc_pt": "Doença que afeta as vias aéreas e os pulmões e dificulta a respiração normal, que pode ser causada por, por exemplo, infecção, poluição do ar ou exposição a substâncias nocivas.",
+        "desc_en": "Disease affecting the airways and the lungs and hindering normal breathing, which may be caused by, e.g., infection, air pollution, or exposure to noxious substances.",
+        "pt": "doença respiratória",
+        "fr": "maladie respiratoire"
     },
     "respiratory droplet": {
-        "desc": "Particle made of water, proteins, viral RNA, and non-volatile metabolites, which is >5-10 μm in diameter and is exhaled from the nose and mouth of a person whilst e.g. coughing, sneezing breathing, or talking.",
-        "fr": "gouttelette",
-        "pt": "gotícula respiratória"
+        "desc_pt": "Partícula feita de água, proteínas, RNA viral e metabólitos não voláteis, que tem > 5-10 μm de diâmetro e é exalada do nariz e da boca de uma pessoa enquanto, por exemplo, tossir, espirrar, respirar ou falar.",
+        "desc_en": "Particle made of water, proteins, viral RNA, and non-volatile metabolites, which is >5-10 μm in diameter and is exhaled from the nose and mouth of a person whilst e.g. coughing, sneezing breathing, or talking.",
+        "pt": "gotícula respiratória",
+        "fr": "gouttelette"
     },
     "respiratory hygiene": {
-        "desc": "Set of practices and behaviours adopted by an individual with the aim of preventing the spread of respiratory diseases.",
-        "fr": "hygiène respiratoire",
-        "pt": "higiene respiratória"
+        "desc_pt": "Conjunto de práticas e comportamentos adotados por um indivíduo com o objetivo de prevenir a propagação de doenças respiratórias.",
+        "desc_en": "Set of practices and behaviours adopted by an individual with the aim of preventing the spread of respiratory diseases.",
+        "pt": "higiene respiratória",
+        "fr": "hygiène respiratoire"
     },
     "respiratory protective equipment": {
-        "desc": "Personal protective equipment that protects the wearer against inhalation of hazardous substances in the air, such as dust, fumes, gases, or biological substances.",
-        "fr": "appareil de protection respiratoire",
-        "pt": "equipamento de proteção respiratória"
+        "desc_pt": "Equipamento de proteção individual que protege o usuário contra a inalação de substâncias perigosas no ar, como poeira, fumaça, gases ou substâncias biológicas.",
+        "desc_en": "Personal protective equipment that protects the wearer against inhalation of hazardous substances in the air, such as dust, fumes, gases, or biological substances.",
+        "pt": "equipamento de proteção respiratória",
+        "fr": "appareil de protection respiratoire"
     },
     "risk factor": {
-        "desc": "Characteristic, condition, or behaviour that increases the likelihood that a person will contract a disease or sustain an injury.",
-        "fr": "facteur de risque",
-        "pt": "fator de risco"
+        "desc_pt": "Característica, condição ou comportamento que aumenta a probabilidade de uma pessoa contrair uma doença ou sofrer uma lesão.",
+        "desc_en": "Characteristic, condition, or behaviour that increases the likelihood that a person will contract a disease or sustain an injury.",
+        "pt": "fator de risco",
+        "fr": "facteur de risque"
     },
     "ribonucleic acid": {
-        "desc": "Single-stranded nucleic acid whose nucleotides consist of a backbone made up by a simple sugar, called ribose, a phosphate group, and a nitrogenous base, i.e. adenine, guanine, cytosine, and uracil.",
-        "fr": "acide ribonucléique",
-        "pt": "ácido ribonucleico"
+        "desc_pt": "Ácido nucléico de fita simples cujos nucleotídeos consistem em uma estrutura composta por um açúcar simples, chamado ribose, um grupo fosfato e uma base nitrogenada, ou seja, adenina, guanina, citosina e uracila.",
+        "desc_en": "Single-stranded nucleic acid whose nucleotides consist of a backbone made up by a simple sugar, called ribose, a phosphate group, and a nitrogenous base, i.e. adenine, guanine, cytosine, and uracil.",
+        "pt": "ácido ribonucleico",
+        "fr": "acide ribonucléique"
     },
     "self-isolation": {
-        "desc": "Measure taken by an individual in order to avoid contact with other people and thus help to prevent the spread of an infectious disease.",
-        "fr": "isolement",
-        "pt": "autoisolamento"
+        "desc_pt": "Medida tomada por um indivíduo para evitar o contato com outras pessoas e, assim, ajudar a prevenir a propagação de uma doença infecciosa.",
+        "desc_en": "Measure taken by an individual in order to avoid contact with other people and thus help to prevent the spread of an infectious disease.",
+        "pt": "autoisolamento",
+        "fr": "isolement"
     },
     "sepsis": {
-        "desc": "Organ dysfunction syndrome caused by an impairment of the physiological regulatory mechanisms via which a host responds to infection.",
-        "fr": "sepsis",
-        "pt": "sepsis"
+        "desc_pt": "Síndrome de disfunção orgânica causada por um comprometimento dos mecanismos reguladores fisiológicos por meio dos quais um hospedeiro responde à infecção.",
+        "desc_en": "Organ dysfunction syndrome caused by an impairment of the physiological regulatory mechanisms via which a host responds to infection.",
+        "pt": "sepsis",
+        "fr": "sepsis"
     },
     "septic shock": {
-        "desc": "Class of sepsis in which abnormalities of circulation, i.e. persistent hypotension despite fluid resuscitation, and/or of cellular metabolism are serious enough to increase mortality substantially.",
-        "fr": "choc septique",
-        "pt": "choque séptico"
+        "desc_pt": "Classe de sepse na qual as anormalidades da circulação, ou seja, hipotensão persistente apesar da ressuscitação fluídica e/ou do metabolismo celular são graves o suficiente para aumentar substancialmente a mortalidade.",
+        "desc_en": "Class of sepsis in which abnormalities of circulation, i.e. persistent hypotension despite fluid resuscitation, and/or of cellular metabolism are serious enough to increase mortality substantially.",
+        "pt": "choque séptico",
+        "fr": "choc septique"
     },
     "serologic test": {
-        "desc": "Laboratory test aimed at detecting in the blood serum of an individual the presence of antibodies produced in response to a given disease.",
-        "fr": "test sérologique",
-        "pt": "teste serológico"
+        "desc_pt": "Exame laboratorial que visa detectar no soro sanguíneo de um indivíduo a presença de anticorpos produzidos em resposta a determinada doença.",
+        "desc_en": "Laboratory test aimed at detecting in the blood serum of an individual the presence of antibodies produced in response to a given disease.",
+        "pt": "teste serológico",
+        "fr": "test sérologique"
     },
     "severe acute respiratory syndrome": {
-        "desc": "Infectious disease caused by SARS-CoV-1.",
-        "fr": "syndrome respiratoire aigu sévère",
-        "pt": "síndrome respiratória aguda grave"
+        "desc_pt": "Doença infecciosa causada pelo SARS-CoV-1.",
+        "desc_en": "Infectious disease caused by SARS-CoV-1.",
+        "pt": "síndrome respiratória aguda grave",
+        "fr": "syndrome respiratoire aigu sévère"
     },
     "severe acute respiratory syndrome coronavirus 2": {
-        "desc": "Coronavirus that causes COVID-19.",
-        "fr": "SARS-CoV-2",
-        "pt": "coronavírus da síndrome respiratória aguda grave 2"
+        "desc_pt": "Coronavírus que causa o COVID-19.",
+        "desc_en": "Coronavirus that causes COVID-19.",
+        "pt": "coronavírus da síndrome respiratória aguda grave 2",
+        "fr": "SARS-CoV-2"
     },
     "social distancing": {
-        "desc": "Strategy adopted by a public body to reduce physical contact and proximity between individuals in a community in order to reduce the risk of transmission of an infectious disease, for example by instructing or advising individuals to maintain a certain distance from each other or by prohibiting gatherings of more than a certain number of people.",
-        "fr": "distanciation physique",
-        "pt": "distanciamento social"
+        "desc_pt": "Estratégia adotada por um órgão público para reduzir o contato físico e a proximidade entre indivíduos em uma comunidade, a fim de reduzir o risco de transmissão de uma doença infecciosa, por exemplo, instruindo ou aconselhando os indivíduos a manter certa distância uns dos outros ou proibindo reuniões de mais do que um certo número de pessoas.",
+        "desc_en": "Strategy adopted by a public body to reduce physical contact and proximity between individuals in a community in order to reduce the risk of transmission of an infectious disease, for example by instructing or advising individuals to maintain a certain distance from each other or by prohibiting gatherings of more than a certain number of people.",
+        "pt": "distanciamento social",
+        "fr": "distanciation physique"
     },
     "spike glycoprotein": {
-        "desc": "Glycoprotein complex made up of three protomers and located on the envelope of coronaviruses, which enables the virus to bind to the receptor site of the host cells.",
-        "fr": "glycoprotéine de spicule",
-        "pt": "glicoproteína de espícula"
+        "desc_pt": "Complexo glicoprotéico formado por três protômeros e localizado no envelope dos coronavírus, que permite que o vírus se ligue ao sítio receptor das células hospedeiras.",
+        "desc_en": "Glycoprotein complex made up of three protomers and located on the envelope of coronaviruses, which enables the virus to bind to the receptor site of the host cells.",
+        "pt": "glicoproteína de espícula",
+        "fr": "glycoprotéine de spicule"
     },
     "super-spreader": {
-        "desc": "Person affected by an infectious disease who transmits the disease to a significantly higher number of people than does the average infected person.",
-        "fr": "super-propagateur",
-        "pt": "supercontagiador"
+        "desc_pt": "Pessoa afetada por uma doença infecciosa que transmite a doença a um número significativamente maior de pessoas do que a média das pessoas infectadas.",
+        "desc_en": "Person affected by an infectious disease who transmits the disease to a significantly higher number of people than does the average infected person.",
+        "pt": "supercontagiador",
+        "fr": "super-propagateur"
     },
     "surgical mask": {
-        "desc": "Half-face mask, flat and rectangular in shape, made of nonwoven fabric and comprising filtration layers, with folds and elastic bands or long straight ties that can be looped behind a person’s ears or tied around a person’s head, which is used to protect the wearer from sprays, splashes, and large-particle droplets and to prevent the spread of respiratory droplets from the wearer to others.",
-        "fr": "masque chirurgical",
-        "pt": "máscara cirúrgica"
+        "desc_pt": "Máscara meia-face, plana e retangular, confeccionada em tecido não tecido e composta por camadas filtrantes, com dobras e faixas elásticas ou longas tiras retas que podem ser colocadas atrás das orelhas ou amarradas na cabeça, que são usadas para proteger a usuário de sprays, respingos e gotículas de partículas grandes e para evitar a propagação de gotículas respiratórias do usuário para outras pessoas.",
+        "desc_en": "Half-face mask, flat and rectangular in shape, made of nonwoven fabric and comprising filtration layers, with folds and elastic bands or long straight ties that can be looped behind a person’s ears or tied around a person’s head, which is used to protect the wearer from sprays, splashes, and large-particle droplets and to prevent the spread of respiratory droplets from the wearer to others.",
+        "pt": "máscara cirúrgica",
+        "fr": "masque chirurgical"
     },
     "suspected case": {
-        "desc": "Case that is compatible with a clinical case definition but there is no laboratory test confirmation or strong epidemiological evidence, e.g. the person is not a contact of a confirmed case.",
-        "fr": "cas possible",
-        "pt": "caso suspeito"
+        "desc_pt": "Caso compatível com uma definição de caso clínico, mas sem confirmação laboratorial ou forte evidência epidemiológica, por ex. a pessoa não é um contato de um caso confirmado.",
+        "desc_en": "Case that is compatible with a clinical case definition but there is no laboratory test confirmation or strong epidemiological evidence, e.g. the person is not a contact of a confirmed case.",
+        "pt": "caso suspeito",
+        "fr": "cas possible"
     },
     "swab": {
-        "desc": "Piece of soft material used by a healthcare professional for cleaning wounds or taking samples from a person’s body for testing purposes.",
-        "fr": "écouvillon",
-        "pt": "zaragatoa"
+        "desc_pt": "Pedaço de material macio usado por um profissional de saúde para limpar feridas ou colher amostras do corpo de uma pessoa para fins de teste.",
+        "desc_en": "Piece of soft material used by a healthcare professional for cleaning wounds or taking samples from a person’s body for testing purposes.",
+        "pt": "zaragatoa",
+        "fr": "écouvillon"
     },
     "swab test": {
-        "desc": "Method of collecting a sample of organic material for diagnostic purposes by inserting a swab into a person’s body orifices, e.g. nose, mouth, etc.",
-        "fr": "écouvillonnage",
-        "pt": "esfregaço"
+        "desc_pt": "Método de coleta de uma amostra de material orgânico para fins de diagnóstico, inserindo um cotonete nos orifícios do corpo de uma pessoa, por ex. nariz, boca, etc.",
+        "desc_en": "Method of collecting a sample of organic material for diagnostic purposes by inserting a swab into a person’s body orifices, e.g. nose, mouth, etc.",
+        "pt": "esfregaço",
+        "fr": "écouvillonnage"
     },
     "symptom": {
-        "desc": "Manifestation of a disease that is perceptible to only the patient (subjective symptom) or to the patient and others (objective symptom or sign).",
-        "fr": "symptôme",
-        "pt": "sintoma"
+        "desc_pt": "Manifestação de uma doença que é perceptível apenas para o paciente (sintoma subjetivo) ou para o paciente e outros (sintoma ou sinal objetivo).",
+        "desc_en": "Manifestation of a disease that is perceptible to only the patient (subjective symptom) or to the patient and others (objective symptom or sign).",
+        "pt": "sintoma",
+        "fr": "symptôme"
     },
     "symptomatic transmission": {
-        "desc": "Mode of transmission to another person of an infectious disease from an infected person who has developed symptoms.",
-        "fr": "transmission symptomatique",
-        "pt": "transmissão sintomática"
+        "desc_pt": "Modo de transmissão para outra pessoa de uma doença infecciosa de uma pessoa infectada que desenvolveu sintomas.",
+        "desc_en": "Mode of transmission to another person of an infectious disease from an infected person who has developed symptoms.",
+        "pt": "transmissão sintomática",
+        "fr": "transmission symptomatique"
     },
     "systemic inflammatory response syndrome": {
-        "desc": "Condition characterized by a disproportionate inflammatory response to a variety of severe clinical phenomena, including relating to body temperature (>38°C or <36°C), heart rate (>90 beats per minute), respiratory rate (>20 breaths per minute or PaCO2 <32 mmHg), and white blood cell count (>12,000/cu mm, <4,000/cu mm, or >10% immature band forms).",
-        "fr": "syndrome de réponse inflammatoire systémique",
-        "pt": "síndrome da resposta inflamatória sistémica"
+        "desc_pt": "Condição caracterizada por uma resposta inflamatória desproporcional a uma variedade de fenômenos clínicos graves, incluindo temperatura corporal (>38°C ou <36°C), frequência cardíaca (>90 batimentos por minuto), frequência respiratória (>20 respirações por minuto ou PaCO2 <32 mmHg) e contagem de leucócitos (>12.000/cu mm, <4.000/cu mm ou >10% de formas de bandas imaturas).",
+        "desc_en": "Condition characterized by a disproportionate inflammatory response to a variety of severe clinical phenomena, including relating to body temperature (>38°C or <36°C), heart rate (>90 beats per minute), respiratory rate (>20 breaths per minute or PaCO2 <32 mmHg), and white blood cell count (>12,000/cu mm, <4,000/cu mm, or >10% immature band forms).",
+        "pt": "síndrome da resposta inflamatória sistémica",
+        "fr": "syndrome de réponse inflammatoire systémique"
     },
     "telehealth": {
-        "desc": "Remote provision of clinical and non-clinical services using information and communication technologies, such as diagnosis and treatment of diseases and   injuries, research and evaluation, and education of health professionals.",
-        "fr": "télésanté",
-        "pt": "telessaúde"
+        "desc_pt": "Prestação remota de serviços clínicos e não clínicos usando tecnologias de informação e comunicação, como diagnóstico e tratamento de doenças e lesões, pesquisa e avaliação e educação de profissionais de saúde.",
+        "desc_en": "Remote provision of clinical and non-clinical services using information and communication technologies, such as diagnosis and treatment of diseases and   injuries, research and evaluation, and education of health professionals.",
+        "pt": "telessaúde",
+        "fr": "télésanté"
     },
     "thrombosis": {
-        "desc": "Vascular disease involving the formation of thrombi inside a blood vessel, i.e. an artery or a vein, obstructing circulation.",
-        "fr": "thrombose",
-        "pt": "trombose"
+        "desc_pt": "Doença vascular envolvendo a formação de trombos dentro de um vaso sanguíneo, ou seja, uma artéria ou uma veia, obstruindo a circulação.",
+        "desc_en": "Vascular disease involving the formation of thrombi inside a blood vessel, i.e. an artery or a vein, obstructing circulation.",
+        "pt": "trombose",
+        "fr": "thrombose"
     },
     "triage": {
-        "desc": "Process of sorting patients or casualties to determine priority of need and proper place of treatment.",
-        "fr": "triage",
-        "pt": "triagem"
+        "desc_pt": "Processo de triagem de pacientes ou vítimas para determinar a prioridade da necessidade e o local adequado de tratamento.",
+        "desc_en": "Process of sorting patients or casualties to determine priority of need and proper place of treatment.",
+        "pt": "triagem",
+        "fr": "triage"
     },
     "urgent care": {
-        "desc": "Medical care provided for illnesses or injuries that require prompt attention but are typically not so serious as to require the services of an emergency room.",
-        "fr": "soins non programmés",
-        "pt": "pronto atendimento"
+        "desc_pt": "Cuidados médicos prestados para doenças ou lesões que requerem atenção imediata, mas normalmente não são tão graves a ponto de exigir os serviços de uma sala de emergência.",
+        "desc_en": "Medical care provided for illnesses or injuries that require prompt attention but are typically not so serious as to require the services of an emergency room.",
+        "pt": "pronto atendimento",
+        "fr": "soins non programmés"
     },
     "urgent care facility": {
-        "desc": "Medical care",
-        "fr": "centre de soins non programmés",
-        "pt": "unidade de pronto atendimento"
+        "desc_pt": "Cuidados médicos",
+        "desc_en": "Medical care",
+        "pt": "unidade de pronto atendimento",
+        "fr": "centre de soins non programmés"
     },
     "vaccine": {
-        "desc": "Therapeutic preparation containing an antigen, i.e. a virus or a segment of a virus or a toxin generated by bacteria, that may have been attenuated, inactivated or killed and which is able to trigger the immune response and generate immunity in an organism.",
-        "fr": "vaccin",
-        "pt": "vacina"
+        "desc_pt": "Preparação terapêutica contendo um antígeno, ou seja, um vírus ou um segmento de um vírus ou uma toxina gerada por bactérias, que pode ter sido atenuado, inativado ou morto e que é capaz de desencadear a resposta imune e gerar imunidade em um organismo.",
+        "desc_en": "Therapeutic preparation containing an antigen, i.e. a virus or a segment of a virus or a toxin generated by bacteria, that may have been attenuated, inactivated or killed and which is able to trigger the immune response and generate immunity in an organism.",
+        "pt": "vacina",
+        "fr": "vaccin"
     },
     "vector": {
-        "desc": "Living organism that indirectly transmits an infectious disease to a susceptible host either by carrying the infectious agent on its body (mechanical vector) or by providing an environment in which the infectious agent can reproduce and survive (biological vector).",
-        "fr": "vecteur",
-        "pt": "vetor"
+        "desc_pt": "Organismo vivo que transmite indiretamente uma doença infecciosa a um hospedeiro suscetível, seja por carregar o agente infeccioso em seu corpo (vetor mecânico) ou por fornecer um ambiente no qual o agente infeccioso possa se reproduzir e sobreviver (vetor biológico).",
+        "desc_en": "Living organism that indirectly transmits an infectious disease to a susceptible host either by carrying the infectious agent on its body (mechanical vector) or by providing an environment in which the infectious agent can reproduce and survive (biological vector).",
+        "pt": "vetor",
+        "fr": "vecteur"
     },
     "viral load": {
-        "desc": "Amount of viral particles present in a millilitre of a fluid sample, e.g. blood.",
-        "fr": "charge virale",
-        "pt": "carga viral"
+        "desc_pt": "Quantidade de partículas virais presentes em um mililitro de uma amostra de fluido, por ex. sangue.",
+        "desc_en": "Amount of viral particles present in a millilitre of a fluid sample, e.g. blood.",
+        "pt": "carga viral",
+        "fr": "charge virale"
     },
     "viral vector": {
-        "desc": "Virus that has been genetically modified for use in gene therapy.",
-        "fr": "vecteur viral",
-        "pt": "vetor viral"
+        "desc_pt": "Vírus geneticamente modificado para uso em terapia genética.",
+        "desc_en": "Virus that has been genetically modified for use in gene therapy.",
+        "pt": "vetor viral",
+        "fr": "vecteur viral"
     },
     "virus": {
-        "desc": "Microscopic infectious agent that can multiply only in living cells of animals, plants, or bacteria, consisting of genetic material, either DNA or RNA, housed inside a capsid.",
-        "fr": "virus",
-        "pt": "vírus"
+        "desc_pt": "Agente infeccioso microscópico que pode se multiplicar apenas em células vivas de animais, plantas ou bactérias, consistindo de material genético, seja DNA ou RNA, alojado dentro de um capsídeo.",
+        "desc_en": "Microscopic infectious agent that can multiply only in living cells of animals, plants, or bacteria, consisting of genetic material, either DNA or RNA, housed inside a capsid.",
+        "pt": "vírus",
+        "fr": "virus"
     },
     "zoonosis": {
-        "desc": "Infectious disease that is transmissible under natural conditions from vertebrate animals to humans.",
-        "fr": "zoonose",
-        "pt": "zoonose"
+        "desc_pt": "Doença infecciosa transmissível em condições naturais de animais vertebrados para humanos.",
+        "desc_en": "Infectious disease that is transmissible under natural conditions from vertebrate animals to humans.",
+        "pt": "zoonose",
+        "fr": "zoonose"
     }
 }
