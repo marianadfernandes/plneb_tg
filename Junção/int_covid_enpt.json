@@ -1,0 +1,163 @@
+{
+    "aerossol": {
+        "desc_pt": "Suspensão de partículas sólidas ou líquidas em um gás.",
+        "en": "aerosol",
+        "desc_en": "Suspension of solid or liquid particles in a gas.",
+        "es": "aerosol",
+        "fr": "aérosol"
+    },
+    "anosmia": {
+        "desc_pt": "Distúrbio caracterizado pela perda do olfato.",
+        "en": "anosmia",
+        "desc_en": "Disorder characterized by loss of smell.",
+        "es": "anosmia",
+        "fr": "anosmie"
+    },
+    "anticorpo": {
+        "desc_pt": "Proteína produzida por linfócitos B que podem reconhecer e neutralizar um antígeno.",
+        "en": "antibody",
+        "desc_en": "Protein produced by B lymphocytes that can recognize and neutralize an antigen.",
+        "es": "anticuerpo",
+        "fr": "anticorps"
+    },
+    "caso": {
+        "desc_pt": "Pessoa que é diagnosticada como portadora de uma doença.",
+        "en": "case",
+        "desc_en": "Person who is diagnosed as having a disease.",
+        "es": "caso",
+        "fr": "cas"
+    },
+    "doença": {
+        "desc_pt": "Condição anormal que tem um impacto negativo na estrutura ou função de todo ou parte de um organismo, geralmente associada a certos sinais e sintomas.",
+        "en": "illness, sickness, disorder, disease",
+        "desc_en": "Abnormal condition that has a negative impact on the structure or function of all or part of an organism, generally associated with certain signs and symptoms.",
+        "es": "enfermedad",
+        "fr": "maladie"
+    },
+    "surto": {
+        "desc_pt": "Aglomerado de uma doença com uma causa comum e um número total de casos inferior ao de uma epidemia.",
+        "en": "discharge",
+        "desc_en": "Cluster of a disease with a common cause and an overall number of cases that is inferior to that of an epidemic.",
+        "es": "descarga",
+        "fr": "flambée épidémique"
+    },
+    "epidemia": {
+        "desc_pt": "Doença para a qual há muito mais casos do que seria esperado em um determinado momento em uma determinada população e que pode ser atribuída à mesma causa.",
+        "en": "epidemic (disease)",
+        "desc_en": "Disease for which there are many more cases than would be expected at a given time in a given population and which can be ascribed to the same cause.",
+        "es": "epidemia",
+        "fr": "épidémie"
+    },
+    "epidemiologia": {
+        "desc_pt": "Estudo científico da ocorrência de uma doença ou outro evento relacionado à saúde em populações específicas e sua aplicação no controle de problemas de saúde.",
+        "en": "epidemiology",
+        "desc_en": "Scientific study of the occurrence of a disease or other health-related event in specified populations, and its application to the control of health problems.",
+        "es": "epidemiología",
+        "fr": "épidémiologie"
+    },
+    "febre": {
+        "desc_pt": "Mecanismo de resposta imune inata que aumenta a temperatura corporal de uma pessoa acima do nível normal.",
+        "en": "fever",
+        "desc_en": "Innate immune response mechanism that increases a person’s body temperature above the normal level.",
+        "es": "fiebre",
+        "fr": "fièvre"
+    },
+    "gene": {
+        "desc_pt": "Sequência de DNA que carrega as informações necessárias para fazer uma molécula específica, geralmente uma proteína.",
+        "en": "gene, factor",
+        "desc_en": "Sequence of DNA that carries the required information for making a specific molecule, typically a protein.",
+        "es": "gen",
+        "fr": "gène"
+    },
+    "genoma": {
+        "desc_pt": "Conjunto completo de DNA de um organismo vivo, incluindo todos os seus genes.",
+        "en": "genom(e)",
+        "desc_en": "Complete set of DNA of a living organism, including all of its genes.",
+        "es": "genoma",
+        "fr": "génome"
+    },
+    "incidência": {
+        "desc_pt": "Novos casos de uma doença surgidos em um determinado período em uma população de risco.",
+        "en": "incidence",
+        "desc_en": "New cases of a disease arising in a given period in a population at risk.",
+        "es": "incidencia",
+        "fr": "incidence"
+    },
+    "período de incubação": {
+        "desc_pt": "Intervalo de tempo entre a exposição a um agente infeccioso e o aparecimento dos sintomas de uma doença.",
+        "en": "incubation period",
+        "desc_en": "Lapse of time between the exposure to an infectious agent and the onset of the symptoms of a disease.",
+        "es": "período de incubación",
+        "fr": "période d'incubation"
+    },
+    "inflamação": {
+        "desc_pt": "Série de processos de imunidade inata iniciados pelo corpo em resposta a uma lesão.",
+        "en": "inflammation",
+        "desc_en": "Series of innate immunity processes initiated by the body in response to an injury.",
+        "es": "inflamación",
+        "fr": "inflammation"
+    },
+    "unidade de cuidados intensivos": {
+        "desc_pt": "Instalação hospitalar que fornece cuidados intensivos e suporte de vida para pacientes gravemente doentes ou feridos.",
+        "en": "intensive care unit",
+        "desc_en": "Hospital facility that provides critical care and life support for acutely ill or injured patients.",
+        "es": "unidad de cuidados intensivos (UVI)",
+        "fr": "unité de soins intensifs"
+    },
+    "intubação": {
+        "desc_pt": "Método de ventilação pulmonar invasiva no qual um tubo é inserido na traquéia do paciente pela boca ou nariz.",
+        "en": "intubation",
+        "desc_en": "Invasive lung ventilation method in which a tube is inserted into the patient’s trachea through the mouth or nose.",
+        "es": "intubación , entubación",
+        "fr": "intubation"
+    },
+    "modo de transmissão": {
+        "desc_pt": "Meio pelo qual um agente infeccioso se espalha de um hospedeiro para outro.",
+        "en": "mode of transmission",
+        "desc_en": "Means by which an infectious agent spreads from one host to another.",
+        "es": "modo de transmisión",
+        "fr": "mode de transmission"
+    },
+    "pandemia": {
+        "desc_pt": "Doença epidêmica que se espalhou para diferentes países e continentes.",
+        "en": "pandemia, pandemic",
+        "desc_en": "Epidemic disease that has spread to different countries and continents.",
+        "es": "pandemia",
+        "fr": "pandémie"
+    },
+    "prevalência": {
+        "desc_pt": "Todos os casos de uma doença observados em um determinado momento em uma população em risco.",
+        "en": "prevalence",
+        "desc_en": "All cases of a disease observed at a given point in time in a population at risk.",
+        "es": "prevalencia",
+        "fr": "prévalence"
+    },
+    "sepsis": {
+        "desc_pt": "Síndrome de disfunção orgânica causada por um comprometimento dos mecanismos reguladores fisiológicos por meio dos quais um hospedeiro responde à infecção.",
+        "en": "sepsis, septicemia",
+        "desc_en": "Organ dysfunction syndrome caused by an impairment of the physiological regulatory mechanisms via which a host responds to infection.",
+        "es": "sepsis",
+        "fr": "sepsis"
+    },
+    "esfregaço": {
+        "desc_pt": "Método de coleta de uma amostra de material orgânico para fins de diagnóstico, inserindo um cotonete nos orifícios do corpo de uma pessoa, por ex. nariz, boca, etc.",
+        "en": "swab, smear",
+        "desc_en": "Method of collecting a sample of organic material for diagnostic purposes by inserting a swab into a person’s body orifices, e.g. nose, mouth, etc.",
+        "es": "frotis",
+        "fr": "écouvillonnage"
+    },
+    "sintoma": {
+        "desc_pt": "Manifestação de uma doença que é perceptível apenas para o paciente (sintoma subjetivo) ou para o paciente e outros (sintoma ou sinal objetivo).",
+        "en": "symptom, sign",
+        "desc_en": "Manifestation of a disease that is perceptible to only the patient (subjective symptom) or to the patient and others (objective symptom or sign).",
+        "es": "síntoma",
+        "fr": "symptôme"
+    },
+    "vírus": {
+        "desc_pt": "Agente infeccioso microscópico que pode se multiplicar apenas em células vivas de animais, plantas ou bactérias, consistindo de material genético, seja DNA ou RNA, alojado dentro de um capsídeo.",
+        "en": "virus",
+        "desc_en": "Microscopic infectious agent that can multiply only in living cells of animals, plants, or bacteria, consisting of genetic material, either DNA or RNA, housed inside a capsid.",
+        "es": "virus",
+        "fr": "virus"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "aerossol": {
+        "desc_pt": "Suspensão de partículas sólidas ou líquidas em um gás.",
+        "exp pop": "solução de um produto destinado à inalação",
+        "en": "aerossol",
+        "desc_en": "Suspension of solid or liquid particles in a gas.",
+        "es": "aerosol",
+        "fr": "aérosol"
+    },
+    "anosmia": {
+        "desc_pt": "Distúrbio caracterizado pela perda do olfato.",
+        "exp pop": "falta de cheiro",
+        "en": "anosmia",
+        "desc_en": "Disorder characterized by loss of smell.",
+        "es": "anosmia",
+        "fr": "anosmie"
+    },
+    "anticorpo": {
+        "desc_pt": "Proteína produzida por linfócitos B que podem reconhecer e neutralizar um antígeno.",
+        "exp pop": "anti-soma, anti-substância, corpo imune, antítropo",
+        "en": "anticorpo",
+        "desc_en": "Protein produced by B lymphocytes that can recognize and neutralize an antigen.",
+        "es": "anticuerpo",
+        "fr": "anticorps"
+    },
+    "epidemia": {
+        "desc_pt": "Doença para a qual há muito mais casos do que seria esperado em um determinado momento em uma determinada população e que pode ser atribuída à mesma causa.",
+        "exp pop": "epidemia",
+        "en": "epidemia",
+        "desc_en": "Disease for which there are many more cases than would be expected at a given time in a given population and which can be ascribed to the same cause.",
+        "es": "epidemia",
+        "fr": "épidémie"
+    },
+    "incidência": {
+        "desc_pt": "Novos casos de uma doença surgidos em um determinado período em uma população de risco.",
+        "exp pop": "incidência",
+        "en": "incidência",
+        "desc_en": "New cases of a disease arising in a given period in a population at risk.",
+        "es": "incidencia",
+        "fr": "incidence"
+    },
+    "inflamação": {
+        "desc_pt": "Série de processos de imunidade inata iniciados pelo corpo em resposta a uma lesão.",
+        "exp pop": "inflamação",
+        "en": "inflamação",
+        "desc_en": "Series of innate immunity processes initiated by the body in response to an injury.",
+        "es": "inflamación",
+        "fr": "inflammation"
+    },
+    "intubação": {
+        "desc_pt": "Método de ventilação pulmonar invasiva no qual um tubo é inserido na traquéia do paciente pela boca ou nariz.",
+        "exp pop": "introdução de um tubo num órgão oco",
+        "en": "intubação",
+        "desc_en": "Invasive lung ventilation method in which a tube is inserted into the patient’s trachea through the mouth or nose.",
+        "es": "intubación , entubación",
+        "fr": "intubation"
+    },
+    "sintoma": {
+        "desc_pt": "Manifestação de uma doença que é perceptível apenas para o paciente (sintoma subjetivo) ou para o paciente e outros (sintoma ou sinal objetivo).",
+        "exp pop": "sinal",
+        "en": "sintoma",
+        "desc_en": "Manifestation of a disease that is perceptible to only the patient (subjective symptom) or to the patient and others (objective symptom or sign).",
+        "es": "síntoma",
+        "fr": "symptôme"
+    }
+}

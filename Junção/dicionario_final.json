@@ -1,0 +1,4029 @@
+{
+    "abcesso": {
+        "exp pop": "abcesso, tumor",
+        "en": "abscess",
+        "es": "absceso"
+    },
+    "abdominal": {
+        "exp pop": "ventral",
+        "en": "abdominal",
+        "es": "abdominal"
+    },
+    "abdómen": {
+        "exp pop": "barriga, ventre",
+        "en": "belly, abdomen",
+        "es": "abdomen"
+    },
+    "aborto": {
+        "exp pop": "abortamento, desmancho",
+        "en": "abortion",
+        "es": "aborto"
+    },
+    "abrupto": {
+        "exp pop": "repentino, brusco",
+        "en": "sudden(ly)",
+        "es": "abrupto"
+    },
+    "absorção": {
+        "exp pop": "absorvimento, absorvência",
+        "en": "absorption",
+        "es": "absorción"
+    },
+    "acomodação": {
+        "exp pop": "adaptação",
+        "en": "accommodation",
+        "es": "acomodación"
+    },
+    "adenite": {
+        "exp pop": "caroço inflamado, inflamação das glândulas",
+        "en": "adenitis",
+        "es": "adenitis"
+    },
+    "adenoma": {
+        "exp pop": "tumor benigno",
+        "en": "adenoma",
+        "es": "adenoma"
+    },
+    "adequado": {
+        "exp pop": "apropriado, próprio",
+        "en": "appropriate, suitable",
+        "es": "adecuado"
+    },
+    "aderência": {
+        "exp pop": "adesão, união viciosa das superfícies orgânicas",
+        "en": "synechia, adhesion",
+        "es": "adherencia"
+    },
+    "adolescente": {
+        "exp pop": "jovem",
+        "en": "juvenile",
+        "es": "adolescente"
+    },
+    "adstringente": {
+        "exp pop": "que aperta os tecidos, secura da pele",
+        "en": "astringent",
+        "es": "astringente"
+    },
+    "adulto": {
+        "exp pop": "adulto",
+        "en": "adult",
+        "es": "adulto"
+    },
+    "aerossol": {
+        "desc_pt": "Suspensão de partículas sólidas ou líquidas em um gás.",
+        "exp pop": "solução de um produto destinado à inalação",
+        "desc_en": "Suspension of solid or liquid particles in a gas.",
+        "en": "aerosol",
+        "es": "aerosol",
+        "fr": "aérosol"
+    },
+    "aeróbio": {
+        "exp pop": "que vive no ar",
+        "en": "aerobic",
+        "es": "aerobio, aeróbico"
+    },
+    "agente": {
+        "exp pop": "substância activa",
+        "en": "substance",
+        "es": "agente"
+    },
+    "agente infeccioso": {
+        "desc_pt": "Agente biológico que pode ou não causar uma doença infecciosa.",
+        "en": "infectious agent",
+        "desc_en": "Biological agent that may or may not cause an infectious disease.",
+        "fr": "agent infectieux"
+    },
+    "ageusia": {
+        "desc_pt": "Distúrbio caracterizado pela perda do paladar.",
+        "en": "ageusia",
+        "desc_en": "Disorder characterized by loss of taste.",
+        "fr": "agueusie"
+    },
+    "agitação": {
+        "exp pop": "desassossego, inquietação, excitação",
+        "en": "agitation",
+        "es": "agitación"
+    },
+    "agonista": {
+        "exp pop": "músculo que participa com outro num movimento; medicamento que estimula células de maneira natural",
+        "en": "agonist",
+        "es": "agonista"
+    },
+    "agranulocitose": {
+        "exp pop": "inexistência de glóbulos no sangue, doença de Pfeiffer",
+        "en": "agranulocytosis",
+        "es": "agranulocitosis"
+    },
+    "agudo": {
+        "exp pop": "agudo",
+        "en": "acute",
+        "es": "agudo"
+    },
+    "albumina": {
+        "exp pop": "proteína principal no sangue",
+        "en": "albumin",
+        "es": "albúmina"
+    },
+    "alcoolismo": {
+        "exp pop": "alcoolismo",
+        "en": "alcoholism",
+        "es": "alcoholismo"
+    },
+    "alucinação": {
+        "exp pop": "alucinação",
+        "en": "hallucination, vision",
+        "es": "alucinación"
+    },
+    "alveolite": {
+        "exp pop": "lesão dos alvéolos pulmonares",
+        "en": "alveolitis",
+        "es": "alveolitis"
+    },
+    "ambliopia": {
+        "exp pop": "enfraquecimento da vista",
+        "en": "amblyopia",
+        "es": "ambliopía"
+    },
+    "ambulante": {
+        "exp pop": "ambulatório",
+        "en": "ambulant, ambulatory",
+        "es": "ambulante, ambulatorio"
+    },
+    "amenorreia": {
+        "exp pop": "ausência de períodos menstruais",
+        "en": "amenorrhea",
+        "es": "amenorrea"
+    },
+    "ampola": {
+        "exp pop": "bolha, pequeno tumor",
+        "en": "ampul",
+        "es": "ampolla"
+    },
+    "anaeróbio": {
+        "exp pop": "que vive sem ar",
+        "en": "anaerobic, anaerobian",
+        "es": "anaeróbico"
+    },
+    "analgésico": {
+        "exp pop": "que alivia a dor",
+        "en": "analgetic",
+        "es": "analgésico"
+    },
+    "anastomose": {
+        "exp pop": "comunicação natural ou artificial entre dois vasos ou nervos",
+        "en": "anastomosis",
+        "es": "anastomosis"
+    },
+    "anatómico": {
+        "exp pop": "anatómico",
+        "en": "anatomic",
+        "es": "anatómico"
+    },
+    "anestesia": {
+        "exp pop": "insensibilidade à dor",
+        "en": "numbness",
+        "es": "anestesia"
+    },
+    "anestésico": {
+        "exp pop": "que tira a sensibilidade",
+        "en": "anesthetic",
+        "es": "anestésico"
+    },
+    "aneurisma": {
+        "exp pop": "protuberância num ponto fraco de uma artéria",
+        "en": "blood tumor, aneurysm",
+        "es": "aneurisma"
+    },
+    "anexite": {
+        "exp pop": "inflamações dos ovários e da trompa",
+        "en": "adnexitis",
+        "es": "anexitis"
+    },
+    "angina de peito": {
+        "exp pop": "angina de peito, esternalgia",
+        "en": "angina pectoris",
+        "es": "angina de pecho"
+    },
+    "angioedema": {
+        "exp pop": "inchaço sem inflamação",
+        "en": "angioedema",
+        "es": "angioedema"
+    },
+    "anisocoria": {
+        "exp pop": "desigualdade do diâmetro das pupilas",
+        "en": "anisocoria",
+        "es": "anisocoria"
+    },
+    "anomalia": {
+        "exp pop": "irregularidade",
+        "en": "anomaly",
+        "es": "anomalía"
+    },
+    "anorexia": {
+        "exp pop": "inapetência, falta de apetite",
+        "en": "anorexia",
+        "es": "anorexia"
+    },
+    "anosmia": {
+        "desc_pt": "Distúrbio caracterizado pela perda do olfato.",
+        "exp pop": "falta de cheiro",
+        "desc_en": "Disorder characterized by loss of smell.",
+        "en": "anosmia",
+        "es": "anosmia",
+        "fr": "anosmie"
+    },
+    "anovulatório": {
+        "exp pop": "ciclo sem óvulo",
+        "en": "anovulatory",
+        "es": "anovulatorio"
+    },
+    "ansiedade": {
+        "exp pop": "angústia",
+        "en": "anxiety",
+        "es": "ansiedad"
+    },
+    "antagonista": {
+        "exp pop": "músculo que produz movimento contrário ao de outro músculo; substância que anula a acção de outra",
+        "en": "antagonist",
+        "es": "antagonista"
+    },
+    "antibiograma": {
+        "exp pop": "estudo da sensibilidade de um micróbio a vários antibióticos",
+        "en": "antibiogram",
+        "es": "antibiograma"
+    },
+    "antibioterapia": {
+        "exp pop": "tratamento com antibióticos",
+        "en": "antibiotic therapy",
+        "es": "antibioterapia"
+    },
+    "antibiótico": {
+        "exp pop": "fármaco para tratar infecções",
+        "en": "antibiotic",
+        "es": "antibiótico"
+    },
+    "anticolinérgico": {
+        "exp pop": "substância que bloqueia os nervos parassimpáticos",
+        "en": "anticholinergic",
+        "es": "anticolinérgico"
+    },
+    "anticorpo": {
+        "desc_pt": "Proteína produzida por linfócitos B que podem reconhecer e neutralizar um antígeno.",
+        "exp pop": "anti-soma, anti-substância, corpo imune, antítropo",
+        "desc_en": "Protein produced by B lymphocytes that can recognize and neutralize an antigen.",
+        "en": "antibody",
+        "es": "anticuerpo",
+        "fr": "anticorps"
+    },
+    "anticorpo monoclonal": {
+        "desc_pt": "Molécula produzida em laboratório que visa e ataca antígenos específicos, desencadeando assim uma resposta imune específica.",
+        "en": "monoclonal antibody",
+        "desc_en": "Laboratory-produced molecule that targets and attacks specific antigens, thereby triggering a specific immune response.",
+        "fr": "anticorps monoclonal"
+    },
+    "antiemético": {
+        "exp pop": "contra os vómitos",
+        "en": "antiemetic",
+        "es": "antiemético"
+    },
+    "antiflogístico": {
+        "exp pop": "que combate a inflamação, anti-inflamatório",
+        "en": "anti-inflamnatory (non-steroidal)",
+        "es": "fármaco antiinflamatorio (no esteroide (AINE))"
+    },
+    "antídoto": {
+        "exp pop": "contraveneno",
+        "en": "antidote",
+        "es": "antídoto"
+    },
+    "antígeno": {
+        "desc_pt": "Partícula, geralmente uma proteína, que o sistema imunológico reconhece como estranha.",
+        "en": "antigen",
+        "desc_en": "Particle, typically a protein, which the immune system recognizes as foreign.",
+        "fr": "antigène"
+    },
+    "análise": {
+        "exp pop": "decomposição",
+        "en": "analysis",
+        "es": "análisis"
+    },
+    "anúria": {
+        "exp pop": "anurese, que não urina",
+        "en": "anuria",
+        "es": "anuria"
+    },
+    "apatia": {
+        "exp pop": "indiferença, aversão",
+        "en": "apathy",
+        "es": "apatía"
+    },
+    "aplasia": {
+        "exp pop": "desenvolvimento defeituoso",
+        "en": "aplasia",
+        "es": "aplasia"
+    },
+    "apneia": {
+        "exp pop": "apneustia; ausência de respiração",
+        "en": "apnea",
+        "es": "apnea"
+    },
+    "arritmia": {
+        "exp pop": "falata de ritmo regular, pulsação irregular",
+        "en": "ar(r)hythmia",
+        "es": "arritmia"
+    },
+    "arterial": {
+        "exp pop": "relativo às artérias",
+        "en": "arterial, arterious",
+        "es": "arterial"
+    },
+    "arteriosclerose": {
+        "exp pop": "esclerose das artérias",
+        "en": "arteriosclerosis",
+        "es": "arteriosclerosis"
+    },
+    "artropatia": {
+        "exp pop": "doença das articulações",
+        "en": "joint disease, arthropathy",
+        "es": "artropatía"
+    },
+    "artrose": {
+        "exp pop": "destruição das articulações",
+        "en": "arthrosis",
+        "es": "artrosis"
+    },
+    "ascite": {
+        "exp pop": "barriga de água, hidropisia da cavidade abdominal, hidroperitoneu",
+        "en": "ascites",
+        "es": "ascitis"
+    },
+    "assintomático": {
+        "exp pop": "sem sintomas",
+        "en": "asymptomatic",
+        "es": "asintomático"
+    },
+    "asséptico": {
+        "exp pop": "esterilizado, sem germes",
+        "en": "aseptic",
+        "es": "aséptico"
+    },
+    "astenia": {
+        "exp pop": "fraqueza, cansaço físico intenso",
+        "en": "asthenia",
+        "es": "astenia"
+    },
+    "atetose": {
+        "exp pop": "movimentos descontrolados, atesia, doença de Hammond",
+        "en": "athetosis",
+        "es": "atetosis"
+    },
+    "atonia": {
+        "exp pop": "ausência o deficiência da tensão de um tecido ou órgão",
+        "en": "atony",
+        "es": "atonía"
+    },
+    "atrofia": {
+        "exp pop": "que não desenvolveu",
+        "en": "atrophy",
+        "es": "atrofia"
+    },
+    "atípico": {
+        "exp pop": "irregular, anormal",
+        "en": "atypical",
+        "es": "atípico"
+    },
+    "aura": {
+        "exp pop": "sensação no início de um acesso de doença",
+        "en": "aura",
+        "es": "aura"
+    },
+    "auscultação": {
+        "exp pop": "auscultar (os ruídos produzidos no interior de um organismo) com o estetoscópio",
+        "en": "auscultation",
+        "es": "auscultación"
+    },
+    "autoisolamento": {
+        "desc_pt": "Medida tomada por um indivíduo para evitar o contato com outras pessoas e, assim, ajudar a prevenir a propagação de uma doença infecciosa.",
+        "en": "self-isolation",
+        "desc_en": "Measure taken by an individual in order to avoid contact with other people and thus help to prevent the spread of an infectious disease.",
+        "fr": "isolement"
+    },
+    "avaliação": {
+        "exp pop": "avaliação",
+        "en": "examination, assessment",
+        "es": "evaluación"
+    },
+    "azotemia": {
+        "exp pop": "retenção no sangue de produtos azotados",
+        "en": "azotemia",
+        "es": "azotemia"
+    },
+    "balanite": {
+        "exp pop": "inflamação da glande do pénis",
+        "en": "balanitis",
+        "es": "balanitis"
+    },
+    "bata hospitalar": {
+        "desc_pt": "Vestuário de equipamento de proteção individual usado em ambientes de saúde para reduzir o risco de exposição a agentes infecciosos.",
+        "en": "hospital gown",
+        "desc_en": "Garment of personal protective equipment worn in healthcare settings to reduce the risk of exposure to infectious agents.",
+        "fr": "casaque"
+    },
+    "benigno": {
+        "exp pop": "de pouca gravidade",
+        "en": "benign(ant)",
+        "es": "benigno"
+    },
+    "bilateral": {
+        "exp pop": "com dois lados, relativo a dois lados",
+        "en": "bilateral",
+        "es": "bilateral"
+    },
+    "biliar": {
+        "exp pop": "relativo à vesícula biliar e ao fígado",
+        "en": "biliary",
+        "es": "biliar"
+    },
+    "bioestatística": {
+        "desc_pt": "Aplicação de métodos e ferramentas estatísticas nas áreas de ciências biológicas e medicina, incluindo desenho de estudo, coleta e análise de dados e interpretação de descobertas.",
+        "en": "biostatistics",
+        "desc_en": "Application of statistical methods and tools to the fields of biological sciences and medicine, including study design, data collection and analysis, and interpretation of findings.",
+        "fr": "biostatistique"
+    },
+    "blefarite": {
+        "exp pop": "inflamação das pálpebras",
+        "en": "blepharitis",
+        "es": "blefaritis"
+    },
+    "bloqueio": {
+        "exp pop": "bloqueio",
+        "en": "blocking, blockage",
+        "es": "bloqueo"
+    },
+    "broncopneumonia": {
+        "exp pop": "pneumonia dos brônquios",
+        "en": "bronchopneumonia",
+        "es": "bronconeumonía"
+    },
+    "bronquite": {
+        "exp pop": "inflamação dos brônquios",
+        "en": "bronchitis",
+        "es": "bronquitis"
+    },
+    "bucal": {
+        "exp pop": "relativo à boca, oral",
+        "en": "buccal",
+        "es": "bucal"
+    },
+    "bursite": {
+        "exp pop": "inflamação de uma bolsa",
+        "en": "bursitis, bursal synovitis",
+        "es": "bursitis"
+    },
+    "cadeia de transmissão": {
+        "desc_pt": "Processo no qual um agente infeccioso deixa seu reservatório ou hospedeiro por uma porta de saída, é transportado por um modo de transmissão e entra em um hospedeiro suscetível por uma porta de entrada.",
+        "en": "chain of infection",
+        "desc_en": "Process in which an infectious agent leaves its reservoir or host through a portal of exit, is conveyed by a mode of transmission, and enters a susceptible host through a portal of entry.",
+        "fr": "chaîne de transmission"
+    },
+    "calcificação": {
+        "exp pop": "degenerescência calcária, infiltração calcária",
+        "en": "calcification",
+        "es": "calcificación"
+    },
+    "capilar": {
+        "exp pop": "pertencente ao cabelo, filiforme",
+        "en": "capillary",
+        "es": "capilar"
+    },
+    "caquexia": {
+        "exp pop": "perda do peso e enfraquecimento físico",
+        "en": "cachexia, cachexy",
+        "es": "caquexia"
+    },
+    "cardiogénico": {
+        "exp pop": "que é consequência de uma deficiência do coração",
+        "en": "cardiogenic",
+        "es": "cardiogénico"
+    },
+    "cardiovascular": {
+        "exp pop": "relativo ao coração e vasos sanguíneos",
+        "en": "cardiovascular",
+        "es": "cardiovascular"
+    },
+    "cardíaco": {
+        "exp pop": "relativo ao coração",
+        "en": "heart, cardiac",
+        "es": "cardíaco"
+    },
+    "carga viral": {
+        "desc_pt": "Quantidade de partículas virais presentes em um mililitro de uma amostra de fluido, por ex. sangue.",
+        "en": "viral load",
+        "desc_en": "Amount of viral particles present in a millilitre of a fluid sample, e.g. blood.",
+        "fr": "charge virale"
+    },
+    "caso": {
+        "desc_pt": "Pessoa que é diagnosticada como portadora de uma doença.",
+        "en": "case",
+        "desc_en": "Person who is diagnosed as having a disease.",
+        "fr": "cas"
+    },
+    "caso confirmado": {
+        "desc_pt": "Caso confirmado por exame laboratorial.",
+        "en": "confirmed case",
+        "desc_en": "Case that is confirmed by a laboratory test.",
+        "fr": "cas positif"
+    },
+    "caso importado": {
+        "desc_pt": "Caso que tenha histórico de viagem de uma área afetada algum tempo antes do início da doença e não possa ser relacionado à transmissão local.",
+        "en": "imported case",
+        "desc_en": "Case who has a history of travel from an affected area some time before the onset of the disease and cannot be linked to local transmission.",
+        "fr": "cas importé"
+    },
+    "caso primário": {
+        "desc_pt": "Caso a quem o início do surto de uma doença pode ser rastreado.",
+        "en": "primary case",
+        "desc_en": "Case to whom the onset of the outbreak of a disease can be traced back.",
+        "fr": "patient zéro"
+    },
+    "caso provável": {
+        "desc_pt": "Caso que seja compatível com uma definição de caso clínico e para o qual haja forte evidência epidemiológica da doença, por ex. a pessoa é um contato de um caso confirmado, mas nenhuma confirmação de teste de laboratório está disponível.",
+        "en": "probable case",
+        "desc_en": "Case that is compatible with a clinical case definition and for whom there is strong epidemiological evidence of disease, e.g. the person is a contact of a confirmed case but no laboratory test confirmation is available.",
+        "fr": "cas probable"
+    },
+    "caso suspeito": {
+        "desc_pt": "Caso compatível com uma definição de caso clínico, mas sem confirmação laboratorial ou forte evidência epidemiológica, por ex. a pessoa não é um contato de um caso confirmado.",
+        "en": "suspected case",
+        "desc_en": "Case that is compatible with a clinical case definition but there is no laboratory test confirmation or strong epidemiological evidence, e.g. the person is not a contact of a confirmed case.",
+        "fr": "cas possible"
+    },
+    "caso índice": {
+        "desc_pt": "O primeiro caso conhecido do surto de uma doença em um cluster.",
+        "en": "index case",
+        "desc_en": "The first known case of the outbreak of a disease in a cluster.",
+        "fr": "cas index"
+    },
+    "catabolismo": {
+        "exp pop": "degradação das substâncias alimentares no organismo",
+        "en": "catabolism",
+        "es": "catabolismo"
+    },
+    "catarro": {
+        "exp pop": "inflamação da membrana mucosa do nariz",
+        "en": "catarrh, catarrhal inflammation",
+        "es": "catarro"
+    },
+    "cateter": {
+        "exp pop": "sonda, algália",
+        "en": "catheter",
+        "es": "catéter"
+    },
+    "caudal": {
+        "exp pop": "relativo ou em direcção da cauda",
+        "en": "caudal",
+        "es": "caudal"
+    },
+    "celulite": {
+        "exp pop": "inflamação crónica do tecido celular",
+        "en": "cellulitis, cellulite",
+        "es": "celulitis"
+    },
+    "cerebral": {
+        "exp pop": "relativo ao cérebro",
+        "en": "cerebral",
+        "es": "cerebral"
+    },
+    "cervical": {
+        "exp pop": "que afecta o colo ou o colo de um órgão",
+        "en": "cervical",
+        "es": "cervical"
+    },
+    "cerúmen": {
+        "exp pop": "cera dos ouvidos",
+        "en": "cerumen, earwax",
+        "es": "cerumen"
+    },
+    "choque séptico": {
+        "desc_pt": "Classe de sepse na qual as anormalidades da circulação, ou seja, hipotensão persistente apesar da ressuscitação fluídica e/ou do metabolismo celular são graves o suficiente para aumentar substancialmente a mortalidade.",
+        "en": "septic shock",
+        "desc_en": "Class of sepsis in which abnormalities of circulation, i.e. persistent hypotension despite fluid resuscitation, and/or of cellular metabolism are serious enough to increase mortality substantially.",
+        "fr": "choc septique"
+    },
+    "cianose": {
+        "exp pop": "coloração azulada da pele e das mucosas",
+        "en": "cyanosis, cyanoderma",
+        "es": "cianosis"
+    },
+    "ciclo": {
+        "exp pop": "período",
+        "en": "(menstrual) cycle",
+        "es": "ciclo"
+    },
+    "cirrose": {
+        "exp pop": "afecção do fígado",
+        "en": "cirrhosis",
+        "es": "cirrosis"
+    },
+    "cirúrgico": {
+        "exp pop": "cirúrgico, relativo a uma operação",
+        "en": "surgical",
+        "es": "quirúrgico"
+    },
+    "cistite": {
+        "exp pop": "inflamação da bexiga",
+        "en": "bladder inflammation, cystitis",
+        "es": "cistitis"
+    },
+    "cistoscopia": {
+        "exp pop": "exame do interior da bexiga com o cistoscópio",
+        "en": "cystoscopy",
+        "es": "cistoscopia"
+    },
+    "citoplasma": {
+        "exp pop": "parte da célula não ocupada pelo núcleo",
+        "en": "cytoplasm, cell plasma",
+        "es": "citoplasma"
+    },
+    "citotóxico": {
+        "exp pop": "que é tóxico para as células; detém o crescimento dos tecidos",
+        "en": "cytotoxic, cellulotoxic",
+        "es": "citotóxico"
+    },
+    "ciática": {
+        "exp pop": "nevralgia ciática",
+        "en": "ischialgia, sciatica",
+        "es": "ciática"
+    },
+    "classificação": {
+        "exp pop": "classificação",
+        "en": "classification",
+        "es": "clasificación"
+    },
+    "claudicação": {
+        "exp pop": "coxeadura",
+        "en": "claudication",
+        "es": "claudicación"
+    },
+    "cloasma": {
+        "exp pop": "manchas irregulares que aparecem geralmente na cara",
+        "en": "chloasma, mask of pregnancy",
+        "es": "cloasma"
+    },
+    "cloroquina": {
+        "desc_pt": "Quinolina que é substituída na posição 4 por um grupo [5-(dietilamino)pentan-2-il]amino e na posição 7 por cloro e é utilizada para o tratamento de e. malária, lúpus eritematoso e artrite reumatoide.",
+        "en": "chloroquine",
+        "desc_en": "Quinoline that is substituted at position 4 by a [5-(diethylamino)pentan-2-yl]amino group and at position 7 by chlorine and is used for the treatment of e.g. malaria, lupus erythematosus, and rheumatoid arthritis.",
+        "fr": "chloroquine"
+    },
+    "coagulação": {
+        "exp pop": "formação de coágulos no sangue",
+        "en": "clotting, coagulation",
+        "es": "coagulación"
+    },
+    "coclear": {
+        "exp pop": "pertencente ao caracol ósseo do ouvido interno",
+        "en": "cochlear",
+        "es": "coclear"
+    },
+    "coito": {
+        "exp pop": "cópula, acto sexual",
+        "en": "coitus, sexual intercourse",
+        "es": "coito"
+    },
+    "colagénio": {
+        "exp pop": "proteína que constitui o principal componente do tecido conjuntivo",
+        "en": "collagen",
+        "es": "colágeno"
+    },
+    "colapso": {
+        "exp pop": "queda rápida da tensão arterial; enfraquecimento de um órgão",
+        "en": "collapse, breakdown",
+        "es": "colapso"
+    },
+    "colecistite": {
+        "exp pop": "inflamação da vesícula biliar",
+        "en": "cholecystitis",
+        "es": "colecistitis"
+    },
+    "colestase": {
+        "exp pop": "retenção de fel nas condutas",
+        "en": "cholestasis, cholestasia",
+        "es": "colestasis"
+    },
+    "colesterol": {
+        "exp pop": "substância lipóide que se encontra na maior parte dos tecidos",
+        "en": "cholesterol, cholesterin",
+        "es": "colesterol"
+    },
+    "colinérgico": {
+        "exp pop": "que actua por intermédio da acetilcolina",
+        "en": "cholinergic",
+        "es": "colinérgico"
+    },
+    "coloidal": {
+        "exp pop": "da natureza da cola de gelatina",
+        "en": "colloid(al)",
+        "es": "coloidal"
+    },
+    "comedão": {
+        "exp pop": "variedade de acne",
+        "en": "comedo, blackhead",
+        "es": "comedón"
+    },
+    "comoção": {
+        "exp pop": "sacudidela violenta, golpe violento, pressão violenta",
+        "en": "cerebral concussion, brain concussion",
+        "es": "conmoción"
+    },
+    "complemento": {
+        "exp pop": "complemento",
+        "en": "complement",
+        "es": "complemento"
+    },
+    "complexo": {
+        "exp pop": "composto, grupo",
+        "en": "complex",
+        "es": "complejo"
+    },
+    "complicação": {
+        "exp pop": "complicação, agravamento",
+        "en": "complication, complicacy",
+        "es": "complicación"
+    },
+    "componente": {
+        "exp pop": "ingrediente",
+        "en": "constituent, component, part",
+        "es": "componente"
+    },
+    "concentração": {
+        "exp pop": "grau, riqueza",
+        "en": "concentration",
+        "es": "concentración"
+    },
+    "concepção": {
+        "exp pop": "fecundação",
+        "en": "conception, concept",
+        "es": "concepción"
+    },
+    "concomitante": {
+        "exp pop": "acompanhante",
+        "en": "comitant, accompanying",
+        "es": "concomitante"
+    },
+    "condiloma": {
+        "exp pop": "excrescência similar à verruga",
+        "en": "condyloma",
+        "es": "condiloma"
+    },
+    "condição": {
+        "exp pop": "estado geral, capacidade física de um indivíduo",
+        "en": "condition",
+        "es": "condición"
+    },
+    "confinamento": {
+        "desc_pt": "Estratégia adotada por um órgão público em caso de emergência que obrigue a permanência de pessoas em determinado local, do qual não podem sair a não ser por motivos excepcionais.",
+        "en": "lockdown",
+        "desc_en": "Strategy adopted by a public body because of an emergency that requires people to remain in a certain location which they may not leave other than for exceptional reasons.",
+        "fr": "confinement"
+    },
+    "confusão": {
+        "exp pop": "confusão",
+        "en": "confusion",
+        "es": "confusión"
+    },
+    "conglomerado": {
+        "desc_pt": "Agregação de casos de uma doença em um determinado local e tempo.",
+        "en": "cluster",
+        "desc_en": "Aggregation of cases of a disease within a given place and time.",
+        "fr": "cluster"
+    },
+    "congénito": {
+        "exp pop": "presente desde a nascença, mas não necessariamente hereditário",
+        "en": "hereditary, congenital",
+        "es": "congénito, innato"
+    },
+    "conjugado": {
+        "exp pop": "simultâneo",
+        "en": "conjugate, conjugated",
+        "es": "conjugado"
+    },
+    "conservador": {
+        "exp pop": "sem intervenção cirúrgica",
+        "en": "conservative",
+        "es": "conservador"
+    },
+    "contato": {
+        "desc_pt": "Pessoa que esteve na proximidade de outra pessoa afetada por uma doença infecciosa e que corre o risco de contrair esta doença.",
+        "en": "contact",
+        "desc_en": "Person who has been in the proximity of another person affected by an infectious disease and who is at risk of having contracted this disease.",
+        "fr": "contact"
+    },
+    "contato casual": {
+        "desc_pt": "Pessoa que esteve na proximidade de uma pessoa afetada por uma doença infecciosa, mas não vive ou cuida da pessoa infectada.",
+        "en": "casual contact",
+        "desc_en": "Person who has been in the proximity of a person affected by an infectious disease but does not live with or care for the infected person.",
+        "fr": "contact occasionnel"
+    },
+    "contato próximo": {
+        "desc_pt": "Pessoa que convive, cuida ou tem contato direto com as secreções respiratórias ou fluidos corporais de uma pessoa afetada por uma doença infecciosa.",
+        "en": "close contact",
+        "desc_en": "Person who lives with, cares for, or has direct contact with the respiratory secretions or body fluids of, a person affected by an infectious disease.",
+        "fr": "contact étroit"
+    },
+    "contenção": {
+        "desc_pt": "Estratégia adotada por um órgão público para interromper a transmissão de uma doença.",
+        "en": "containment",
+        "desc_en": "Strategy adopted by a public body to cut off transmission of a disease.",
+        "fr": "endiguement"
+    },
+    "contra-indicação": {
+        "exp pop": "contra-indicação",
+        "en": "contraindication",
+        "es": "contraindicación"
+    },
+    "contracção": {
+        "exp pop": "contracção",
+        "en": "contraction",
+        "es": "contracción"
+    },
+    "contusão": {
+        "exp pop": "ferida; lesão interna por golpe, compressão ou choque",
+        "en": "contusion, bruise",
+        "es": "contusión"
+    },
+    "convalescença": {
+        "exp pop": "analepsia; restabelecimento das forças (depois de uma doença)",
+        "en": "healing, recovery, convalescence",
+        "es": "convalescencia"
+    },
+    "convencional": {
+        "exp pop": "convencional",
+        "en": "conventional",
+        "es": "convencional"
+    },
+    "convulsão": {
+        "exp pop": "contracções involuntárias desordenadas de músculos",
+        "en": "convulsion",
+        "es": "convulsión"
+    },
+    "coordenação": {
+        "exp pop": "coordenação",
+        "en": "coordination",
+        "es": "coordinación"
+    },
+    "coreia": {
+        "exp pop": "movimentos bruscos incontrolados nas crianças",
+        "en": "chorea",
+        "es": "corea"
+    },
+    "coronavírus da síndrome respiratória aguda grave 2": {
+        "desc_pt": "Coronavírus que causa o COVID-19.",
+        "en": "severe acute respiratory syndrome coronavirus 2",
+        "desc_en": "Coronavirus that causes COVID-19.",
+        "fr": "SARS-CoV-2"
+    },
+    "coronavírusCoV": {
+        "desc_pt": "CoV Família de vírus que consiste em um núcleo que compreende um RNA de fita simples de sentido positivo, um envelope, um capsídeo e picos.",
+        "en": "coronavirus",
+        "desc_en": "CoV   Family of viruses that consist of a core comprising a positive-sense single-stranded RNA, an envelope, a capsid, and spikes.",
+        "fr": "coronavirusCoV"
+    },
+    "correcção": {
+        "exp pop": "substância que corrige a acção ou o sabor de um medicamento; compensação, rectificação",
+        "en": "correction",
+        "es": "corrección"
+    },
+    "correlação": {
+        "exp pop": "relação recíproca ou mútua",
+        "en": "correlation",
+        "es": "correlación"
+    },
+    "corticosteróide": {
+        "exp pop": "corticóide; hormonas essenciais à vida formada no córtex das glândulas supra-renais",
+        "en": "corticosteroid",
+        "es": "corticosteroide"
+    },
+    "critério": {
+        "exp pop": "regra",
+        "en": "diagnostic criterion",
+        "es": "criterio"
+    },
+    "cuidado médico": {
+        "desc_pt": "Administração e prestação de cuidados de saúde por profissionais.",
+        "en": "medical care",
+        "desc_en": "Administration and delivery of healthcare by professionals.",
+        "fr": "soins médicaux"
+    },
+    "curativo": {
+        "exp pop": "que cura, terapêutico",
+        "en": "curative",
+        "es": "curativo"
+    },
+    "curetagem": {
+        "exp pop": "raspagem",
+        "en": "curettage, curettement",
+        "es": "curetaje"
+    },
+    "curva epidêmica": {
+        "desc_pt": "Representação gráfica da incidência de uma doença ou outro evento relacionado à saúde plotado ao longo do tempo.",
+        "en": "epidemic curve",
+        "desc_en": "Graphical representation of the incidence of a disease or other health-related event plotted over time.",
+        "fr": "courbe épidémique"
+    },
+    "cárie": {
+        "exp pop": "deterioração dentária",
+        "en": "caries, decay",
+        "es": "caries"
+    },
+    "cíclico": {
+        "exp pop": "relativo a um ciclo, que passa por etapas sucessivas",
+        "en": "cyclic, cyclical",
+        "es": "cíclico"
+    },
+    "córnea": {
+        "exp pop": "parte anterior transparente do olho",
+        "en": "cornea",
+        "es": "córnea"
+    },
+    "decúbito": {
+        "exp pop": "deitado de costas; formação de necroses na pele ou nas mucosas por permanência prolongada na cama",
+        "en": "decubitus ulcer, pressure sore",
+        "es": "decúbito"
+    },
+    "defecação": {
+        "exp pop": "evacuação dos excrementos",
+        "en": "bowel movement, defecation",
+        "es": "defecación"
+    },
+    "deficiência": {
+        "exp pop": "carência",
+        "en": "disability, disablement",
+        "es": "deficiencia"
+    },
+    "definição de caso": {
+        "desc_pt": "Conjunto de critérios usados ​​para decidir se uma pessoa contraiu uma doença específica.",
+        "en": "case definition",
+        "desc_en": "Set of criteria used to decide whether a person has contracted a specific disease.",
+        "fr": "définition de cas"
+    },
+    "degenerativo": {
+        "exp pop": "que produz degeneração",
+        "en": "degenerative",
+        "es": "degenerativo"
+    },
+    "delírio": {
+        "exp pop": "perturbação mental por traumatismo, febre, envenenamento, etc. com confusão mental",
+        "en": "delirium",
+        "es": "delirio"
+    },
+    "dependente": {
+        "exp pop": "dependente",
+        "en": "dependent, depend upon help",
+        "es": "dependiente"
+    },
+    "depuração": {
+        "exp pop": "eliminação de certas substâncias do sangue",
+        "en": "clearance",
+        "es": "depuración"
+    },
+    "dermatomicose": {
+        "exp pop": "doença da pele causada pelos fungos",
+        "en": "dermatomycosis",
+        "es": "dermatomicosis"
+    },
+    "dermatose": {
+        "exp pop": "doença da pele",
+        "en": "skin disorder, dermatosis",
+        "es": "dermatosis"
+    },
+    "desidratação": {
+        "exp pop": "falta de água no corpo",
+        "en": "dehydration",
+        "es": "deshidratación"
+    },
+    "desintoxicação": {
+        "exp pop": "diminuição das propriedades nocivas de um veneno",
+        "en": "decontamination, detoxification",
+        "es": "desintoxicación"
+    },
+    "despersonalização": {
+        "exp pop": "perda da própria personalidade",
+        "en": "depersonalization",
+        "es": "despersonalización"
+    },
+    "diagnóstico": {
+        "exp pop": "identificação ou reconhecimento das doenças",
+        "en": "diagnosis, diacrisis, diagnostic",
+        "es": "diagnóstico"
+    },
+    "diarreia": {
+        "exp pop": "emissão frequente de fezes líquidas",
+        "en": "diarrhea",
+        "es": "diarrea"
+    },
+    "diastólico": {
+        "exp pop": "relativo à disástole (fase de relaxamento do músculo cardíaco)",
+        "en": "diastolic",
+        "es": "diastólico"
+    },
+    "difteria": {
+        "exp pop": "garrotilho",
+        "en": "diphtheria",
+        "es": "difteria"
+    },
+    "difusão": {
+        "exp pop": "movimento de moléculas num fluido de uma zona de alta concentração para outra de baixa concentração; dispersão",
+        "en": "diffusion",
+        "es": "difusión"
+    },
+    "dilatação": {
+        "exp pop": "expansão de um órgão; alargamento",
+        "en": "dila(ta)tion",
+        "es": "dilatación"
+    },
+    "dilatação pupilar": {
+        "exp pop": "dilatação das pupilas",
+        "en": "pupil dilation, mydriasis",
+        "es": "dilatación pupilar"
+    },
+    "disartria": {
+        "exp pop": "gaguez",
+        "en": "dysarthria, dysarthrosis",
+        "es": "disartria"
+    },
+    "disenteria": {
+        "exp pop": "doença intestinal que causa a diarreia",
+        "en": "dysentery",
+        "es": "disentería"
+    },
+    "disfagia": {
+        "exp pop": "dificuldade na deglutição",
+        "en": "dysphagia, dysphagy",
+        "es": "disfagia"
+    },
+    "disfunção": {
+        "exp pop": "perturbação do funcionamento de um órgão; alteração de função",
+        "en": "dysfunction",
+        "es": "disfunción"
+    },
+    "dismenorreia": {
+        "exp pop": "transtorno da menstruação",
+        "en": "dysmenorrhea",
+        "es": "dismenorrea"
+    },
+    "dispepsia": {
+        "exp pop": "má digestão",
+        "en": "dyspepsia, gastric indigestion",
+        "es": "dispepsia"
+    },
+    "dispneia": {
+        "exp pop": "dificuldade de respirar",
+        "en": "dyspnea, shortness of breath",
+        "es": "dispnea (o disnea )"
+    },
+    "distanciamento social": {
+        "desc_pt": "Estratégia adotada por um órgão público para reduzir o contato físico e a proximidade entre indivíduos em uma comunidade, a fim de reduzir o risco de transmissão de uma doença infecciosa, por exemplo, instruindo ou aconselhando os indivíduos a manter certa distância uns dos outros ou proibindo reuniões de mais do que um certo número de pessoas.",
+        "en": "social distancing",
+        "desc_en": "Strategy adopted by a public body to reduce physical contact and proximity between individuals in a community in order to reduce the risk of transmission of an infectious disease, for example by instructing or advising individuals to maintain a certain distance from each other or by prohibiting gatherings of more than a certain number of people.",
+        "fr": "distanciation physique"
+    },
+    "distensão": {
+        "exp pop": "estiramento excessivo de um músculo",
+        "en": "strain, sprain, distortion",
+        "es": "distorsión , distensión"
+    },
+    "distonia": {
+        "exp pop": "tonicidade anormal dos tecidos",
+        "en": "dystonia",
+        "es": "distonía"
+    },
+    "disúria": {
+        "exp pop": "dificuldade em urinar",
+        "en": "dysur(es)ia",
+        "es": "disuria"
+    },
+    "diurese": {
+        "exp pop": "formação e excreção de urina",
+        "en": "excretion of urine, diuresis",
+        "es": "diuresis"
+    },
+    "diurético": {
+        "exp pop": "que ajuda a aumentar o fluxo de urina",
+        "en": "urinative, diuretic",
+        "es": "diurético"
+    },
+    "diverticulite": {
+        "exp pop": "presença de pequenas saliências ou bolsas em pontos fracos do intestino grosso, diverticulose",
+        "en": "diverticulitis",
+        "es": "diverticulitis"
+    },
+    "diálise": {
+        "exp pop": "difusão selectiva mediante uma membrana que serve como filtro molecular",
+        "en": "dialysis",
+        "es": "diálisis"
+    },
+    "doença": {
+        "desc_pt": "Condição anormal que tem um impacto negativo na estrutura ou função de todo ou parte de um organismo, geralmente associada a certos sinais e sintomas.",
+        "en": "disease",
+        "desc_en": "Abnormal condition that has a negative impact on the structure or function of all or part of an organism, generally associated with certain signs and symptoms.",
+        "fr": "maladie"
+    },
+    "doença de Parkinson": {
+        "exp pop": "paralisia agitante",
+        "en": "Parkinson’s disease, shaking palsy",
+        "es": "enfermedad de Parkinson"
+    },
+    "doença do coronavírus 2019": {
+        "desc_pt": "Doença infecciosa causada pelo SARS-CoV-2.",
+        "en": "coronavirus disease 2019",
+        "desc_en": "Infectious disease caused by SARS-CoV-2.",
+        "fr": "COVID-19Covid-19, covid-19"
+    },
+    "doença endêmica": {
+        "desc_pt": "Doença para a qual existem tantos casos quanto seriam esperados em uma determinada população em um determinado momento.",
+        "en": "endemic disease",
+        "desc_en": "Disease for which there are as many cases as would be expected in a given population at a given time.",
+        "fr": "endémie"
+    },
+    "doença infecciosa": {
+        "desc_pt": "Doença causada por um patógeno.",
+        "en": "infectious disease",
+        "desc_en": "Disease caused by a pathogen.",
+        "fr": "maladie infectieuse"
+    },
+    "doença respiratória": {
+        "desc_pt": "Doença que afeta as vias aéreas e os pulmões e dificulta a respiração normal, que pode ser causada por, por exemplo, infecção, poluição do ar ou exposição a substâncias nocivas.",
+        "en": "respiratory disease",
+        "desc_en": "Disease affecting the airways and the lungs and hindering normal breathing, which may be caused by, e.g., infection, air pollution, or exposure to noxious substances.",
+        "fr": "maladie respiratoire"
+    },
+    "dosagem": {
+        "exp pop": "dose, doseamento, dosificação",
+        "en": "dosage, dose",
+        "es": "doseamiento"
+    },
+    "dose": {
+        "exp pop": "dose",
+        "en": "dose, dosis",
+        "es": "dosis"
+    },
+    "drenagem": {
+        "exp pop": "escoamento, despejo",
+        "en": "drain, drainage",
+        "es": "drenaje"
+    },
+    "droga": {
+        "exp pop": "'dooping'",
+        "en": "drug, therapeutic agent",
+        "es": "droga"
+    },
+    "duodeno": {
+        "exp pop": "parte inicial do intestino delgado",
+        "en": "duodenum",
+        "es": "duodeno"
+    },
+    "ectópico": {
+        "exp pop": "que se encontra ou produz fora do lugar habitual",
+        "en": "ectopic",
+        "es": "ectópico"
+    },
+    "electrólito": {
+        "exp pop": "condutor de segunda classe, ácido para acumuladores",
+        "en": "electrolyte",
+        "es": "electrólito"
+    },
+    "eliminação": {
+        "desc_pt": "Estratégia adotada por um órgão público para reduzir a zero a incidência de uma doença em uma determinada área geográfica.",
+        "en": "elimination",
+        "desc_en": "Strategy adopted by a public body to reduce to zero the incidence of a disease in a given geographical area.",
+        "fr": "élimination"
+    },
+    "elástico": {
+        "exp pop": "elástico",
+        "en": "elastic",
+        "es": "elástico"
+    },
+    "embrião": {
+        "exp pop": "feto",
+        "en": "embryo",
+        "es": "embrión"
+    },
+    "emocional": {
+        "exp pop": "emocional",
+        "en": "emotional, affective",
+        "es": "emocional"
+    },
+    "empiema": {
+        "exp pop": "abcesso; acumulação de pus",
+        "en": "empyema",
+        "es": "empiema"
+    },
+    "enantema": {
+        "exp pop": "erupção nas mucosas",
+        "en": "enanthem(a)",
+        "es": "enantema"
+    },
+    "encefalite": {
+        "exp pop": "inflamação do cérebro",
+        "en": "encephalitis",
+        "es": "encefalitis"
+    },
+    "endometriose": {
+        "exp pop": "proliferação da mucosa uterina fora do seu lugar habitual",
+        "en": "endometriosis",
+        "es": "endometriosis"
+    },
+    "endoscopia": {
+        "exp pop": "exame interno por via directa com o endoscópio",
+        "en": "endoscopy",
+        "es": "endoscopia"
+    },
+    "endotélio": {
+        "exp pop": "capa interna que reveste as cavidades cardíacas e os vasos sanguíneos e linfáticos",
+        "en": "endothelial tissue, endothelium",
+        "es": "endotelio"
+    },
+    "endócrino": {
+        "exp pop": "que secreta hormonas",
+        "en": "endocrinal, endocrine",
+        "es": "endocrino"
+    },
+    "endógeno": {
+        "exp pop": "que se desenvolve ou surge num organismo",
+        "en": "endogenous, endogenetic",
+        "es": "endógeno"
+    },
+    "enfisema": {
+        "exp pop": "presença excessiva de ar nos pulmões ou tecidos corporais",
+        "en": "emphysema",
+        "es": "enfisema"
+    },
+    "enterite": {
+        "exp pop": "catarro intestinal, colite",
+        "en": "enteritis",
+        "es": "enteritis"
+    },
+    "enurese": {
+        "exp pop": "aniscuria, incontinência de urina",
+        "en": "enuresis",
+        "es": "enuresis"
+    },
+    "enzima": {
+        "exp pop": "enzima",
+        "en": "enzyme",
+        "es": "enzima"
+    },
+    "enzima conversora de angiotensina": {
+        "desc_pt": "Classe de ectoenzimas encontradas, por exemplo, nos pulmões, coração, pele ou vasos sanguíneos, cuja função é clivar peptídeos circulantes, entre os quais o angiotensinogênio, que são então usados ​​para regular funções celulares específicas.",
+        "en": "angiotensin-converting enzyme",
+        "desc_en": "Class of ectoenzymes found in, e.g., the lungs, heart, skin, or blood vessels, whose function is to cleave circulating peptides, among which angiotensinogen, which are then used to regulate specific cell functions.",
+        "fr": "enzyme de conversion de l'angiotensine"
+    },
+    "eosinofilia": {
+        "exp pop": "aumento das células eosinófilas no sangue",
+        "en": "eosinophilia",
+        "es": "eosinofilia"
+    },
+    "epicondilite": {
+        "exp pop": "inflamação do epicôndilo (tuberosidade exterior do útero)",
+        "en": "epicondylitis",
+        "es": "epicondilitis"
+    },
+    "epidemia": {
+        "desc_pt": "Doença para a qual há muito mais casos do que seria esperado em um determinado momento em uma determinada população e que pode ser atribuída à mesma causa.",
+        "exp pop": "epidemia",
+        "desc_en": "Disease for which there are many more cases than would be expected at a given time in a given population and which can be ascribed to the same cause.",
+        "en": "epidemic (disease)",
+        "es": "epidemia",
+        "fr": "épidémie"
+    },
+    "epidemiologia": {
+        "desc_pt": "Estudo científico da ocorrência de uma doença ou outro evento relacionado à saúde em populações específicas e sua aplicação no controle de problemas de saúde.",
+        "en": "epidemiology",
+        "desc_en": "Scientific study of the occurrence of a disease or other health-related event in specified populations, and its application to the control of health problems.",
+        "fr": "épidémiologie"
+    },
+    "epidural": {
+        "exp pop": "sobre ou por fora da dura-mater",
+        "en": "peridural, epidural",
+        "es": "epidural"
+    },
+    "epilepsia": {
+        "exp pop": "crises convulsivas",
+        "en": "epilepsy, seizure",
+        "es": "epilepsia"
+    },
+    "episiotomia": {
+        "exp pop": "corte vaginal para facilitar o parto",
+        "en": "episiotomy",
+        "es": "episiotomía"
+    },
+    "epitelioma": {
+        "exp pop": "tumor da pele ou da mucosa",
+        "en": "epithelial tumor, epithelioma",
+        "es": "epitelioma"
+    },
+    "epitélio": {
+        "exp pop": "tecido de cobertura ou de revestimento interior; pele ou mucosas",
+        "en": "epithelial tissue, epithelium",
+        "es": "epitelio"
+    },
+    "equipamento de proteção individual": {
+        "desc_pt": "Equipamento usado por um indivíduo que fornece proteção contra um ou mais riscos à saúde e segurança de uma pessoa.",
+        "en": "personal protective equipment",
+        "desc_en": "Gear worn by an individual that provides protection against one or more risks to a person’s health and safety.",
+        "fr": "équipement de protection individuelle"
+    },
+    "equipamento de proteção respiratória": {
+        "desc_pt": "Equipamento de proteção individual que protege o usuário contra a inalação de substâncias perigosas no ar, como poeira, fumaça, gases ou substâncias biológicas.",
+        "en": "respiratory protective equipment",
+        "desc_en": "Personal protective equipment that protects the wearer against inhalation of hazardous substances in the air, such as dust, fumes, gases, or biological substances.",
+        "fr": "appareil de protection respiratoire"
+    },
+    "erisipela": {
+        "exp pop": "infecção grave e contagiosa da pele por estreptococos",
+        "en": "erysipelas, rose disease",
+        "es": "erisipela"
+    },
+    "eritema": {
+        "exp pop": "ruborização, inflamação da pele",
+        "en": "erythema",
+        "es": "eritema"
+    },
+    "eritropoiese": {
+        "exp pop": "formação de glóbulos vermelhos",
+        "en": "erythro(cyto)poiesis",
+        "es": "eritropoyesis"
+    },
+    "eructação": {
+        "exp pop": "arroto",
+        "en": "regurgitation, burp",
+        "es": "eructo"
+    },
+    "erupção": {
+        "exp pop": "evacuação súbita de sangue, pus, etc.",
+        "en": "rash, eruption",
+        "es": "erupción"
+    },
+    "escabiose": {
+        "exp pop": "acaríase sarcóptica, sarna",
+        "en": "scabies, the itch",
+        "es": "escabiosis , sarna"
+    },
+    "escarlatina": {
+        "exp pop": "anasarca, febre petequial, elefância",
+        "en": "scarlatina, scarlet fever",
+        "es": "escarlatina"
+    },
+    "escotoma": {
+        "exp pop": "perda da faculdade visual em zonas bem circunscritas do campo visual; escotomia",
+        "en": "scotoma",
+        "es": "escotoma"
+    },
+    "esfoladela": {
+        "exp pop": "desgaste, raspagem, erosão de origem químico-física",
+        "en": "excoriation, abrasion",
+        "es": "esfoliación"
+    },
+    "esfregaço": {
+        "desc_pt": "Método de coleta de uma amostra de material orgânico para fins de diagnóstico, inserindo um cotonete nos orifícios do corpo de uma pessoa, por ex. nariz, boca, etc.",
+        "en": "swab test",
+        "desc_en": "Method of collecting a sample of organic material for diagnostic purposes by inserting a swab into a person’s body orifices, e.g. nose, mouth, etc.",
+        "fr": "écouvillonnage"
+    },
+    "esfregaço nasofaríngeo": {
+        "desc_pt": "Método de coleta de uma amostra de secreção nasal para fins de diagnóstico, inserindo um swab em cada narina, estendendo-o de volta à nasofaringe, deixando-o no local por alguns segundos e retirando-o lentamente com um movimento de rotação.",
+        "en": "nasopharyngeal swab test",
+        "desc_en": "Method of collecting a specimen of nasal secretions for diagnostic purposes by inserting a swab into each nostril, extending it back into the nasopharynx, leaving it in place for a few seconds, and slowly withdrawing it with a rotating motion.",
+        "fr": "prélèvement nasopharyngé"
+    },
+    "esofagite": {
+        "exp pop": "inflamação do esófago",
+        "en": "esophagitis",
+        "es": "esofagitis"
+    },
+    "espasmo": {
+        "exp pop": "espasmo",
+        "en": "spasm(us)",
+        "es": "espasmo"
+    },
+    "espasmódico": {
+        "exp pop": "espástico, convulsivo",
+        "en": "spastic, spasmodic",
+        "es": "espasmódico"
+    },
+    "espasticidade": {
+        "exp pop": "contractura muscular",
+        "en": "spasticity",
+        "es": "espasticidad"
+    },
+    "específico": {
+        "exp pop": "característico de uma espécie ou de uma doença",
+        "en": "specific",
+        "es": "específico"
+    },
+    "espinal": {
+        "exp pop": "relativo à coluna vertebral",
+        "en": "spinal",
+        "es": "espinal"
+    },
+    "esporádico": {
+        "exp pop": "não epidérmico ou não amplamente difundido; ocasional",
+        "en": "sporadic",
+        "es": "esporádico, aislado"
+    },
+    "esquizofrenia": {
+        "exp pop": "psicose, doença mental em que o doente se alheia do mundo que o rodeia e se refugia em si mesmo",
+        "en": "schizophrenia, parergasia",
+        "es": "esquizofrenia"
+    },
+    "estabilidade": {
+        "exp pop": "estabilidade",
+        "en": "stability, stableness",
+        "es": "estabilidad"
+    },
+    "estado": {
+        "exp pop": "condição, situação; crise ou ponto culminante",
+        "en": "condition, state, status",
+        "es": "estado"
+    },
+    "estase": {
+        "exp pop": "estancamento do sangue ou de qualquer outro líquido orgânico",
+        "en": "stasis, congestion",
+        "es": "estasis"
+    },
+    "esteatorreia": {
+        "exp pop": "excesso de gordura nas fezes; estearreia, seborreia",
+        "en": "stea(to)rrhea, fatty diarrhea",
+        "es": "esteatorrea"
+    },
+    "esteatose": {
+        "exp pop": "acumulação excessiva de glóbulos gordos nos tecidos",
+        "en": "steatosis",
+        "es": "esteatosis"
+    },
+    "esterilidade": {
+        "exp pop": "incapacidade de fecundar ou conceber",
+        "en": "sterility",
+        "es": "esterilidad"
+    },
+    "esterilização": {
+        "exp pop": "procedimento que torna um indivíduo incapaz de reproduzir",
+        "en": "sterilization",
+        "es": "esterilización"
+    },
+    "esteróide": {
+        "exp pop": "tipo de composto químico",
+        "en": "steroid",
+        "es": "esteroide"
+    },
+    "estria": {
+        "exp pop": "lista, raia; fibras nervosas cerebrais",
+        "en": "stria, stripe, band",
+        "es": "estría"
+    },
+    "estupor": {
+        "exp pop": "perda parcial ou quase total da consciência; obnubilação, torpor",
+        "en": "stupor",
+        "es": "estupor"
+    },
+    "etiologia": {
+        "exp pop": "estudo da origem de uma doença",
+        "en": "cause, etiology",
+        "es": "etiología"
+    },
+    "evacuação": {
+        "exp pop": "evacuação",
+        "en": "bowel movement, bowel evacuation",
+        "es": "evacuación"
+    },
+    "exacerbação": {
+        "exp pop": "pioramento, gravamento",
+        "en": "exacerbation",
+        "es": "exacerbación"
+    },
+    "exantema": {
+        "exp pop": "erupção vermelha da pele",
+        "en": "exanthema, (skin) rash",
+        "es": "exantema"
+    },
+    "excitação": {
+        "exp pop": "irritação, estímulo, estimulação",
+        "en": "excitement, excitation",
+        "es": "excitación"
+    },
+    "extensão": {
+        "exp pop": "movimento de endireitar uma articulação",
+        "en": "stretching, extension, extent",
+        "es": "extensión"
+    },
+    "extrapiramidal": {
+        "exp pop": "situado fora da via piramidal",
+        "en": "extrapyramidal",
+        "es": "extrapiramidal"
+    },
+    "extremidade": {
+        "exp pop": "membros superior e inferior",
+        "en": "extremity, limb",
+        "es": "extremidad"
+    },
+    "exógeno": {
+        "exp pop": "por causas externas; introduzido no corpo do exterior",
+        "en": "exogenous, exogenic",
+        "es": "exógeno"
+    },
+    "facial": {
+        "exp pop": "relativo à cara",
+        "en": "facial",
+        "es": "facial"
+    },
+    "factor de risco": {
+        "exp pop": "factor de risco",
+        "en": "risk factor",
+        "es": "factor de riesgo"
+    },
+    "fagocitose": {
+        "exp pop": "incorporação e digestão de partículas no interior de uma célula",
+        "en": "phagocytosis",
+        "es": "fagocitosis"
+    },
+    "falência multiorgânica": {
+        "desc_pt": "Incapacidade de dois ou mais órgãos ou sistemas de órgãos desempenharem suas funções.",
+        "en": "multiple organ failure",
+        "desc_en": "Inability of two or more organs or organ systems to perform their function.",
+        "fr": "défaillance multiviscérale"
+    },
+    "faringite": {
+        "exp pop": "inflamação da garganta",
+        "en": "pharyngitis",
+        "es": "faringitis"
+    },
+    "farmacoepidemiologia": {
+        "desc_pt": "Estudo do uso e efeitos de drogas em grande número de pessoas, cujo objetivo é estimar a probabilidade de efeitos positivos ou negativos de uma droga.",
+        "en": "pharmacoepidemiology",
+        "desc_en": "Study of the use and effects of drugs in large numbers of people, the aim of which is to estimate the probability of positive or negative effects of a drug.",
+        "fr": "pharmaco-épidémiologie"
+    },
+    "farmacológico": {
+        "exp pop": "relativo à ciência que investiga os medicamentos",
+        "en": "pharmacological, pharmacologic",
+        "es": "farmacológico"
+    },
+    "fasciculação": {
+        "exp pop": "contracção de grupos de músculos",
+        "en": "fasciculation",
+        "es": "fasciculación"
+    },
+    "fase": {
+        "exp pop": "período dentro de uma evolução constante",
+        "en": "phase, stadium, stage, period",
+        "es": "fase"
+    },
+    "fator de risco": {
+        "desc_pt": "Característica, condição ou comportamento que aumenta a probabilidade de uma pessoa contrair uma doença ou sofrer uma lesão.",
+        "en": "risk factor",
+        "desc_en": "Characteristic, condition, or behaviour that increases the likelihood that a person will contract a disease or sustain an injury.",
+        "fr": "facteur de risque"
+    },
+    "febre": {
+        "desc_pt": "Mecanismo de resposta imune inata que aumenta a temperatura corporal de uma pessoa acima do nível normal.",
+        "en": "fever",
+        "desc_en": "Innate immune response mechanism that increases a person’s body temperature above the normal level.",
+        "fr": "fièvre"
+    },
+    "fenómeno": {
+        "exp pop": "manifestação, sinal, sintoma",
+        "en": "phenomenon",
+        "es": "fenómeno"
+    },
+    "fisiológico": {
+        "exp pop": "normal, não devido a uma doença; relativo ao estudo das funções dos organismos vivos",
+        "en": "physiologic(al)",
+        "es": "fisiológico"
+    },
+    "fissura": {
+        "exp pop": "fenda",
+        "en": "fissure, notch, cleft",
+        "es": "fisura"
+    },
+    "fixação": {
+        "exp pop": "fixação; detenção do desenvolvimento da personalidade numa determinada etapa; apego a outra pessoa",
+        "en": "fixation",
+        "es": "fijación"
+    },
+    "flatulência": {
+        "exp pop": "gases no estômago ou no intestino, ventosidade, aerenterectasia",
+        "en": "flatulence, flatulency",
+        "es": "flatulencia"
+    },
+    "flebite": {
+        "exp pop": "inflamação das paredes de uma veia",
+        "en": "phlebitis",
+        "es": "flebitis"
+    },
+    "flebografia": {
+        "exp pop": "radiografia das veias",
+        "en": "phlebography, venography",
+        "es": "flebografía"
+    },
+    "fleimão": {
+        "exp pop": "inflamação difusa",
+        "en": "phlegmon, phlegmonous cellulitis",
+        "es": "flemón"
+    },
+    "flexão": {
+        "exp pop": "flexão",
+        "en": "flexion, flection",
+        "es": "flexión"
+    },
+    "flácido": {
+        "exp pop": "frouxo, mole, languido",
+        "en": "flabby, limp",
+        "es": "fláccido"
+    },
+    "fobia": {
+        "exp pop": "medo despropositado persistente",
+        "en": "phobia, morbid fear",
+        "es": "fobia"
+    },
+    "foliculite": {
+        "exp pop": "inflamação de um ou mais folículos pilosos",
+        "en": "folliculitis",
+        "es": "foliculitis"
+    },
+    "fontanela": {
+        "exp pop": "molarinha do recém-nascido",
+        "en": "fontanelle, fonticulus",
+        "es": "fontanela"
+    },
+    "fotofobia": {
+        "exp pop": "que foge da luz (que tem aversão à luz)",
+        "en": "photophobic",
+        "es": "fotofobia"
+    },
+    "frequência": {
+        "exp pop": "número de períodos",
+        "en": "frequency",
+        "es": "frecuencia"
+    },
+    "fungo": {
+        "exp pop": "fungo, tumor em forma de fungo",
+        "en": "fungus",
+        "es": "hongo"
+    },
+    "função": {
+        "exp pop": "função",
+        "en": "function",
+        "es": "función"
+    },
+    "físico": {
+        "exp pop": "corporal, que se percebe pelos sentidos",
+        "en": "physical, bodily",
+        "es": "físico"
+    },
+    "fístula": {
+        "exp pop": "comunicação anormal entre dois órgãos entre si ou com o exterior",
+        "en": "fistula",
+        "es": "fístula"
+    },
+    "fômite": {
+        "desc_pt": "Objeto inanimado contaminado por um agente infeccioso que pode transmitir indiretamente uma doença infecciosa.",
+        "en": "fomite",
+        "desc_en": "Inanimate object contaminated by an infectious agent that can indirectly transmit an infectious disease.",
+        "fr": "vecteur passif"
+    },
+    "galactorreia": {
+        "exp pop": "eliminação espontânea do leite",
+        "en": "galactorrhea",
+        "es": "galactorrea"
+    },
+    "gangrena": {
+        "exp pop": "grangrena, esfacelo",
+        "en": "gangrene",
+        "es": "gangrena"
+    },
+    "gastralgia": {
+        "exp pop": "dor do estômago, gastrodinia, cardialgia",
+        "en": "pain in the stomach, gastralgia",
+        "es": "gastralgia"
+    },
+    "gastrite": {
+        "exp pop": "catarro gástrico",
+        "en": "gastritis, endogastritis",
+        "es": "gastritis"
+    },
+    "gel desinfetante": {
+        "desc_pt": "Gel, espuma ou líquido para lavagem das mãos que pode ou não conter álcool.",
+        "en": "hand sanitizer",
+        "desc_en": "Gel, foam, or liquid used for handwashing that may or may not contain alcohol.",
+        "fr": "désinfectant pour les mains"
+    },
+    "gene": {
+        "desc_pt": "Sequência de DNA que carrega as informações necessárias para fazer uma molécula específica, geralmente uma proteína.",
+        "en": "gene",
+        "desc_en": "Sequence of DNA that carries the required information for making a specific molecule, typically a protein.",
+        "fr": "gène"
+    },
+    "genoma": {
+        "desc_pt": "Conjunto completo de DNA de um organismo vivo, incluindo todos os seus genes.",
+        "en": "genome",
+        "desc_en": "Complete set of DNA of a living organism, including all of its genes.",
+        "fr": "génome"
+    },
+    "ginecomastia": {
+        "exp pop": "aumento dos peitos",
+        "en": "gynecomastia, gynecomasty",
+        "es": "ginecomastia"
+    },
+    "glaucoma": {
+        "exp pop": "pressão anormal no globo ocular",
+        "en": "glaucoma",
+        "es": "glaucoma"
+    },
+    "glicoproteína de espícula": {
+        "desc_pt": "Complexo glicoprotéico formado por três protômeros e localizado no envelope dos coronavírus, que permite que o vírus se ligue ao sítio receptor das células hospedeiras.",
+        "en": "spike glycoprotein",
+        "desc_en": "Glycoprotein complex made up of three protomers and located on the envelope of coronaviruses, which enables the virus to bind to the receptor site of the host cells.",
+        "fr": "glycoprotéine de spicule"
+    },
+    "glicose": {
+        "exp pop": "glicose",
+        "en": "glucose",
+        "es": "glucosa"
+    },
+    "glomerular": {
+        "exp pop": "relativo à parte filtrante dos rins",
+        "en": "glomerular, glomerulose",
+        "es": "glomerular"
+    },
+    "glossite": {
+        "exp pop": "inflamação da língua",
+        "en": "glossitis",
+        "es": "glositis"
+    },
+    "glote": {
+        "exp pop": "entrada da faringe para a via aérea principal",
+        "en": "glottis",
+        "es": "glotis"
+    },
+    "gonorreia": {
+        "exp pop": "infecção bacteriana pelo gonococo que invade as mucosas da uretra e do útero; esquentamento",
+        "en": "gonorrhea, the clap",
+        "es": "gonorrea"
+    },
+    "gotícula respiratória": {
+        "desc_pt": "Partícula feita de água, proteínas, RNA viral e metabólitos não voláteis, que tem > 5-10 μm de diâmetro e é exalada do nariz e da boca de uma pessoa enquanto, por exemplo, tossir, espirrar, respirar ou falar.",
+        "en": "respiratory droplet",
+        "desc_en": "Particle made of water, proteins, viral RNA, and non-volatile metabolites, which is >5-10 μm in diameter and is exhaled from the nose and mouth of a person whilst e.g. coughing, sneezing breathing, or talking.",
+        "fr": "gouttelette"
+    },
+    "gravidez": {
+        "exp pop": "gravidez",
+        "en": "pregnancy, gestation",
+        "es": "embarazo"
+    },
+    "grupo de alto risco": {
+        "desc_pt": "Parte de uma população em risco que tem prevalência, incidência ou gravidade de uma doença acima da média.",
+        "en": "high-risk group",
+        "desc_en": "Part of a population at risk that has higher than average prevalence, incidence or severity of a disease.",
+        "fr": "groupe à haut risque"
+    },
+    "gânglio": {
+        "exp pop": "caroço",
+        "en": "ganglion",
+        "es": "ganglio"
+    },
+    "hematoma": {
+        "exp pop": "hemorragia para dentro dos tecidos",
+        "en": "hematoma, blood tumor",
+        "es": "hematoma"
+    },
+    "hematúria": {
+        "exp pop": "sangue nas urinas, emissão de sangue pelas vias urinárias",
+        "en": "hemat(ocyt)uria",
+        "es": "hematuria"
+    },
+    "hemodiálise": {
+        "exp pop": "filtragem da circulação do sangue",
+        "en": "hemodialysis",
+        "es": "hemodiálisis"
+    },
+    "hemofilia": {
+        "exp pop": "dificuldade de coagulação do sangue",
+        "en": "hemophilia",
+        "es": "hemofilia"
+    },
+    "hemoptise": {
+        "exp pop": "escarros de sangue, hemorragia pulmonar",
+        "en": "hemoptysis",
+        "es": "hemoptisis"
+    },
+    "hemorragia": {
+        "exp pop": "perda de sangue",
+        "en": "bleeding, hemorrhage",
+        "es": "hemorragia"
+    },
+    "hemólise": {
+        "exp pop": "hematólise, globulólise, desintegração das células sanguíneas",
+        "en": "hemolysis",
+        "es": "hemólisis"
+    },
+    "hereditariedade": {
+        "exp pop": "hereditariedade",
+        "en": "hereditability, heredity",
+        "es": "herencia"
+    },
+    "hidratação": {
+        "exp pop": "hidratação",
+        "en": "hydration",
+        "es": "hidratación"
+    },
+    "higiene": {
+        "desc_pt": "Conjunto de práticas que ajudam a manter a saúde e prevenir a propagação de doenças.",
+        "en": "hygiene",
+        "desc_en": "Set of practices that help to maintain health and prevent the spread of diseases.",
+        "fr": "hygiène"
+    },
+    "higiene respiratória": {
+        "desc_pt": "Conjunto de práticas e comportamentos adotados por um indivíduo com o objetivo de prevenir a propagação de doenças respiratórias.",
+        "en": "respiratory hygiene",
+        "desc_en": "Set of practices and behaviours adopted by an individual with the aim of preventing the spread of respiratory diseases.",
+        "fr": "hygiène respiratoire"
+    },
+    "hiperalgesia": {
+        "exp pop": "grande sensibilidade à dor",
+        "en": "hyperalgesia, hyperalgia, algesia",
+        "es": "hiperalgesia"
+    },
+    "hipercapnia": {
+        "exp pop": "aumento de O2 no sangue",
+        "en": "hypercapnia, hypercarbia",
+        "es": "hipercapnia"
+    },
+    "hipersensibilidade": {
+        "exp pop": "sensibilidade excessiva, alergia",
+        "en": "sensitiveness, sensitivity, hypersensitivenes",
+        "es": "hipersensibilidad"
+    },
+    "hipertricose": {
+        "exp pop": "aumento da espessura do pêlo do corpo",
+        "en": "hypertrichosis",
+        "es": "hipertricosis"
+    },
+    "hipertrofia": {
+        "exp pop": "maior crescimento de um tecido por aumento, sem multiplicação, das suas células",
+        "en": "hypertrophy",
+        "es": "hipertrofia"
+    },
+    "hipoplasia": {
+        "exp pop": "pouco desenvolvido",
+        "en": "hypoplastic, dysmature",
+        "es": "hipoplasia"
+    },
+    "hipotermia": {
+        "exp pop": "baixa de temperatura",
+        "en": "hypothermia, hypothermy",
+        "es": "hipotermia"
+    },
+    "hipótese": {
+        "exp pop": "abstracção, suposição",
+        "en": "hypothesis",
+        "es": "hipótesis"
+    },
+    "histerectomia": {
+        "exp pop": "operação cirúrgica do útero",
+        "en": "hysterectomy",
+        "es": "histerectomía"
+    },
+    "hospedeiro": {
+        "desc_pt": "Pessoa ou animal infectado por um agente infeccioso.",
+        "en": "host",
+        "desc_en": "Person or animal infected by an infectious agent.",
+        "fr": "hôte"
+    },
+    "hospitalização": {
+        "desc_pt": "Admissão e permanência de um paciente em um hospital para tratamento.",
+        "en": "hospitalization",
+        "desc_en": "Admission and stay of a patient in a hospital for treatment.",
+        "fr": "hospitalisation"
+    },
+    "humor": {
+        "exp pop": "fluido corporal",
+        "en": "feeling, frame of mind, mood",
+        "es": "humor"
+    },
+    "humoral": {
+        "exp pop": "relativo aos fluidos corporais",
+        "en": "humoral",
+        "es": "humoral"
+    },
+    "hérnia": {
+        "exp pop": "tumor mole com abertura de membrana",
+        "en": "hernia",
+        "es": "hernia"
+    },
+    "ictiose": {
+        "exp pop": "defeito hereditário da pele; pele de peixe",
+        "en": "ichthyosis",
+        "es": "ictiosis"
+    },
+    "identificação de contatos": {
+        "desc_pt": "Processo destinado a identificar todos os contatos de um caso, perguntando sobre as atividades do caso e as atividades e papéis das pessoas ao redor do caso desde o início da doença.",
+        "en": "contact identification",
+        "desc_en": "Process aimed at identifying all contacts of a case by asking about the activities of the case and the activities and roles of the people around the case since the onset of the disease.",
+        "fr": "identification des contacts"
+    },
+    "idiopático": {
+        "exp pop": "de causa desconhecida, primário, espontâneo",
+        "en": "idiopath(et)ic",
+        "es": "idiopático"
+    },
+    "idêntico": {
+        "exp pop": "análogo",
+        "en": "identical",
+        "es": "idéntico"
+    },
+    "imagiologia por ressonância magnética": {
+        "desc_pt": "Técnica de imagiologia médica pela qual são obtidas imagens tridimensionais do corpo pela excitação de prótons presentes na água de tecidos vivos e pela detecção da mudança na direção de seu eixo de rotação por meio de um scanner de ressonância magnética.",
+        "en": "magnetic resonance imaging",
+        "desc_en": "Medical imaging technique by which three-dimensional images of the body are obtained by exciting protons present in the water of living tissues and detecting the change in the direction of their rotational axis by means of a magnetic resonance imaging scanner.",
+        "fr": "imagerie par résonance magnétique"
+    },
+    "imaturidade": {
+        "exp pop": "estado de quem não alcançou o seu pleno desenvolvimento",
+        "en": "immaturity, unripeness",
+        "es": "inmadurez"
+    },
+    "implantação": {
+        "exp pop": "nidação do embrião na mucosa do útero da mãe, cerca de seis dias após a concepção",
+        "en": "implantation",
+        "es": "implantación"
+    },
+    "impotência": {
+        "exp pop": "incapacidade de realização do coito; falta de virilidade; anandria, assinodia",
+        "en": "impotence, impotency",
+        "es": "impotencia"
+    },
+    "imunidade": {
+        "desc_pt": "Condição de estar protegido contra uma doença infecciosa.",
+        "en": "immunity",
+        "desc_en": "Condition of being protected against an infectious disease.",
+        "fr": "immunité"
+    },
+    "imunidade adquirida": {
+        "desc_pt": "Imunidade adquirida durante a vida de uma pessoa após a exposição a um agente infeccioso por infecção prévia ou imunização.",
+        "en": "adaptive immunity",
+        "desc_en": "Immunity acquired during a person’s lifetime upon exposure to an infectious agent either by previous infection or immunization.",
+        "fr": "immunité acquise"
+    },
+    "imunidade de grupo": {
+        "desc_pt": "A proteção indireta contra um agente infeccioso é alcançada em uma população em risco quando uma proporção suficientemente grande de indivíduos na população mostra uma imunidade adquirida a esse agente infeccioso.",
+        "en": "herd immunity",
+        "desc_en": "Indirect protection from an infectious agent achieved in a population at risk when a sufficiently large proportion of individuals in the population show an acquired immunity to that infectious agent.",
+        "fr": "immunité de groupe"
+    },
+    "imunológico": {
+        "exp pop": "relativo aos sistema imunitário",
+        "en": "immunologic(al)",
+        "es": "inmunológico"
+    },
+    "inalação": {
+        "exp pop": "aspiração de gases e vapores",
+        "en": "inhalation, inspiration",
+        "es": "inhalación"
+    },
+    "incidência": {
+        "desc_pt": "Novos casos de uma doença surgidos em um determinado período em uma população de risco.",
+        "exp pop": "incidência",
+        "desc_en": "New cases of a disease arising in a given period in a population at risk.",
+        "en": "incidence",
+        "es": "incidencia",
+        "fr": "incidence"
+    },
+    "incisivo": {
+        "exp pop": "penetrante",
+        "en": "incisor (tooth)",
+        "es": "incisivo"
+    },
+    "incisão": {
+        "exp pop": "corte",
+        "en": "incision, cut",
+        "es": "incisión"
+    },
+    "incubação": {
+        "exp pop": "período entre o contágio e a manifestação da doença; choco",
+        "en": "incubation",
+        "es": "incubación"
+    },
+    "inespecífico": {
+        "exp pop": "não específico, não característico",
+        "en": "unspecific, nonspecific",
+        "es": "inespecífico"
+    },
+    "infecciosidade": {
+        "desc_pt": "Capacidade de um agente infeccioso entrar, sobreviver e se multiplicar em um hospedeiro.",
+        "en": "infectivity",
+        "desc_en": "Ability of an infectious agent to enter, survive, and multiply in a host.",
+        "fr": "infectiosité"
+    },
+    "infecção": {
+        "exp pop": "infecção",
+        "en": "infection",
+        "es": "infección"
+    },
+    "infiltração": {
+        "exp pop": "infiltração",
+        "en": "infiltration",
+        "es": "infiltración"
+    },
+    "inflamação": {
+        "desc_pt": "Série de processos de imunidade inata iniciados pelo corpo em resposta a uma lesão.",
+        "exp pop": "inflamação",
+        "desc_en": "Series of innate immunity processes initiated by the body in response to an injury.",
+        "en": "inflammation",
+        "es": "inflamación",
+        "fr": "inflammation"
+    },
+    "infusão": {
+        "exp pop": "infusão",
+        "en": "infusion",
+        "es": "infusión"
+    },
+    "ingestão": {
+        "exp pop": "deglutição de alimentos ou outras substâncias para o interior do tubo digestivo",
+        "en": "intake, uptake",
+        "es": "ingestión"
+    },
+    "inibição": {
+        "exp pop": "atenuação, supressão ou bloqueamento de uma função ou reacção",
+        "en": "inhibition",
+        "es": "inhibición"
+    },
+    "inoperável": {
+        "exp pop": "que não se pode curar com operação cirúrgica",
+        "en": "inoperable",
+        "es": "inoperable"
+    },
+    "insuficiência": {
+        "exp pop": "função inadequada de um órgão ou sistema",
+        "en": "insufficiency, incompetence",
+        "es": "insuficiencia"
+    },
+    "inteligência": {
+        "exp pop": "entendimento, intelecto, mente",
+        "en": "intelligence",
+        "es": "inteligencia"
+    },
+    "intensidade": {
+        "exp pop": "grau de força ou tensão",
+        "en": "strenght, intensity",
+        "es": "intensidad"
+    },
+    "intermitente": {
+        "exp pop": "que ocorre em intervalos",
+        "en": "intermittent",
+        "es": "intermitente"
+    },
+    "intersticial": {
+        "exp pop": "entre duas partes, isto é, no tecido conjuntivo",
+        "en": "interstitial",
+        "es": "intersticial"
+    },
+    "intervalo": {
+        "exp pop": "interstício, espaço; entremeio",
+        "en": "distance, gap",
+        "es": "intervalo"
+    },
+    "intervenção": {
+        "exp pop": "operação",
+        "en": "intervention",
+        "es": "intervención"
+    },
+    "intestinal": {
+        "exp pop": "relativo ao intestino",
+        "en": "enteral, enteric, intestinal, bowel",
+        "es": "intestinal"
+    },
+    "intolerância": {
+        "exp pop": "incapacidade de suportar um medicamento",
+        "en": "incompatibility, intolerance",
+        "es": "intolerancia"
+    },
+    "intoxicação": {
+        "exp pop": "envenenamento",
+        "en": "poisoning, intoxication",
+        "es": "intoxicación"
+    },
+    "intratecal": {
+        "exp pop": "pertencente ao lúmen de uma bainha ou canal",
+        "en": "intrathecal",
+        "es": "intratecal"
+    },
+    "intubação": {
+        "desc_pt": "Método de ventilação pulmonar invasiva no qual um tubo é inserido na traquéia do paciente pela boca ou nariz.",
+        "exp pop": "introdução de um tubo num órgão oco",
+        "desc_en": "Invasive lung ventilation method in which a tube is inserted into the patient’s trachea through the mouth or nose.",
+        "en": "intubation",
+        "es": "intubación , entubación",
+        "fr": "intubation"
+    },
+    "invasivo": {
+        "exp pop": "que penatra, que invade",
+        "en": "invasive",
+        "es": "invasivo"
+    },
+    "investigação": {
+        "exp pop": "indagação, pesquisa",
+        "en": "examination, checkup",
+        "es": "investigación"
+    },
+    "ionograma": {
+        "exp pop": "ionograma",
+        "en": "ion diagram",
+        "es": "ionograma"
+    },
+    "iridociclite": {
+        "exp pop": "infecção de um dos anexos da vista",
+        "en": "iridocyclitis",
+        "es": "iridociclitis"
+    },
+    "irite": {
+        "exp pop": "inflamação da íris",
+        "en": "iritis",
+        "es": "iritis"
+    },
+    "irritação": {
+        "exp pop": "estímulo, estimulação, excitação",
+        "en": "stimulation, irritation",
+        "es": "irritación"
+    },
+    "isolar": {
+        "exp pop": "isolar",
+        "en": "isolate",
+        "es": "aislar"
+    },
+    "isotónico": {
+        "exp pop": "que tem a mesma tensão ou concentração",
+        "en": "isotonic",
+        "es": "isotónico"
+    },
+    "jejuno": {
+        "exp pop": "parte do intestino delgado desde o duodeno até ao íleo",
+        "en": "empty intestine, jejunum",
+        "es": "yeyuno"
+    },
+    "lactação": {
+        "exp pop": "formação de leite",
+        "en": "lactation",
+        "es": "lactación"
+    },
+    "laringite": {
+        "exp pop": "inflamação da laringe",
+        "en": "laryngitis",
+        "es": "laringitis"
+    },
+    "lateral": {
+        "exp pop": "lateral",
+        "en": "lateral",
+        "es": "lateral"
+    },
+    "lavagem das mãos": {
+        "desc_pt": "Ação de remover qualquer substância indesejável ou microrganismo das mãos de uma pessoa com água ou outro líquido, com ou sem sabão ou outros detergentes.",
+        "en": "hand washing",
+        "desc_en": "Action of removing any unwanted substance or microorganism from a person's hands using water or another liquid, with or without soap or other detergents.",
+        "fr": "lavage des mains"
+    },
+    "lenticular": {
+        "exp pop": "relacionado com o cristalino",
+        "en": "lenticular nucleus",
+        "es": "lenticular"
+    },
+    "letal": {
+        "exp pop": "que provoca a morte",
+        "en": "lethal, deadly",
+        "es": "letal"
+    },
+    "letargia": {
+        "exp pop": "embriaguez, sonolência",
+        "en": "lethargy",
+        "es": "letargia"
+    },
+    "leucocitose": {
+        "exp pop": "aumento do número de glóbulos brancos em circulação",
+        "en": "leukocytosis, leucocytosis",
+        "es": "leucocitosis"
+    },
+    "leucopenia": {
+        "exp pop": "deficiência de glóbulos brancos no sangue",
+        "en": "leukopenia, leukocytopenia",
+        "es": "leucopenia"
+    },
+    "leucócito": {
+        "exp pop": "glóbulo branco",
+        "en": "leukocyte, white blood cell",
+        "es": "leucocito"
+    },
+    "ligamento": {
+        "exp pop": "feixe fibroso entre dos ossos numa articulação",
+        "en": "band, ligament",
+        "es": "ligamento"
+    },
+    "limite epidêmico": {
+        "desc_pt": "Número de indivíduos em uma população em risco que é necessário para que uma epidemia ocorra.",
+        "en": "epidemic threshold",
+        "desc_en": "Number of individuals within a population at risk that is required for an epidemic to occur.",
+        "fr": "seuil épidémique"
+    },
+    "limpeza ambiental": {
+        "desc_pt": "Conjunto de ações e processos, incluindo limpeza, desinfecção e monitoramento, implementados em locais com risco de propagação de agente infeccioso por meio de objetos contaminados.",
+        "en": "environmental cleaning",
+        "desc_en": "Set of actions and processes, including cleaning, disinfecting and monitoring, implemented in places at risk of spread of an infectious agent through contaminated objects.",
+        "fr": "nettoyage de l'environnement"
+    },
+    "linfoma": {
+        "exp pop": "tumor maligno gerado no tecido linfóide",
+        "en": "lymphoma",
+        "es": "linfoma"
+    },
+    "liquenificação": {
+        "exp pop": "endurecimento da pele",
+        "en": "lichenification",
+        "es": "liquenificación"
+    },
+    "lobo": {
+        "exp pop": "lóbulo",
+        "en": "flap",
+        "es": "lobo"
+    },
+    "local": {
+        "exp pop": "restricto, não geral",
+        "en": "local, topic(al)",
+        "es": "local"
+    },
+    "localização": {
+        "exp pop": "restrição a uma área determinada",
+        "en": "localization",
+        "es": "localización"
+    },
+    "lombar": {
+        "exp pop": "relacionado com a parte inferior da coluna vertebral",
+        "en": "lumbar",
+        "es": "lumbar"
+    },
+    "lumbago": {
+        "exp pop": "dor na parte inferior da coluna vertebral",
+        "en": "lumbago, lumbar pain",
+        "es": "lumbago"
+    },
+    "luva médica": {
+        "desc_pt": "Equipamento de proteção individual para as mãos normalmente usado por profissionais de saúde para se proteger da exposição a agentes infecciosos ou outros perigos biológicos, químicos ou físicos.",
+        "en": "medical glove",
+        "desc_en": "Personal protective equipment for the hands typically worn by healthcare professionals to protect themselves from exposure to infectious agents or other biological, chemical or physical hazards.",
+        "fr": "gant médical"
+    },
+    "luxação": {
+        "exp pop": "deslocação dos ossos de uma articulação",
+        "en": "dislocation",
+        "es": "luxación"
+    },
+    "líbido": {
+        "exp pop": "desejo sexual",
+        "en": "libido, sex drive",
+        "es": "líbido"
+    },
+    "lóquios": {
+        "exp pop": "corrimento após o parto",
+        "en": "lochia",
+        "es": "locuos"
+    },
+    "lúmen": {
+        "exp pop": "cavidade ou canal dentro de um órgão em forma de tubo",
+        "en": "lumen",
+        "es": "lumen"
+    },
+    "maciço": {
+        "exp pop": "grande, amplo",
+        "en": "massive, compact",
+        "es": "macizo"
+    },
+    "malformação": {
+        "exp pop": "deformação",
+        "en": "malformation",
+        "es": "malformación"
+    },
+    "maligno": {
+        "exp pop": "ruim; de evolução fatal",
+        "en": "malign(ant)",
+        "es": "maligno"
+    },
+    "mania": {
+        "exp pop": "delírio maníaco, delírio furioso",
+        "en": "mania",
+        "es": "manía"
+    },
+    "manifestação": {
+        "exp pop": "exteriorização de uma doença",
+        "en": "manifestation",
+        "es": "manifestación"
+    },
+    "massagem": {
+        "exp pop": "massagem",
+        "en": "massage",
+        "es": "masaje"
+    },
+    "mastite": {
+        "exp pop": "mamite, inflamação dos peitos",
+        "en": "mastitis, mammitis",
+        "es": "mastitis"
+    },
+    "mastodinia": {
+        "exp pop": "dor nos peitos",
+        "en": "mastalgia, mastodynia",
+        "es": "mastodinia"
+    },
+    "mastoidite": {
+        "exp pop": "inflamação da apófise mastóide no ouvido",
+        "en": "mastoiditis, mastoid empyema",
+        "es": "mastoiditis"
+    },
+    "medicamento": {
+        "exp pop": "remédio, medicina",
+        "en": "medicament, medicine, drug",
+        "es": "medicamento"
+    },
+    "melena": {
+        "exp pop": "fezes negras pela presença de sangue",
+        "en": "tarry stool, melena",
+        "es": "melena"
+    },
+    "membrana": {
+        "exp pop": "membrana",
+        "en": "membrane",
+        "es": "membrana"
+    },
+    "meningite": {
+        "exp pop": "inflamação das meninges",
+        "en": "meningitis, cerebral meningitis",
+        "es": "meningitis"
+    },
+    "menopausa": {
+        "exp pop": "cessação da menstruação na mulher",
+        "en": "menopause, change of life",
+        "es": "menopausia"
+    },
+    "menstruação": {
+        "exp pop": "regras",
+        "en": "period, menstruation",
+        "es": "menstruación"
+    },
+    "mental": {
+        "exp pop": "psíquico",
+        "en": "mental",
+        "es": "mental"
+    },
+    "metabolismo": {
+        "exp pop": "conjunto de reacções bioquímicas dentro do organismo",
+        "en": "metabolism, metabolic activity",
+        "es": "metabolismo"
+    },
+    "meteorismo": {
+        "exp pop": "timpanismo, timpanite, dilatação do ventre (devido a gases)",
+        "en": "meteorism, tympanites",
+        "es": "meteorismo"
+    },
+    "metrorragia": {
+        "exp pop": "hemorragia sanguínea uterina não menstrual",
+        "en": "metrorrhagia",
+        "es": "metrorragia"
+    },
+    "mialgia": {
+        "exp pop": "miodinia, dor muscular",
+        "en": "muscular pain, myalgia",
+        "es": "mialgia"
+    },
+    "micose": {
+        "exp pop": "doença causada por fungos",
+        "en": "fungal infection, mycosis",
+        "es": "micosis"
+    },
+    "micção": {
+        "exp pop": "acção de urinar, urinação",
+        "en": "urination, miction",
+        "es": "micción"
+    },
+    "micótico": {
+        "exp pop": "produzido por fungos",
+        "en": "mycotic, fungal",
+        "es": "micótico"
+    },
+    "mieloma": {
+        "exp pop": "tumor maligno das células da medula do osso; cancro do sangue",
+        "en": "myeloma",
+        "es": "mieloma"
+    },
+    "miocardite": {
+        "exp pop": "inflamação do miocárdio",
+        "en": "myocardial inflammation, myocarditis",
+        "es": "miocarditis"
+    },
+    "miopatia": {
+        "exp pop": "qualquer doença muscular",
+        "en": "myopathy",
+        "es": "miopatía"
+    },
+    "miopia": {
+        "exp pop": "hipometropia, visão curta, vista-curta",
+        "en": "myopia, shortsightedness, nearsightedness",
+        "es": "miopía"
+    },
+    "miosite": {
+        "exp pop": "miíte, inflamação de um músculo voluntário",
+        "en": "myositis, myitis",
+        "es": "miositis"
+    },
+    "mitigação": {
+        "desc_pt": "Estratégia adotada por um órgão público para reduzir o número de pessoas infectadas em uma determinada área geográfica e limitar o impacto no sistema de saúde de um surto de doença.",
+        "en": "mitigation",
+        "desc_en": "Strategy adopted by a public body to reduce the number of infected people in a given geographical area and limit the impact on the health system of a disease outbreak.",
+        "fr": "stratégie d'atténuation"
+    },
+    "mitose": {
+        "exp pop": "divisão cinética, cariocinese, divisão celular indirecta",
+        "en": "mitosis, mitoschisis",
+        "es": "mitosis"
+    },
+    "miótico": {
+        "exp pop": "relativo à divisão dos cromossomas e replicação das células",
+        "en": "miotic",
+        "es": "miótico"
+    },
+    "modo de transmissão": {
+        "desc_pt": "Meio pelo qual um agente infeccioso se espalha de um hospedeiro para outro.",
+        "en": "mode of transmission",
+        "desc_en": "Means by which an infectious agent spreads from one host to another.",
+        "fr": "mode de transmission"
+    },
+    "morbidade": {
+        "desc_pt": "Nível de saúde e bem-estar de um indivíduo.",
+        "en": "morbidity",
+        "desc_en": "Level of health and well-being of an individual.",
+        "fr": "morbidité"
+    },
+    "mortalidade": {
+        "exp pop": "taxa de falecimentos de uma população",
+        "en": "mortality",
+        "es": "mortalidad"
+    },
+    "motor": {
+        "exp pop": "que move, motriz",
+        "en": "motor(ial), motoric",
+        "es": "motor"
+    },
+    "muco": {
+        "exp pop": "mucosidade; pituíta, monco, ranho",
+        "en": "mucus, phlegm",
+        "es": "moco , pituita"
+    },
+    "mucosa": {
+        "exp pop": "(membrana) mucosa",
+        "en": "mucous membrane, mucosa",
+        "es": "mucosa"
+    },
+    "multípara": {
+        "exp pop": "que teve vários filhos",
+        "en": "multipara, pluripara",
+        "es": "multípara"
+    },
+    "muscular": {
+        "exp pop": "relativo ao músculo; com musculatura bem desenvolvida",
+        "en": "muscular, sarcous",
+        "es": "muscular"
+    },
+    "mutação": {
+        "exp pop": "mudança do material genético",
+        "en": "mutation",
+        "es": "mutación"
+    },
+    "mutismo": {
+        "exp pop": "mudez",
+        "en": "mutism",
+        "es": "mutismo"
+    },
+    "mácula": {
+        "exp pop": "sinal, mancha, cicatriz, estigma",
+        "en": "macula",
+        "es": "mácula"
+    },
+    "máscara": {
+        "desc_pt": "Cobertura produzida comercialmente ou caseira para nariz e boca usada para reduzir a propagação de gotículas respiratórias do usuário para outras pessoas.",
+        "en": "mask",
+        "desc_en": "Commercially produced or homemade covering for nose and mouth used to reduce the spread of respiratory droplets from the wearer to others.",
+        "fr": "masque"
+    },
+    "máscara autofiltrante": {
+        "desc_pt": "Equipamento de proteção respiratória que utiliza filtros para remover substâncias perigosas do ar respirado pelo usuário.",
+        "en": "filtering facepiece respirator",
+        "desc_en": "Respiratory protective equipment that uses filters to remove hazardous substances from the air being breathed by the wearer.",
+        "fr": "masque de protection respiratoire"
+    },
+    "máscara cirúrgica": {
+        "desc_pt": "Máscara meia-face, plana e retangular, confeccionada em tecido não tecido e composta por camadas filtrantes, com dobras e faixas elásticas ou longas tiras retas que podem ser colocadas atrás das orelhas ou amarradas na cabeça, que são usadas para proteger a usuário de sprays, respingos e gotículas de partículas grandes e para evitar a propagação de gotículas respiratórias do usuário para outras pessoas.",
+        "en": "surgical mask",
+        "desc_en": "Half-face mask, flat and rectangular in shape, made of nonwoven fabric and comprising filtration layers, with folds and elastic bands or long straight ties that can be looped behind a person’s ears or tied around a person’s head, which is used to protect the wearer from sprays, splashes, and large-particle droplets and to prevent the spread of respiratory droplets from the wearer to others.",
+        "fr": "masque chirurgical"
+    },
+    "médico": {
+        "exp pop": "medical, medicinal",
+        "en": "medical, iatric(al)",
+        "es": "médico"
+    },
+    "mímica": {
+        "exp pop": "expressão de ideias ou pensamentos por meio de gestos",
+        "en": "(facial) expression",
+        "es": "mímica"
+    },
+    "necrose": {
+        "exp pop": "morte celular, esfacelo, gangrena",
+        "en": "necrosis",
+        "es": "necrosis"
+    },
+    "nefrite": {
+        "exp pop": "inflamação do rim",
+        "en": "nephritis",
+        "es": "nefritis"
+    },
+    "nefropatia": {
+        "exp pop": "doença renal",
+        "en": "kidney disease, nephropathy",
+        "es": "nefropatía"
+    },
+    "nefrotóxico": {
+        "exp pop": "tóxico para os rins",
+        "en": "nephrotoxic",
+        "es": "nefrotóxico"
+    },
+    "neonatal": {
+        "exp pop": "relativo ao primeiro mês de vida",
+        "en": "neonatal, newborn",
+        "es": "neonatal"
+    },
+    "neurite": {
+        "exp pop": "nevrite, inflamação de um nervo",
+        "en": "neuritis",
+        "es": "neuritis"
+    },
+    "neuroléptico": {
+        "exp pop": "calmante do sistema nervoso",
+        "en": "neuroleptic, neuroleptic agent",
+        "es": "neuroléptico"
+    },
+    "neurológico": {
+        "exp pop": "relativo ao sistema nervoso ou à neurologia",
+        "en": "neurological, neurologic",
+        "es": "neurológico"
+    },
+    "neuromuscular": {
+        "exp pop": "relativo à correlação entre os nervos e os músculos",
+        "en": "neuromuscular",
+        "es": "neuromuscular"
+    },
+    "neurotransmissor": {
+        "exp pop": "substância que transmite impulsos nervosos por via química",
+        "en": "neurotransmitter",
+        "es": "neurotransmisor"
+    },
+    "neurótico": {
+        "exp pop": "nevrótico, neuropático, nevropático",
+        "en": "neurotic",
+        "es": "neurótico"
+    },
+    "neutropenia": {
+        "exp pop": "insuficiência de glóbulos brancos",
+        "en": "neutro(cyto)penia",
+        "es": "neutropenia"
+    },
+    "nictúria": {
+        "exp pop": "incontinência das urinas durante a noite",
+        "en": "nycturia, nocturia",
+        "es": "nicturia"
+    },
+    "nistagmo": {
+        "exp pop": "movimento reflexo do globo ocular (dos olhos)",
+        "en": "nystagmus, nystaxis",
+        "es": "nistagmo"
+    },
+    "nulípara": {
+        "exp pop": "[mulher] que nunca deu à luz",
+        "en": "nullipara, nulliparous woman",
+        "es": "nulípara"
+    },
+    "numular": {
+        "exp pop": "escarros em forma de moeda nas tuberculoses pulmonares",
+        "en": "nummular",
+        "es": "numular"
+    },
+    "náusea": {
+        "exp pop": "vontade de vomitar; enjoo; repugnância, sentimento de repulsão",
+        "en": "sickness, nausea",
+        "es": "náusea"
+    },
+    "núcleo goticular": {
+        "desc_pt": "Resíduo seco, de aproximadamente ≤ 5 μm de diâmetro, que resulta da evaporação de gotículas tossidas ou espirradas para o ar.",
+        "en": "droplet nucleus",
+        "desc_en": "Dried residue, approximately ≤ 5 μm in diameter, which results from the evaporation of droplets coughed or sneezed into the air.",
+        "fr": "noyau de gouttelettes"
+    },
+    "número básico de reprodução": {
+        "desc_pt": "Número médio de casos secundários que um caso produz em uma população de risco.",
+        "en": "basic reproduction number",
+        "desc_en": "Average number of secondary cases that one case produces in a population at risk.",
+        "fr": "taux de reproduction de base"
+    },
+    "obesidade": {
+        "exp pop": "excesso de peso corporal por acumulação de gordura",
+        "en": "adiposity",
+        "es": "obesidad"
+    },
+    "objectivo": {
+        "exp pop": "perceptível aos sentidos externos; meta",
+        "en": "object, target",
+        "es": "objetivo"
+    },
+    "obstipação": {
+        "exp pop": "dificuldade de expelir os excrementos, prisão de ventre",
+        "en": "obstipation, constipation",
+        "es": "estreñimiento"
+    },
+    "obstrução": {
+        "exp pop": "entupimento",
+        "en": "obstruction, blockage",
+        "es": "obstrucción"
+    },
+    "ocasional": {
+        "exp pop": "de vez em quando",
+        "en": "opportunity, opportunistic",
+        "es": "ocasional"
+    },
+    "oclusão": {
+        "exp pop": "obliteração, fecho, de um canal ou de uma abertura natural",
+        "en": "occlusion, obliteration, obstruction",
+        "es": "oclusión"
+    },
+    "oculto": {
+        "exp pop": "escondido, secrecto",
+        "en": "masked, concealed",
+        "es": "oculto"
+    },
+    "odor": {
+        "exp pop": "cheiro",
+        "en": "sense of smell, scent",
+        "es": "fetor , olor"
+    },
+    "opistótono": {
+        "exp pop": "arqueamento posterior da cabeça e membros inferiores",
+        "en": "opisthotonus",
+        "es": "opistótono"
+    },
+    "oportunista": {
+        "exp pop": "diz-se do microrganismo que produz doenças unicamente em determinadas circunstâncias",
+        "en": "opportunistic",
+        "es": "oportunista"
+    },
+    "oral": {
+        "exp pop": "relativo à boca, pela boca",
+        "en": "oral",
+        "es": "oral"
+    },
+    "orgasmo": {
+        "exp pop": "ponto mais elevado da excitação sexual",
+        "en": "climax, orgasm, acme",
+        "es": "orgasmo"
+    },
+    "orquite": {
+        "exp pop": "inflamação de um testículo",
+        "en": "orchitis, didymitis, testitis",
+        "es": "orquitis"
+    },
+    "ortostático": {
+        "exp pop": "relativo à posição do pé ou causado por ele",
+        "en": "orthostatic",
+        "es": "ortostático"
+    },
+    "ossificação": {
+        "exp pop": "formação do osso ou de substância óssea",
+        "en": "ossification",
+        "es": "osificación"
+    },
+    "osteomielite": {
+        "exp pop": "infecção dos ossos",
+        "en": "osteomyelitis",
+        "es": "osteomielitis"
+    },
+    "osteoporose": {
+        "exp pop": "rarefacção dos minerais nos ossos; desmineralização esquelética",
+        "en": "osteoporosis, brittle bones",
+        "es": "osteoporosis"
+    },
+    "osteotomia": {
+        "exp pop": "corte cirúrgico do osso",
+        "en": "osteotomy",
+        "es": "osteotomía"
+    },
+    "osteólise": {
+        "exp pop": "destruição dos ossos",
+        "en": "osteolysis",
+        "es": "osteolisis"
+    },
+    "otosclerose": {
+        "exp pop": "doença do labirinto ósseo do ouvido",
+        "en": "otosclerosis",
+        "es": "otosclerosis"
+    },
+    "ovulação": {
+        "exp pop": "desprendimento natural do óvulo",
+        "en": "ovulation, follicular rupture",
+        "es": "ovulación"
+    },
+    "ovárico": {
+        "exp pop": "relativo ao ovário",
+        "en": "ovarial",
+        "es": "ovárico"
+    },
+    "paliativo": {
+        "exp pop": "que alivia as dores mas não cura",
+        "en": "palliative",
+        "es": "paliativo"
+    },
+    "palpitação": {
+        "exp pop": "sensação de batimentos cardíacos rápidos e irregulares",
+        "en": "palpitation",
+        "es": "palpitación , palpitaciones cardíacas"
+    },
+    "pancreatite": {
+        "exp pop": "inflamação do pâncreas",
+        "en": "pancreatitis",
+        "es": "pancreatitis"
+    },
+    "pandemia": {
+        "desc_pt": "Doença epidêmica que se espalhou para diferentes países e continentes.",
+        "en": "pandemic",
+        "desc_en": "Epidemic disease that has spread to different countries and continents.",
+        "fr": "pandémie"
+    },
+    "papilite": {
+        "exp pop": "neuropapilite, inflamação de uma papila",
+        "en": "papillitis",
+        "es": "papilitis"
+    },
+    "paracentese": {
+        "exp pop": "esvaziamento por punção",
+        "en": "paracentesis",
+        "es": "paracentesis"
+    },
+    "paralisia": {
+        "exp pop": "privação ou diminuição considerável do movimento voluntário e da sensibilidade",
+        "en": "paralysis, palsy (incomplete)",
+        "es": "parálisis"
+    },
+    "parestesia": {
+        "exp pop": "sensação de formigueiro, picadelas",
+        "en": "paresthesia, paraesthesia",
+        "es": "parestesia"
+    },
+    "paroníquia": {
+        "exp pop": "inflamação do dedo perto da unha; panarício",
+        "en": "paronychia, perionychia",
+        "es": "paroníquia"
+    },
+    "parto": {
+        "exp pop": "parto",
+        "en": "childbirth, labor",
+        "es": "parto"
+    },
+    "partícula": {
+        "exp pop": "corpúsculo, parte elementar",
+        "en": "particle",
+        "es": "partícula"
+    },
+    "parâmetro": {
+        "exp pop": "parâmetro, critério",
+        "en": "parameter",
+        "es": "parámetro"
+    },
+    "parênquima": {
+        "exp pop": "parte funcional de um órgão",
+        "en": "parenchymatous tissue, parenchyma",
+        "es": "parénquima"
+    },
+    "passivo": {
+        "exp pop": "não activo",
+        "en": "passive",
+        "es": "pasivo"
+    },
+    "patológico": {
+        "exp pop": "mórbido, relacionado com uma doença determinada",
+        "en": "pathologic(al)",
+        "es": "patológico"
+    },
+    "patógeno": {
+        "desc_pt": "Agente infeccioso causador de doença.",
+        "en": "pathogen",
+        "desc_en": "Infectious agent causing a disease.",
+        "fr": "agent pathogène"
+    },
+    "percepção": {
+        "exp pop": "percepção",
+        "en": "perception, percipience",
+        "es": "percepción"
+    },
+    "percutâneo": {
+        "exp pop": "através da pele",
+        "en": "percutaneous, transcutaneous",
+        "es": "percutáneo"
+    },
+    "perfuração": {
+        "exp pop": "abertura; orifício",
+        "en": "perforation",
+        "es": "perforación"
+    },
+    "perfusão": {
+        "exp pop": "perfusão; transfusão",
+        "en": "perfusion, flow, blood flow",
+        "es": "perfusión"
+    },
+    "perianal": {
+        "exp pop": "em volta do ânus",
+        "en": "perianal, circumanal",
+        "es": "perianal"
+    },
+    "pericardite": {
+        "exp pop": "inflamação da envoltura do coração",
+        "en": "pericarditis",
+        "es": "pericarditis"
+    },
+    "periférico": {
+        "exp pop": "fora do centro, fora do sistema nervoso central",
+        "en": "peripheral, peripheric",
+        "es": "periférico"
+    },
+    "peritonite": {
+        "exp pop": "inflamação da envoltura do abdominal",
+        "en": "peritonitis",
+        "es": "peritonitis"
+    },
+    "periódico": {
+        "exp pop": "cíclico, regular",
+        "en": "periodic(al)",
+        "es": "periódico"
+    },
+    "pernicioso": {
+        "exp pop": "mau, grave, maligno",
+        "en": "pernicious, destructive",
+        "es": "pernicioso"
+    },
+    "período de incubação": {
+        "desc_pt": "Intervalo de tempo entre a exposição a um agente infeccioso e o aparecimento dos sintomas de uma doença.",
+        "en": "incubation period",
+        "desc_en": "Lapse of time between the exposure to an infectious agent and the onset of the symptoms of a disease.",
+        "fr": "période d'incubation"
+    },
+    "período de latência": {
+        "exp pop": "tempo de espera",
+        "en": "latency, latent period",
+        "es": "período de latencia"
+    },
+    "pessário": {
+        "exp pop": "instrumento que se coloca na vagina como dispositivo contraceptivo; supositório vaginal",
+        "en": "diaphragm, diaphragm pessary",
+        "es": "pesario"
+    },
+    "pielite": {
+        "exp pop": "inflamação da pélvis renal",
+        "en": "pyelitis",
+        "es": "pielitis"
+    },
+    "pielonefrite": {
+        "exp pop": "inflamação conjunta do rim e da pélvis renal",
+        "en": "pyelonephritis, nephropyelitis",
+        "es": "pielonefritis"
+    },
+    "pigmentação": {
+        "exp pop": "matéria orgânica corante da pele",
+        "en": "pigmentation",
+        "es": "pigmentación"
+    },
+    "piloro": {
+        "exp pop": "saída do estômago",
+        "en": "pylorus",
+        "es": "píloro"
+    },
+    "pitiríase": {
+        "exp pop": "descamação da pele",
+        "en": "pityriasis",
+        "es": "pitiriasis"
+    },
+    "placebo": {
+        "exp pop": "medicamento destinado mais a agradar do que a beneficiar o",
+        "en": "placebo, dummy",
+        "es": "placebo"
+    },
+    "plasma sanguíneo": {
+        "desc_pt": "Parte líquida do sangue na qual os glóbulos vermelhos, brancos e plaquetas estão suspensos e que transporta essas células sanguíneas, bem como proteínas, sais minerais, açúcares, gorduras e hormônios por todo o corpo.",
+        "en": "blood plasma",
+        "desc_en": "Liquid part of the blood in which red and white blood cells and platelets are suspended and which carries such blood cells as well as proteins, mineral salts, sugars, fats, and hormones throughout the body.",
+        "fr": "plasma sanguin"
+    },
+    "pneumonia": {
+        "exp pop": "pulmonia, inflamação dos pulmões e brônquios respiratórios",
+        "en": "pneumonia, pulmonitis, pneumonitis",
+        "es": "neumonía"
+    },
+    "polidipsia": {
+        "exp pop": "sede excessiva persistente; sintoma de diabetes mellitus descompensada",
+        "en": "polydipsia",
+        "es": "polidipsia"
+    },
+    "poliúria": {
+        "exp pop": "eliminação de grandes quantidades de urina por dia",
+        "en": "polyuria, hydruria",
+        "es": "poliuria"
+    },
+    "porta de entrada": {
+        "desc_pt": "Local anatômico no qual um agente infeccioso entra em um hospedeiro.",
+        "en": "portal of entry",
+        "desc_en": "Anatomical site at which an infectious agent enters a host.",
+        "fr": "porte d'entrée"
+    },
+    "porta de saída": {
+        "desc_pt": "Local anatômico no qual um agente infeccioso deixa um hospedeiro.",
+        "en": "portal of exit",
+        "desc_en": "Anatomical site at which an infectious agent leaves a host.",
+        "fr": "porte de sortie"
+    },
+    "potencial": {
+        "exp pop": "existente mas não activo",
+        "en": "potential",
+        "es": "potencial"
+    },
+    "potência": {
+        "exp pop": "poder; capacidade sexual; poder de um medicamento produzir efeitos",
+        "en": "potence, potency",
+        "es": "potencia"
+    },
+    "predisposição": {
+        "exp pop": "aptidão do organismo para contrair certas doenças; vocação",
+        "en": "predisposition",
+        "es": "predisposición"
+    },
+    "prematuro": {
+        "exp pop": "que acontece antes do tempo (normal)",
+        "en": "premature infant, preterm infant",
+        "es": "prematuro"
+    },
+    "preparação para pandemia": {
+        "desc_pt": "Capacidade de um órgão público de lidar com uma ameaça à saúde humana causada por uma pandemia, garantindo que planos de resposta apropriados sejam implementados.",
+        "en": "pandemic preparedness",
+        "desc_en": "Ability of a public body to deal with a threat to human health caused by a pandemic by ensuring that appropriate response plans are in place.",
+        "fr": "préparation à une pandémie"
+    },
+    "prepúcio": {
+        "exp pop": "prega de pele que recobre a glande do pénis ou o clítoris",
+        "en": "prepuce, preputium",
+        "es": "prepucio"
+    },
+    "prescrição": {
+        "exp pop": "receita",
+        "en": "prescription",
+        "es": "prescripción"
+    },
+    "prevalência": {
+        "desc_pt": "Todos os casos de uma doença observados em um determinado momento em uma população em risco.",
+        "en": "prevalence",
+        "desc_en": "All cases of a disease observed at a given point in time in a population at risk.",
+        "fr": "prévalence"
+    },
+    "priapismo": {
+        "exp pop": "erecção anormal e persistente",
+        "en": "priapism",
+        "es": "priapismo"
+    },
+    "primário": {
+        "exp pop": "primeiro, principal, originário",
+        "en": "primary",
+        "es": "primario"
+    },
+    "privação": {
+        "exp pop": "falta ou carência",
+        "en": "withdrawal, withdrawing",
+        "es": "privación"
+    },
+    "procedimento": {
+        "exp pop": "método, processo",
+        "en": "procedure, course of action",
+        "es": "procedimiento"
+    },
+    "proctite": {
+        "exp pop": "inflamação do recto",
+        "en": "proctitis, rectitis",
+        "es": "proctitis"
+    },
+    "profilaxia": {
+        "exp pop": "medicina preventiva",
+        "en": "prophylaxis, prevention",
+        "es": "profilaxia"
+    },
+    "prolapso": {
+        "exp pop": "afundamento ou queda (ex.: útero, recto, cordão umbilical)",
+        "en": "prolapse",
+        "es": "prolapso"
+    },
+    "pronto atendimento": {
+        "desc_pt": "Cuidados médicos prestados para doenças ou lesões que requerem atenção imediata, mas normalmente não são tão graves a ponto de exigir os serviços de uma sala de emergência.",
+        "en": "urgent care",
+        "desc_en": "Medical care provided for illnesses or injuries that require prompt attention but are typically not so serious as to require the services of an emergency room.",
+        "fr": "soins non programmés"
+    },
+    "prostatite": {
+        "exp pop": "inflamação da próstata",
+        "en": "prostatitis",
+        "es": "prostatitis"
+    },
+    "protrombina": {
+        "exp pop": "factor II da coagulação sanguínea; trombogénio",
+        "en": "prothrombin",
+        "es": "protrombina"
+    },
+    "protrusão": {
+        "exp pop": "deslocação para a frente de um órgão",
+        "en": "protrusion",
+        "es": "protrusión"
+    },
+    "prótese": {
+        "exp pop": "substituição artificial de um órgão; anaplerose",
+        "en": "prosthesis, artificial limb",
+        "es": "prótesis"
+    },
+    "psicogénico": {
+        "exp pop": "que tem origem emocional ou psicológica",
+        "en": "psychic, psychogenic",
+        "es": "psicogénico"
+    },
+    "psicomotor": {
+        "exp pop": "relativo aos efeitos motores da actividade cerebral ou psíquica",
+        "en": "psychomotor",
+        "es": "psicomotor"
+    },
+    "psicossomático": {
+        "exp pop": "que tem sintomas corporais de origem psíquica, emocional e mental",
+        "en": "psychosomatic",
+        "es": "psicosomático"
+    },
+    "psiquiátrico": {
+        "exp pop": "relativo à psiquiatria",
+        "en": "psychiatric",
+        "es": "psiquiátrico"
+    },
+    "psíquico": {
+        "exp pop": "mental",
+        "en": "psychic(al)",
+        "es": "psíquico"
+    },
+    "ptose": {
+        "exp pop": "queda de um órgão",
+        "en": "ptosis, sinking down",
+        "es": "ptosis"
+    },
+    "puberdade": {
+        "exp pop": "período de maturidade sexual",
+        "en": "puberty, pubertas",
+        "es": "pubertad"
+    },
+    "puerpério": {
+        "exp pop": "período de restabelecimento após o parto",
+        "en": "childbed, lying-in, puerperium",
+        "es": "puerperio"
+    },
+    "pulsação": {
+        "exp pop": "batimento cardíaco ou o fluxo do sangue nas artérias",
+        "en": "pulse (beat)",
+        "es": "pulsación"
+    },
+    "punção": {
+        "exp pop": "paracentese, puntura",
+        "en": "puncture, tap",
+        "es": "punción"
+    },
+    "purulento": {
+        "exp pop": "que contém ou produz pus",
+        "en": "purulent, suppurative",
+        "es": "purulento"
+    },
+    "pápula": {
+        "exp pop": "pequena elevação sólida e circunscrita da pele",
+        "en": "papule, papula",
+        "es": "pápula"
+    },
+    "pélvico": {
+        "exp pop": "relativo à parte inferior do tronco do corpo",
+        "en": "pelvic",
+        "es": "pélvico"
+    },
+    "pénis": {
+        "exp pop": "membro viril, falo, pene, verga",
+        "en": "penis",
+        "es": "pene"
+    },
+    "pênfigo": {
+        "exp pop": "doença bulhosa da pele",
+        "en": "pemphigus",
+        "es": "pénfigo"
+    },
+    "púrpura": {
+        "exp pop": "doença de Werlhof, caracterizada por manchas de cor vermelha devidas à ocorrência de hemorragias subcutâneas",
+        "en": "purpura, peliosis",
+        "es": "púrpura"
+    },
+    "quarentena": {
+        "desc_pt": "Estratégia adotada por órgão público para manter afastado da população em geral, por determinado período de tempo, todos os indivíduos suspeitos de contato com pessoa acometida por doença infectocontagiosa ou procedente de área afetada, até que se confirme que não contraíram a doença doença.",
+        "en": "quarantine",
+        "desc_en": "Strategy adopted by a public body to keep apart from the general population for a certain period of time all individuals suspected of having contact with a person affected by an infectious disease or coming from an affected area, until it is confirmed that they have not contracted the disease.",
+        "fr": "quarantaine"
+    },
+    "quelóide": {
+        "exp pop": "cicatriz defeituosa",
+        "en": "keloid, cheloid",
+        "es": "queloide"
+    },
+    "quimioterapia": {
+        "exp pop": "tratamento do cancro com substâncias químicas",
+        "en": "chemotherapy",
+        "es": "quimioterapia"
+    },
+    "quisto": {
+        "exp pop": "tumefacção anormal com conteúdo líquido; ciste",
+        "en": "cyst",
+        "es": "quiste"
+    },
+    "raquitismo": {
+        "exp pop": "doença de Glisson, nodosidade das articulações",
+        "en": "rickets",
+        "es": "raquitismo"
+    },
+    "rastreamento de contatos": {
+        "desc_pt": "Processo de identificação, listagem e seguimento de contactos.",
+        "en": "contact tracing",
+        "desc_en": "Process of identification, listing and follow-up of contacts.",
+        "fr": "traçage des contacts"
+    },
+    "rastreio drive-through": {
+        "desc_pt": "Método de realização de testes de swab em pessoas enquanto elas permanecem em seus veículos.",
+        "en": "drive-through testing",
+        "desc_en": "Method of performing swab tests on people whilst they remain in their vehicles.",
+        "fr": "test de dépistage en voiture"
+    },
+    "reabsorção": {
+        "exp pop": "reabsorção cutânea, dental",
+        "en": "resorption, reabsorption",
+        "es": "reabsorción"
+    },
+    "reactivação": {
+        "exp pop": "restauração da actividade num corpo inactivo",
+        "en": "reactivation",
+        "es": "reactivación"
+    },
+    "reação em cadeia da polimerase": {
+        "desc_pt": "Técnica de biologia molecular que aplica alta temperatura e uma DNA polimerase a uma amostra de DNA contendo a sequência alvo, produzindo assim cópias de pequenos segmentos do DNA original para uso em análises moleculares e genéticas posteriores.",
+        "en": "polymerase chain reaction",
+        "desc_en": "Molecular biology technique that applies high temperature and a DNA polymerase to a sample of DNA containing the target sequence, thereby producing copies of small segments of the original DNA for use in further molecular and genetic analysis.",
+        "fr": "amplification en chaîne par polymérase"
+    },
+    "reação em cadeia da polimerase da transcrição reversa em tempo real": {
+        "desc_pt": "Reação em cadeia da polimerase com transcrição reversa na qual a detecção e quantificação de sequências de DNA amplificadas são realizadas após cada ciclo de PCR.",
+        "en": "real-time reverse transcription-polymerase chain reaction",
+        "desc_en": "Reverse transcription polymerase chain reaction in which detection and quantification of amplified DNA sequences are performed after each PCR cycle.",
+        "fr": "RT-PCR en temps reel"
+    },
+    "receptor": {
+        "exp pop": "receptor",
+        "en": "receiver, recipient, (blood) donee, receptor",
+        "es": "receptor"
+    },
+    "recorrente": {
+        "exp pop": "que volta à sua origem",
+        "en": "recurrent",
+        "es": "recurrente"
+    },
+    "recuperação": {
+        "exp pop": "recuperação, aproveitamento",
+        "en": "healing, recovery",
+        "es": "recuperación"
+    },
+    "reflexo": {
+        "exp pop": "reflexo",
+        "en": "reflex, jerk",
+        "es": "reflejo"
+    },
+    "reflexo de tosse": {
+        "desc_pt": "A resposta natural do corpo para ajudar a eliminar substâncias irritantes das vias respiratórias.",
+        "en": "cough reflex",
+        "desc_en": "Body's natural response to help clear irritants from the airways.",
+        "fr": "réflexe tussigène"
+    },
+    "refluxo": {
+        "exp pop": "fluxo de retorno",
+        "en": "reflux, backward flow, return flow",
+        "es": "reflujo"
+    },
+    "regeneração": {
+        "exp pop": "renovação ou preparação de tecidos ou de partes desaparecidas",
+        "en": "regeneration",
+        "es": "regeneración"
+    },
+    "regurgitação": {
+        "exp pop": "voltar à boca [por exemplo, alimentos sólidos que...]",
+        "en": "backward flow, regurgitation",
+        "es": "regurgitación"
+    },
+    "reinfecção": {
+        "exp pop": "nova infecção num mesmo agente, depois de ter curado a primeira",
+        "en": "reinfection",
+        "es": "reinfección"
+    },
+    "relaxante": {
+        "exp pop": "agente que reduz a tensão",
+        "en": "relaxant, relaxing",
+        "es": "relajante"
+    },
+    "relevante": {
+        "exp pop": "importante",
+        "en": "of importance, relevant",
+        "es": "relevante"
+    },
+    "remissão": {
+        "exp pop": "diminuição temporal dos sintomas de uma doença",
+        "en": "remission",
+        "es": "remisión"
+    },
+    "renina": {
+        "exp pop": "enzima (hormona) produzida pelos rins",
+        "en": "renin",
+        "es": "renina"
+    },
+    "repetitivo": {
+        "exp pop": "de repetição",
+        "en": "repetitive",
+        "es": "repetitivo"
+    },
+    "reservatório": {
+        "desc_pt": "Hábitat natural no qual um agente infeccioso normalmente vive, cresce e se multiplica.",
+        "en": "reservoir",
+        "desc_en": "Natural habitat in which an infectious agent normally lives, grows, and multiplies.",
+        "fr": "réservoir"
+    },
+    "residual": {
+        "exp pop": "restante, que deposita",
+        "en": "residual",
+        "es": "residual"
+    },
+    "resistência cruzada": {
+        "exp pop": "resistência a antibióticos similares",
+        "en": "cross-resistance",
+        "es": "resistencia cruzada"
+    },
+    "resposta imunitária": {
+        "desc_pt": "Reação do sistema imunológico de um organismo a estímulos potencialmente nocivos.",
+        "en": "immune response",
+        "desc_en": "Reaction of the immune system of an organism to potentially harmful stimuli.",
+        "fr": "réponse immunitaire"
+    },
+    "ressecção": {
+        "exp pop": "corte, extirpação cirúrgica parcial ou total de um órgão",
+        "en": "resection, partial excision",
+        "es": "resección"
+    },
+    "retardamento": {
+        "exp pop": "retardo, atraso no desenvolvimento de determinada actividade",
+        "en": "deceleration, slowing down, retardation",
+        "es": "retardamiento , retraso , retardo"
+    },
+    "retenção": {
+        "exp pop": "conservação, dentro do corpo, de materiais ou líquidos que se excretam normalmente",
+        "en": "retention",
+        "es": "retención"
+    },
+    "retrógrado": {
+        "exp pop": "que degenera, retrógrado, regressivo, retrocedente",
+        "en": "retrograde",
+        "es": "retrógrado"
+    },
+    "reversível": {
+        "exp pop": "que pode desaparecer totalmente com a supressão da causa",
+        "en": "reversible",
+        "es": "reversible"
+    },
+    "rinite": {
+        "exp pop": "inflamação do nariz, nasite, defluxo, constipação (nasal), catarro nasal",
+        "en": "common cold, cold",
+        "es": "rinitis"
+    },
+    "rinorreia": {
+        "exp pop": "corrimento nasal",
+        "en": "rhinorrhea, nasal hydrorrhea",
+        "es": "rinorrea"
+    },
+    "rouquidão": {
+        "exp pop": "rouquidão",
+        "en": "hoarseness, huskiness",
+        "es": "ronquera"
+    },
+    "rubor": {
+        "exp pop": "ruborização",
+        "en": "reddening, redness",
+        "es": "rubor"
+    },
+    "rubéola": {
+        "exp pop": "sarampo alemão",
+        "en": "rubella",
+        "es": "rubéola"
+    },
+    "salivação": {
+        "exp pop": "secreção de saliva, ptialismo, sialorreia, polissialia, fluxo salivar",
+        "en": "sialism, salivation",
+        "es": "salivación , tialismo"
+    },
+    "salpingite": {
+        "exp pop": "inflamação da trompa uterina, da trompa auditiva",
+        "en": "salpingitis",
+        "es": "salpingitis"
+    },
+    "sarcoma": {
+        "exp pop": "tumor maligno",
+        "en": "sarcoma",
+        "es": "sarcoma"
+    },
+    "saúde pública": {
+        "desc_pt": "Ciência de proteger e melhorar a saúde das pessoas por meio dos esforços organizados da sociedade, promovendo um estilo de vida saudável, prevenindo lesões e prevenindo, detectando e respondendo a doenças infecciosas.",
+        "en": "public health",
+        "desc_en": "Science of protecting and improving the health of people through the organized efforts of society by promoting a healthy lifestyle, preventing injuries, and preventing, detecting and responding to infectious diseases.",
+        "fr": "santé publique"
+    },
+    "seborreia": {
+        "exp pop": "excreção excessiva de substâncias gordas",
+        "en": "seborrhea",
+        "es": "seborrea"
+    },
+    "secreção": {
+        "exp pop": "secreção",
+        "en": "secretion",
+        "es": "secreción"
+    },
+    "sedativo": {
+        "exp pop": "calmante, anódino, paregórico",
+        "en": "sedative, calming",
+        "es": "sedante"
+    },
+    "sedimento": {
+        "exp pop": "depósito, assento, lia, pé, borra(s)",
+        "en": "sediment, deposit",
+        "es": "sedimento"
+    },
+    "segmento": {
+        "exp pop": "parte de um organismo ou órgão",
+        "en": "segment, section, part",
+        "es": "segmento"
+    },
+    "seguimento de contatos": {
+        "desc_pt": "Processo de monitoramento dos contatos de um caso quanto a sintomas da doença.",
+        "en": "contact follow-up",
+        "desc_en": "Process of monitoring the contacts of a case for symptoms of the disease.",
+        "fr": "suivi des contacts"
+    },
+    "sepsis": {
+        "desc_pt": "Síndrome de disfunção orgânica causada por um comprometimento dos mecanismos reguladores fisiológicos por meio dos quais um hospedeiro responde à infecção.",
+        "en": "sepsis",
+        "desc_en": "Organ dysfunction syndrome caused by an impairment of the physiological regulatory mechanisms via which a host responds to infection.",
+        "fr": "sepsis"
+    },
+    "septicémia": {
+        "exp pop": "intoxicação do sangue por microrganismos",
+        "en": "septicemia, septemia",
+        "es": "septicemia"
+    },
+    "septo": {
+        "exp pop": "tabique de separação",
+        "en": "septum, partition",
+        "es": "septo"
+    },
+    "sequência nucleotídica": {
+        "desc_pt": "Sequência das unidades repetidas de DNA ou RNA.",
+        "en": "nucleotide sequence",
+        "desc_en": "Sequence of the repeating units of DNA or RNA.",
+        "fr": "séquence nucléotidique"
+    },
+    "seroconversão": {
+        "exp pop": "mudança de um prova serológica de negativa para positiva",
+        "en": "seroconversion",
+        "es": "seroconversión"
+    },
+    "sintoma": {
+        "desc_pt": "Manifestação de uma doença que é perceptível apenas para o paciente (sintoma subjetivo) ou para o paciente e outros (sintoma ou sinal objetivo).",
+        "exp pop": "sinal",
+        "desc_en": "Manifestation of a disease that is perceptible to only the patient (subjective symptom) or to the patient and others (objective symptom or sign).",
+        "en": "symptom, sign",
+        "es": "síntoma",
+        "fr": "symptôme"
+    },
+    "sintomático": {
+        "exp pop": "pertencente aos sintomas",
+        "en": "symptomatic(al)",
+        "es": "sintomático"
+    },
+    "sinusal": {
+        "exp pop": "relativo a uma bolsa ou cavidade, particularmente na câmara superior do coração",
+        "en": "sinal, sinus(al)",
+        "es": "sinusal"
+    },
+    "sistema imunitário": {
+        "desc_pt": "Rede de células e anticorpos que defende o organismo contra o ataque de agentes percebidos como estranhos e potencialmente prejudiciais a ele, desencadeando uma resposta imune, que pode ser específica (adaptativa) ou não específica (inata).",
+        "en": "immune system",
+        "desc_en": "Network of cells and antibodies that defends the body against the attack of agents perceived as extraneous and potentially harmful to it by triggering an immune response, which can be specific (adaptive) or not specific (innate).",
+        "fr": "système immunitaire"
+    },
+    "sistémico": {
+        "exp pop": "que afecta o corpo de forma total; geral, generalizado",
+        "en": "systemic",
+        "es": "sistémico"
+    },
+    "sistólico": {
+        "exp pop": "relacionado com a contracção músculo cardíaco",
+        "en": "systolic",
+        "es": "sistólico"
+    },
+    "solução": {
+        "exp pop": "preparado líquido que contém várias substâncias químicas solúveis; soluto, licor; meio",
+        "en": "solution",
+        "es": "solución , suelto"
+    },
+    "somático": {
+        "exp pop": "relativo ao corpo: desenvolvimento somático, por exemplo",
+        "en": "somatic, somal, physical, bodily",
+        "es": "somático"
+    },
+    "sonolência": {
+        "exp pop": "sonolência",
+        "en": "somnolence, sleepiness",
+        "es": "somnolencia"
+    },
+    "subagudo": {
+        "exp pop": "pouco agudo",
+        "en": "subacute",
+        "es": "subagudo"
+    },
+    "supercontagiador": {
+        "desc_pt": "Pessoa afetada por uma doença infecciosa que transmite a doença a um número significativamente maior de pessoas do que a média das pessoas infectadas.",
+        "en": "super-spreader",
+        "desc_en": "Person affected by an infectious disease who transmits the disease to a significantly higher number of people than does the average infected person.",
+        "fr": "super-propagateur"
+    },
+    "supervisão": {
+        "exp pop": "vigilância, inspecção, controlo",
+        "en": "supervision",
+        "es": "supervisión"
+    },
+    "supositório": {
+        "exp pop": "supositório",
+        "en": "suppository",
+        "es": "supositorio"
+    },
+    "supuração": {
+        "exp pop": "formação de pus",
+        "en": "suppuration",
+        "es": "supuración"
+    },
+    "surdez": {
+        "exp pop": "surdez",
+        "en": "hearing loss, deafness",
+        "es": "sordera"
+    },
+    "surto": {
+        "desc_pt": "Aglomerado de uma doença com uma causa comum e um número total de casos inferior ao de uma epidemia.",
+        "en": "disease outbreak",
+        "desc_en": "Cluster of a disease with a common cause and an overall number of cases that is inferior to that of an epidemic.",
+        "fr": "flambée épidémique"
+    },
+    "suspensão": {
+        "exp pop": "partículas existentes na água que não foram por ela dissolvidas",
+        "en": "suspension",
+        "es": "suspensión"
+    },
+    "séptico": {
+        "exp pop": "contaminado por germes, podre",
+        "en": "septic(emic)",
+        "es": "séptico"
+    },
+    "síncope": {
+        "exp pop": "perda súbita da consciência por descida da pressão sanguínea no cérebro; desmaio",
+        "en": "syncope, swoon, faint",
+        "es": "síncope"
+    },
+    "síndrome da resposta inflamatória sistémica": {
+        "desc_pt": "Condição caracterizada por uma resposta inflamatória desproporcional a uma variedade de fenômenos clínicos graves, incluindo temperatura corporal (>38°C ou <36°C), frequência cardíaca (>90 batimentos por minuto), frequência respiratória (>20 respirações por minuto ou PaCO2 <32 mmHg) e contagem de leucócitos (>12.000/cu mm, <4.000/cu mm ou >10% de formas de bandas imaturas).",
+        "en": "systemic inflammatory response syndrome",
+        "desc_en": "Condition characterized by a disproportionate inflammatory response to a variety of severe clinical phenomena, including relating to body temperature (>38°C or <36°C), heart rate (>90 beats per minute), respiratory rate (>20 breaths per minute or PaCO2 <32 mmHg), and white blood cell count (>12,000/cu mm, <4,000/cu mm, or >10% immature band forms).",
+        "fr": "syndrome de réponse inflammatoire systémique"
+    },
+    "síndrome de liberação de citocinas": {
+        "desc_pt": "Síndrome da resposta inflamatória sistêmica causada por uma grande e rápida liberação de citocinas no sangue, que pode ser desencadeada por diversos fatores, por exemplo, uma infecção viral ou o uso de certos medicamentos em imunoterapia.",
+        "en": "cytokine release syndrome",
+        "desc_en": "Systemic inflammatory response syndrome caused by a large and rapid release of cytokines into the blood, which may be triggered by different factors, e.g. a viral infection or the use of certain drugs in immunotherapy.",
+        "fr": "syndrome de libération de cytokines"
+    },
+    "síndrome do desconforto respiratório agudo": {
+        "desc_pt": "Doença respiratória caracterizada pelo rápido início de inflamação generalizada nos pulmões.",
+        "en": "acute respiratory distress syndrome",
+        "desc_en": "Respiratory disease characterized by the rapid onset of widespread inflammation in the lungs.",
+        "fr": "syndrome de détresse respiratoire aiguë"
+    },
+    "síndrome respiratória aguda grave": {
+        "desc_pt": "Doença infecciosa causada pelo SARS-CoV-1.",
+        "en": "severe acute respiratory syndrome",
+        "desc_en": "Infectious disease caused by SARS-CoV-1.",
+        "fr": "syndrome respiratoire aigu sévère"
+    },
+    "síntese": {
+        "exp pop": "combinação; formação de substâncias in vitro por meios artificiais",
+        "en": "synthesis",
+        "es": "síntesis"
+    },
+    "taquiarritmia": {
+        "exp pop": "cadência rápida do ritmo do coração; arritmia rápida",
+        "en": "(cardiac) tachyarrhythmia",
+        "es": "taquiarritmia"
+    },
+    "taquicardia": {
+        "exp pop": "aceleração da frequência cardíaca",
+        "en": "heart hurry, tachycardia",
+        "es": "taquicardia"
+    },
+    "taxa de ataque": {
+        "desc_pt": "Proporção de pessoas que contraem uma doença em uma população inicialmente livre da doença, ou seja, durante um surto de doença.",
+        "en": "attack rate",
+        "desc_en": "Proportion of people that contract a disease in a population initially free of the disease, i.e. during a disease outbreak.",
+        "fr": "taux d'attaque"
+    },
+    "taxa de letalidade": {
+        "desc_pt": "Proporção de pessoas que morrem de uma determinada doença em relação ao total de casos confirmados.",
+        "en": "case fatality rate",
+        "desc_en": "Proportion of people who die of a given disease out of all the confirmed cases.",
+        "fr": "taux de létalité"
+    },
+    "taxa de letalidade da infecção": {
+        "desc_pt": "Proporção de pessoas que morrerão de uma determinada doença entre todas as que foram infectadas.",
+        "en": "infection fatality rate",
+        "desc_en": "Proportion of people who will die of a certain disease out of all those who have been infected.",
+        "fr": "taux de mortalité par infection"
+    },
+    "taxa de mortalidade": {
+        "desc_pt": "Número de mortes atribuídas a uma determinada doença em um período especificado dividido pelo número de novos casos da doença identificados durante o mesmo período.",
+        "en": "death-to-case ratio",
+        "desc_en": "Number of deaths attributed to a particular disease in a specified period divided by the number of new cases of the disease identified during the same period.",
+        "fr": "taux de mortalité"
+    },
+    "telangiectasia": {
+        "exp pop": "dilatação de vasos terminais, sobretudo na cara",
+        "en": "telangiectasia",
+        "es": "telangiectasia"
+    },
+    "telessaúde": {
+        "desc_pt": "Prestação remota de serviços clínicos e não clínicos usando tecnologias de informação e comunicação, como diagnóstico e tratamento de doenças e lesões, pesquisa e avaliação e educação de profissionais de saúde.",
+        "en": "telehealth",
+        "desc_en": "Remote provision of clinical and non-clinical services using information and communication technologies, such as diagnosis and treatment of diseases and   injuries, research and evaluation, and education of health professionals.",
+        "fr": "télésanté"
+    },
+    "tendinite": {
+        "exp pop": "inflamação de um tendão",
+        "en": "tendinitis, tendonitis",
+        "es": "tendinitis"
+    },
+    "tenesmo": {
+        "exp pop": "desejo doloroso e ineficaz de urinar ou defecar",
+        "en": "tenesmus",
+        "es": "tenesmo"
+    },
+    "terapia": {
+        "exp pop": "tratamento das doenças, terapêutica",
+        "en": "therapy, treatment, cure",
+        "es": "terapéutica , terapia"
+    },
+    "terapia com plasma convalescente": {
+        "desc_pt": "Tratamento terapêutico pelo qual o plasma sanguíneo doado por indivíduos que se recuperaram de uma doença infecciosa é introduzido no sangue de pessoas que sofrem da mesma doença para ajudar a controlar os sintomas e limitar a progressão da doença.",
+        "en": "convalescent plasma therapy",
+        "desc_en": "Therapeutic treatment whereby the blood plasma donated by individuals who have recovered from an infectious disease is introduced into the blood of people who are suffering from the same disease in order to help control the symptoms and limit the progression of the disease.",
+        "fr": "utilisation thérapeutique de plasma de convalescents"
+    },
+    "terapia gênica": {
+        "desc_pt": "Tratamento terapêutico pelo qual um ou mais genes estranhos são inseridos no genoma de um organismo por meio de um vetor, para compensar genes anormais ou para ajudar o organismo a produzir uma proteína que pode ser benéfica para ele.",
+        "en": "gene therapy",
+        "desc_en": "Therapeutic treatment whereby one or more foreign genes are inserted into the genome of an organism by means of a vector, to compensate for abnormal genes or to help the organism produce a protein that can be beneficial for it.",
+        "fr": "thérapie génique"
+    },
+    "teratogénico": {
+        "exp pop": "indutor de malformações fetais",
+        "en": "teratogenic",
+        "es": "teratógeno"
+    },
+    "teste laboratorial": {
+        "desc_pt": "Teste de diagnóstico realizado em amostras do corpo de uma pessoa, por ex. sangue, urina, saliva, tecidos, geralmente em instalações especialmente equipadas.",
+        "en": "laboratory test",
+        "desc_en": "Diagnostic test performed on samples of a person’s body, e.g. blood, urine, saliva, tissues, typically in specially equipped facilities.",
+        "fr": "examen de laboratoire"
+    },
+    "teste laboratorial remoto": {
+        "desc_pt": "Método de realização de um teste laboratorial no local de atendimento ao paciente ou próximo a ele.",
+        "en": "point-of-care testing",
+        "desc_en": "Method of performing a laboratory test at or near the site of patient care.",
+        "fr": "analyses de biologie délocalisée"
+    },
+    "teste serológico": {
+        "desc_pt": "Exame laboratorial que visa detectar no soro sanguíneo de um indivíduo a presença de anticorpos produzidos em resposta a determinada doença.",
+        "en": "serologic test",
+        "desc_en": "Laboratory test aimed at detecting in the blood serum of an individual the presence of antibodies produced in response to a given disease.",
+        "fr": "test sérologique"
+    },
+    "tetania": {
+        "exp pop": "estado caracterizado por cãibras e convulsões musculares",
+        "en": "tetany, tetania",
+        "es": "tetania"
+    },
+    "tique": {
+        "exp pop": "movimento involuntário que se produz repetidamente",
+        "en": "tic, habit spasm",
+        "es": "tic"
+    },
+    "tirotoxicose": {
+        "exp pop": "conjunto de sintomas devido a um excesso de hormonas tiróides",
+        "en": "thyroid toxicosis, thyrotoxicosis",
+        "es": "tirotoxicosis"
+    },
+    "tomografia computadorizada": {
+        "desc_pt": "Técnica de imagem médica pela qual imagens tridimensionais do corpo são obtidas direcionando um feixe de raios X para o paciente e girando-o rapidamente ao redor do corpo do paciente, produzindo imagens transversais que são empilhadas por um scanner de tomografia computadorizada.",
+        "en": "computed tomography",
+        "desc_en": "Medical imaging technique by which three-dimensional images of the body are obtained by directing a beam of x-rays at the patient and quickly rotating them around the patient’s body, producing cross-sectional images that are then stacked together by a computed tomography scanner.",
+        "fr": "tomographie assistée par ordinateur"
+    },
+    "toxina": {
+        "exp pop": "veneno",
+        "en": "toxin, poison",
+        "es": "toxina"
+    },
+    "tracoma": {
+        "exp pop": "doença infecciosa da conjuntiva e da córnea do olho",
+        "en": "trachoma",
+        "es": "tracoma"
+    },
+    "tranquilizante": {
+        "exp pop": "medicamento que serve para tranquilizar; calmante",
+        "en": "tranquilizer",
+        "es": "tranquilizante"
+    },
+    "transaminase": {
+        "exp pop": "enzimas hepáticas (do fígado)",
+        "en": "transaminase",
+        "es": "transaminasa"
+    },
+    "transferência": {
+        "exp pop": "passagem de um sintoma ou doença para outro(a)",
+        "en": "transfer",
+        "es": "transferencia"
+    },
+    "transmissão": {
+        "exp pop": "propagação",
+        "en": "transmission",
+        "es": "transmisión , contagio"
+    },
+    "transmissão assintomática": {
+        "desc_pt": "Modo de transmissão de uma doença infecciosa para outra pessoa de uma pessoa infectada que não desenvolve sintomas.",
+        "en": "asymptomatic transmission",
+        "desc_en": "Mode of transmission of an infectious disease to another person from an infected person who does not develop symptoms.",
+        "fr": "transmission asymptomatique"
+    },
+    "transmissão direta": {
+        "desc_pt": "Modo de transmissão que ocorre quando um agente infeccioso é transferido de um reservatório para um hospedeiro por contato direto ou transmissão por gotículas.",
+        "en": "direct contact transmission",
+        "desc_en": "Mode of transmission that occurs when an infectious agent is transferred from a reservoir to a host by direct contact or droplet transmission.",
+        "fr": "transmission par contact direct"
+    },
+    "transmissão indireta": {
+        "desc_pt": "Modo de transmissão que ocorre quando um agente infeccioso é transferido de um reservatório para um hospedeiro por meio de um veículo, ou seja, água, alimento ou ar, um vetor ou fômite.",
+        "en": "indirect contact transmission",
+        "desc_en": "Mode of transmission that occurs when an infectious agent is transferred from a reservoir to a host by means of a vehicle, i.e. water, food or air, a vector or a fomite.",
+        "fr": "transmission par contact indirect"
+    },
+    "transmissão por aerossóis": {
+        "desc_pt": "Modo de transmissão indireta de uma doença infecciosa que ocorre quando um agente infeccioso é transportado por poeira ou núcleos de gotículas suspensos no ar na forma de aerossóis.",
+        "en": "airborne transmission",
+        "desc_en": "Mode of indirect transmission of an infectious disease that occurs when an infectious agent is carried by dust or droplet nuclei suspended in the air in the form of aerosols.",
+        "fr": "transmission par aérosol"
+    },
+    "transmissão por gotículas respiratórias": {
+        "desc_pt": "Modo de transmissão direta de uma doença infecciosa que ocorre quando uma pessoa está próxima de uma pessoa infectada que apresenta sintomas respiratórios, por exemplo, por meio de tosse, espirro, respiração ou fala.",
+        "en": "droplet transmission",
+        "desc_en": "Mode of direct transmission of an infectious disease that occurs when a person is in the proximity of an infected person who has respiratory symptoms, e.g., via coughing, sneezing, breathing, or talking.",
+        "fr": "transmission par gouttelettes"
+    },
+    "transmissão pré-sintomática": {
+        "desc_pt": "Modo de transmissão de uma doença infecciosa para outra pessoa de uma pessoa infectada que ainda não desenvolveu sintomas.",
+        "en": "pre-symptomatic transmission",
+        "desc_en": "Mode of transmission of an infectious disease to another person from an infected person who has not yet developed symptoms.",
+        "fr": "transmission pré-symptomatique"
+    },
+    "transmissão sintomática": {
+        "desc_pt": "Modo de transmissão para outra pessoa de uma doença infecciosa de uma pessoa infectada que desenvolveu sintomas.",
+        "en": "symptomatic transmission",
+        "desc_en": "Mode of transmission to another person of an infectious disease from an infected person who has developed symptoms.",
+        "fr": "transmission symptomatique"
+    },
+    "traumático": {
+        "exp pop": "relativo a um trauma ou traumatismo, ou causado por ele",
+        "en": "traumatic",
+        "es": "traumático"
+    },
+    "tremor intencional": {
+        "exp pop": "tremor que aparece ao efectuar um movimento voluntário coordenado",
+        "en": "intention tremor, action tremor",
+        "es": "temblor intencional"
+    },
+    "triagem": {
+        "desc_pt": "Processo de triagem de pacientes ou vítimas para determinar a prioridade da necessidade e o local adequado de tratamento.",
+        "en": "triage",
+        "desc_en": "Process of sorting patients or casualties to determine priority of need and proper place of treatment.",
+        "fr": "triage"
+    },
+    "trismo": {
+        "exp pop": "espasmo dos músculos mandibulares; tétano",
+        "en": "trismus, lockjaw",
+        "es": "trismo"
+    },
+    "trombo": {
+        "exp pop": "coágulo de sangue num vaso sanguíneo",
+        "en": "thrombus, (blood) clot",
+        "es": "trombo"
+    },
+    "trombose": {
+        "desc_pt": "Doença vascular envolvendo a formação de trombos dentro de um vaso sanguíneo, ou seja, uma artéria ou uma veia, obstruindo a circulação.",
+        "en": "thrombosis",
+        "desc_en": "Vascular disease involving the formation of thrombi inside a blood vessel, i.e. an artery or a vein, obstructing circulation.",
+        "fr": "thrombose"
+    },
+    "trófico": {
+        "exp pop": "nutritivo",
+        "en": "trophic",
+        "es": "trófico"
+    },
+    "tumor": {
+        "exp pop": "vegetação, excrescência, neoplasma",
+        "en": "tumor, growth",
+        "es": "tumor"
+    },
+    "tálamo": {
+        "exp pop": "massa importante de núcleos cinzentos",
+        "en": "(optic) thalamus",
+        "es": "tálamo"
+    },
+    "tétano": {
+        "exp pop": "tétano",
+        "en": "tetanus",
+        "es": "tétanos"
+    },
+    "tónico": {
+        "exp pop": "que produz e restabelece o tom normal; que se caracteriza por tensão contínua",
+        "en": "tonic",
+        "es": "tónico"
+    },
+    "tóxico": {
+        "exp pop": "venenoso",
+        "en": "toxic, poisonous",
+        "es": "tóxico"
+    },
+    "ulceração": {
+        "exp pop": "processo de formação de uma úlcera; helcose",
+        "en": "ulcer formation, ulceration, helcosis",
+        "es": "ulceración"
+    },
+    "unidade de cuidados intensivos": {
+        "desc_pt": "Instalação hospitalar que fornece cuidados intensivos e suporte de vida para pacientes gravemente doentes ou feridos.",
+        "en": "intensive care unit",
+        "desc_en": "Hospital facility that provides critical care and life support for acutely ill or injured patients.",
+        "fr": "unité de soins intensifs"
+    },
+    "unidade de pronto atendimento": {
+        "desc_pt": "Cuidados médicos",
+        "en": "urgent care facility",
+        "desc_en": "Medical care",
+        "fr": "centre de soins non programmés"
+    },
+    "unilateral": {
+        "exp pop": "de um só lado",
+        "en": "unilateral, monolateral",
+        "es": "unilateral"
+    },
+    "uretrite": {
+        "exp pop": "inflamação da uretra",
+        "en": "ureteritis",
+        "es": "uretritis"
+    },
+    "urgência": {
+        "exp pop": "urgência",
+        "en": "emergency (ambulance)",
+        "es": "urgencia"
+    },
+    "urografia": {
+        "exp pop": "radiografia de uma parte do aparelho urinário",
+        "en": "urography",
+        "es": "urografía"
+    },
+    "urticária": {
+        "exp pop": "erupção cutânea caracterizada pelo aparecimento de manchas vermelhas e prurido intenso",
+        "en": "nettle rash, hives, urticaria",
+        "es": "urticaria"
+    },
+    "uveíte": {
+        "exp pop": "inflamação da úvea",
+        "en": "uveitis",
+        "es": "uveitis"
+    },
+    "vacina": {
+        "desc_pt": "Preparação terapêutica contendo um antígeno, ou seja, um vírus ou um segmento de um vírus ou uma toxina gerada por bactérias, que pode ter sido atenuado, inativado ou morto e que é capaz de desencadear a resposta imune e gerar imunidade em um organismo.",
+        "en": "vaccine",
+        "desc_en": "Therapeutic preparation containing an antigen, i.e. a virus or a segment of a virus or a toxin generated by bacteria, that may have been attenuated, inactivated or killed and which is able to trigger the immune response and generate immunity in an organism.",
+        "fr": "vaccin"
+    },
+    "varicela": {
+        "exp pop": "doença viral; bexigas loucas",
+        "en": "varicella, chickenpox",
+        "es": "varicela"
+    },
+    "vascular": {
+        "exp pop": "referente aos vasos sanguíneos",
+        "en": "vascular",
+        "es": "vascular"
+    },
+    "vasculite": {
+        "exp pop": "inflamação dos pequenos vasos sanguíneos",
+        "en": "vasculitis, angitis",
+        "es": "vasculitis"
+    },
+    "vasodilatação": {
+        "exp pop": "dilatação dos vasos sanguíneos",
+        "en": "vasodilation, vasodilatation",
+        "es": "vasodilatación"
+    },
+    "vasomotor": {
+        "exp pop": "que afecta o calibre dos vasos",
+        "en": "vasomotor, vasomotory",
+        "es": "vasomotor"
+    },
+    "vegetativo": {
+        "exp pop": "relativo ao crescimento e à nutrição; que funciona de maneira involuntária ou inconsciente; em repouso; relativo às plantas; relativo à reprodução assexual",
+        "en": "vegetative",
+        "es": "vegetativo"
+    },
+    "venoso": {
+        "exp pop": "relativo às veias, provido de veias",
+        "en": "ve(i)nous",
+        "es": "venoso"
+    },
+    "ventilador mecânico": {
+        "desc_pt": "Máquina que ajuda os pacientes a respirar, introduzindo ar fresco nos pulmões por pressão positiva e/ou bombeando o ar expiratório para fora dos pulmões por pressão negativa, substituindo parte ou todo o esforço muscular necessário para a ventilação pulmonar.",
+        "en": "mechanical ventilator",
+        "desc_en": "Machine that helps patients to breathe by driving fresh air into the lungs by positive pressure and/or by pumping expiratory air out of the lungs by negative pressure, replacing some or all of the muscular effort required for lung ventilation.",
+        "fr": "ventilateur mécanique"
+    },
+    "ventilação": {
+        "exp pop": "aeragem, arejamento, aeração",
+        "en": "respiration, breathing",
+        "es": "respiración , ventilación"
+    },
+    "ventilação mecânica": {
+        "desc_pt": "Ventilação pulmonar fornecida pela condução de ar fresco para os pulmões por pressão positiva e/ou pelo bombeamento de ar expiratório para fora dos pulmões por pressão negativa.",
+        "en": "mechanical ventilation",
+        "desc_en": "Lung ventilation provided by driving fresh air into the lungs by positive pressure and/or by pumping expiratory air out of the lungs by negative pressure.",
+        "fr": "ventilation artificielle"
+    },
+    "ventilação não-invasiva": {
+        "desc_pt": "Ventilação com pressão positiva fornecida através das vias respiratórias superiores de uma pessoa usando uma máscara de oxigênio.",
+        "en": "non-invasive ventilation",
+        "desc_en": "Positive pressure ventilation provided through a person’s upper respiratory airways using an oxygen mask.",
+        "fr": "ventilation non invasive"
+    },
+    "vertebral": {
+        "exp pop": "relativo às vértebras",
+        "en": "vertebral, spondylous",
+        "es": "vertebral"
+    },
+    "vesicular": {
+        "exp pop": "em forma de vesícula, vesiculado",
+        "en": "vesicular, vesical",
+        "es": "vesicular"
+    },
+    "vetor": {
+        "desc_pt": "Organismo vivo que transmite indiretamente uma doença infecciosa a um hospedeiro suscetível, seja por carregar o agente infeccioso em seu corpo (vetor mecânico) ou por fornecer um ambiente no qual o agente infeccioso possa se reproduzir e sobreviver (vetor biológico).",
+        "en": "vector",
+        "desc_en": "Living organism that indirectly transmits an infectious disease to a susceptible host either by carrying the infectious agent on its body (mechanical vector) or by providing an environment in which the infectious agent can reproduce and survive (biological vector).",
+        "fr": "vecteur"
+    },
+    "vetor viral": {
+        "desc_pt": "Vírus geneticamente modificado para uso em terapia genética.",
+        "en": "viral vector",
+        "desc_en": "Virus that has been genetically modified for use in gene therapy.",
+        "fr": "vecteur viral"
+    },
+    "vigilância": {
+        "exp pop": "estado de alerta ou observação",
+        "en": "control, vigilance",
+        "es": "vigilancia"
+    },
+    "vigilância sanitária pública": {
+        "desc_pt": "Coleta, análise e disseminação sistemáticas e contínuas de dados de saúde para ajudar a orientar a tomada de decisões e ações de saúde pública.",
+        "en": "public health surveillance",
+        "desc_en": "Ongoing systematic collection, analysis, and dissemination of health data to help guide public health decision making and action.",
+        "fr": "surveillance épidémiologique"
+    },
+    "virilização": {
+        "exp pop": "masculinização",
+        "en": "virilization, virilescence",
+        "es": "virilización"
+    },
+    "viseira de proteção facial": {
+        "desc_pt": "Equipamento de proteção individual que protege os olhos e o rosto do usuário de sprays, respingos e gotículas de partículas grandes e evita a propagação de gotículas respiratórias do usuário para outras pessoas.",
+        "en": "full face shield",
+        "desc_en": "Personal protective equipment that protects the wearer’s eyes and face from sprays, splashes, and large-particle droplets, and prevents the spread of respiratory droplets from the wearer to others.",
+        "fr": "visière"
+    },
+    "vulvovaginite": {
+        "exp pop": "inflamação dos órgãos genitais externos femininos, incluindo a vagina",
+        "en": "vulvovaginitis",
+        "es": "vulvovaginitis"
+    },
+    "vírus": {
+        "desc_pt": "Agente infeccioso microscópico que pode se multiplicar apenas em células vivas de animais, plantas ou bactérias, consistindo de material genético, seja DNA ou RNA, alojado dentro de um capsídeo.",
+        "en": "virus",
+        "desc_en": "Microscopic infectious agent that can multiply only in living cells of animals, plants, or bacteria, consisting of genetic material, either DNA or RNA, housed inside a capsid.",
+        "fr": "virus"
+    },
+    "xantopsia": {
+        "exp pop": "visão amarelada",
+        "en": "yellow vision, xanthopsia",
+        "es": "xantopsia"
+    },
+    "xeroftalmia": {
+        "exp pop": "secura, ulceração da córnea por falta de vitamina A",
+        "en": "xerophthalmia, xerophthalmus",
+        "es": "xeroftalmía"
+    },
+    "xerostomia": {
+        "exp pop": "secura ocular",
+        "en": "dryness of the mouth, xerostomia",
+        "es": "xerostomía"
+    },
+    "zaragatoa": {
+        "desc_pt": "Pedaço de material macio usado por um profissional de saúde para limpar feridas ou colher amostras do corpo de uma pessoa para fins de teste.",
+        "en": "swab",
+        "desc_en": "Piece of soft material used by a healthcare professional for cleaning wounds or taking samples from a person’s body for testing purposes.",
+        "fr": "écouvillon"
+    },
+    "zoonose": {
+        "desc_pt": "Doença infecciosa transmissível em condições naturais de animais vertebrados para humanos.",
+        "en": "zoonosis",
+        "desc_en": "Infectious disease that is transmissible under natural conditions from vertebrate animals to humans.",
+        "fr": "zoonose"
+    },
+    "ácido desoxirribonucleico": {
+        "desc_pt": "Ácido nucléico de fita dupla cujos nucleotídeos consistem em um esqueleto formado por um açúcar modificado, denominado desoxirribose, uma base nitrogenada, ou seja, adenina, guanina, citosina e timina, e um grupo fosfato.",
+        "en": "deoxyribonucleic acid",
+        "desc_en": "Double-stranded nucleic acid whose nucleotides consist of a backbone made up by a modified sugar, called deoxyribose, a nitrogenous base, i.e. adenine, guanine, cytosine, and thymine, and a phosphate group.",
+        "fr": "acide désoxyribonucléique"
+    },
+    "ácido ribonucleico": {
+        "desc_pt": "Ácido nucléico de fita simples cujos nucleotídeos consistem em uma estrutura composta por um açúcar simples, chamado ribose, um grupo fosfato e uma base nitrogenada, ou seja, adenina, guanina, citosina e uracila.",
+        "en": "ribonucleic acid",
+        "desc_en": "Single-stranded nucleic acid whose nucleotides consist of a backbone made up by a simple sugar, called ribose, a phosphate group, and a nitrogenous base, i.e. adenine, guanine, cytosine, and uracil.",
+        "fr": "acide ribonucléique"
+    },
+    "ânus": {
+        "exp pop": "orifício de saída do intestino, cu",
+        "en": "anus",
+        "es": "ano"
+    },
+    "íleo": {
+        "exp pop": "oclusão intestinal",
+        "en": "ileum, twisted intestine",
+        "es": "íleo"
+    },
+    "óvulo": {
+        "exp pop": "pequeno ovo",
+        "en": "egg cell, ovum",
+        "es": "óvulo"
+    }
+}
