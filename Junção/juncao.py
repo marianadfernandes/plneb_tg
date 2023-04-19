@@ -9,7 +9,7 @@ with open('Glossário de Termos Médicos/glossario_final.json', encoding="utf8")
 with open('WIPOPearl_COVID-19_Glossary/glos.json', encoding="utf8") as file:
     covid_original = dict(json.load(file))
 
-with open('dicionario_obrigatorio.json', encoding="utf8") as file:
+with open('Dicionário Termos Médicos/dicionario_obrigatorio.json', encoding="utf8") as file:
     obg = dict(json.load(file))
     
 # formatação do dicionário glossário de expressões de populares
@@ -84,6 +84,7 @@ with open('int_covid_enpt.json', 'w', encoding="utf8") as file:
 count = 0
 for key, value in covid.items():
     if key in exps_enpt.keys():
+        print(key)
         count += 1
         exps_enpt[key] = {"desc_pt" : covid[key]['desc_pt'],
                     "exp pop" : exps_enpt[key]['exp pop'],
