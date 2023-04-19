@@ -27,7 +27,7 @@ text = re.sub(r'<b>[A-Z]</b>', '', text)
 text = re.sub(r'<i>\(?.*\)?</i>', '', text)
 
 
-# substituir todos as sequências de \n por apenas um só
+# substituir todas as sequências de \n por apenas um só
 text = re.sub(r'\n\n+', r'\n', text)
 
 # corrigir casos em que o ) ficou fora da tag do termo
@@ -55,55 +55,31 @@ text = re.sub(r'\s-', r'-', text)
 text = re.sub(r'\((adj.)? .*?\)', '', text)
 
 
-# resolução de casos especiais onde a tradução estava partida por carateres especiais
+# resolução de casos especiais onde a tradução estava partida por outras razões: mudança de linha depois de uma vírgula; segunda parte começa com letra maiúscula
 text = re.sub(r',\n([^EU]\w)', r', \1', text)
 text = re.sub(r'([a-z])\n([^EU(<b]\w)', r'\1 \2', text)
+
+
+# eliminação de um termo repetido no inicio e fim da página que não ficou depois do número da página mas sim antes, por isso não tinha sido apanhado anteriormente
 text = re.sub(r'<b>coçar</b> ', '', text)
 
 
 # ------------------------------------------------------------------------------------------------------
-# # usei esta lista para verificar todos os <b></b> no texto para saber quais eram os casos partidos
-# count = re.findall(r'<b>.*</b>', text)
-
-# # aqui está só a retirar os <b></b> para ficar só com as as palavras
-# id = 0
-# for word in count:
-#     count[id] = count[id][3:]
-#     count[id] = count[id][:-4]
-#     id += 1
-# ------------------------------------------------------------------------------------------------------
-
 
 # obtenção das entries do dicionário
 entries = re.findall(
     r'<b>(.*)</b>\nU\n(.*)\nE\n(.*)', text)
 
-
-# ------------------------------------------------------------------------------------------------------
-# # MARIANA: verificar o tamanho das listas: ou seja entries no dicionário e
-# # entries totais no texto original
-# print(len(entries))
-# print(len(count))
-
-# # MARIANA: lista apenas com o termo (designação)
-# entries_first_element = [tpl[0] for tpl in entries]
-# print(len(entries_first_element))
-
-# # MARIANA: lista com os termos que não estão nas duas listas (ou seja, não foram captados)
-# list1 = [word for word in count if word not in entries_first_element]
-# list2 = [word for word in entries_first_element if word not in count]
-# print(list1)
-# print(list2)
 # ------------------------------------------------------------------------------------------------------
 
-
+# formatação das entries
 new_entries = [(designation, ({"en": description1, "es": description2}))
                for designation, description1, description2 in entries]
 
 dic = dict(new_entries)
 
-
 # ------------------------------------------------------------------------------------------------------
+
 # verificação dos comprimentos do dicionário e das entries obtidas, para ver se se perdeu algum termo por repetição
 print(len(dic))
 print(len(entries))
@@ -120,12 +96,13 @@ for word in entries_first_element:
         seen_words.add(word)
 
 print(repeated_words)
+
 # ------------------------------------------------------------------------------------------------------
 
 txt = open('alterado2.xml', 'w', encoding='UTF-8')
 txt.write(text)
 txt.close()
 
-out = open('dicionario.json', 'w', encoding='UTF-8')
+out = open('dicionario_obrigatorio.json', 'w', encoding='UTF-8')
 json.dump(dic, out, ensure_ascii=False, indent=4)
 out.close()
