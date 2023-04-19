@@ -44,6 +44,9 @@ text = re.sub(r'([a-z]+,? ?.*)((?:\n[^A-Z<].*)+)',
 # juntar palavras separadas por "mudança de linha"
 text = re.sub(r'-\s', r'', text)
 
+# apagar casos em que ficam () sem conteúdo no meio, porque teriam adj, adv, etc... ou casos em que tem (adj.) no termo
+text = re.sub(r'\((adj.)? .*?\)', '', text)
+
 
 # corrigir casos em que o termo está partido fora da sua tag (bloqueador-B)
 text = re.sub(r'-</b> (.)', r'-\1</b>', text)
@@ -51,16 +54,15 @@ text = re.sub(r'-</b> (.)', r'-\1</b>', text)
 text = re.sub(r'\s-', r'-', text)
 
 
-# apagar casos em que ficam () sem conteúdo no meio, porque teriam adj, adv, etc... ou casos em que tem (adj.) no termo
-text = re.sub(r'\((adj.)? .*?\)', '', text)
-
-
-# resolução de casos especiais onde a tradução estava partida por outras razões: mudança de linha depois de uma vírgula; segunda parte começa com letra maiúscula
+# resolução de casos especiais onde a tradução estava partida por outras razões:
+# - mudança de linha depois de uma vírgula;
+# - segunda parte começa com letra maiúscula
 text = re.sub(r',\n([^EU]\w)', r', \1', text)
 text = re.sub(r'([a-z])\n([^EU(<b]\w)', r'\1 \2', text)
 
 
-# eliminação de um termo repetido no inicio e fim da página que não ficou depois do número da página mas sim antes, por isso não tinha sido apanhado anteriormente
+# eliminação de um termo repetido no inicio e fim da página que não ficou depois do número
+# da página mas sim antes, por isso não tinha sido apanhado anteriormente
 text = re.sub(r'<b>coçar</b> ', '', text)
 
 
