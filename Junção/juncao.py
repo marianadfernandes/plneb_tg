@@ -1,8 +1,6 @@
 import json
 from deep_translator import GoogleTranslator
 
-# ver contacto/contato
-
 with open('Glossário de Termos Médicos/glossario_final.json', encoding="utf8") as file:
     exps = dict(json.load(file))
 

@@ -9,9 +9,8 @@ text = ''
 for line in lines:
     line = re.sub(r'&#160;', r' ', line)
     line = re.sub(r'</?a.*?>', r'', line)
-    line = re.sub(r'[A-Z]<br/>', r'', line)
+    line = re.sub(r'[A-Z]?<br/>', r'', line)
     line = re.sub(r'<hr/>', r'', line)
-    line = re.sub(r'<br/>', r' ', line)
     line = re.sub(r'[ ]+', r' ', line)
     line = re.sub(r'&#34;', r"'", line)
     text += line

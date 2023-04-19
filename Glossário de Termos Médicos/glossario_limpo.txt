@@ -28,10 +28,10 @@
 </style>
 </head>
 <body>
-Glossário de Termos Médicos Técnicos e Populares <b>(em português de Portugal)</b> 
-<b>Fonte:</b> http://users.ugent.be/~rvdstich/eugloss/welcome.html 
-<b>Multilingual Glossary of Technical and Popular Medical Terms in Nine European Languages</b> 
-<b>Observação:</b> This project was commissioned by The European Commission (http://europa.eu.int/comm/index.htm) and executed by Heymans Institute of Pharmacology (http://www.heymans.ugent.be/ ) and Mercator School, Department of Applied Linguistics. 
+Glossário de Termos Médicos Técnicos e Populares<b>(em português de Portugal)</b>
+<b>Fonte:</b> http://users.ugent.be/~rvdstich/eugloss/welcome.html
+<b>Multilingual Glossary of Technical and Popular Medical Terms in Nine EuropeanLanguages</b>
+<b>Observação:</b> This project was commissioned by The European Commission(http://europa.eu.int/comm/index.htm) and executed by Heymans Institute of Pharmacology(http://www.heymans.ugent.be/ ) and Mercator School, Department of Applied Linguistics. 
 <b></b><i>a milionésima parte de um grama</i> (pop) , <b>micrograma</b> 
 <i>à volta da boca</i> (pop) , <b>perioral</b> 
 <i>à volta da órbita</i> (pop) , <b>periorbital</b> 
@@ -75,7 +75,7 @@ Glossário de Termos Médicos Técnicos e Populares <b>(em português de Portuga
 <i>acomodação</i> (pop) , <b>adaptação</b> 
 <i>acompanhante</i> (pop) , <b>concomitante</b> 
 <i>acostumado</i> (pop) , <b>habitual</b> 
-<i>acrescentar um solvente a um medicamento em pó; tipo de regeneração de uma superfície lesionada; retorno à forma líquida do soro ou plasma sanguíneo previamente dessecado</i> \(pop) , <b>reconstituição</b> 
+<i>acrescentar um solvente a um medicamento em pó; tipo de regeneração de uma superfícielesionada; retorno à forma líquida do soro ou plasma sanguíneo previamente dessecado</i>\(pop) , <b>reconstituição</b> 
 <b>acrocianose</b> , <i>cor azulada das extremidades (mãos-pés)</i> (pop) 
 <b>ACTH</b> , <i>hormônio adreno-córticotrófico, corticotrofina</i> (pop) 
 <i>activação de uma droga por outra</i> (pop) , <b>potenciação</b> 
@@ -108,7 +108,7 @@ Glossário de Termos Médicos Técnicos e Populares <b>(em português de Portuga
 <b>adicional</b> , <i>complementar</i> (pop) 
 <b>aditivo</b> , <i>produto acrescentado</i> (pop) 
 <b>adjuvante</b> , <i>substância que contribui para a auxiliar</i> (pop) 
-<i>administração de medicamentos como sedativos antes de uma anestesia gera </i>(pop) , <b>pré- medicação</b> 
+<i>administração de medicamentos como sedativos antes de uma anestesia gera </i>(pop) , <b>pré-medicação</b> 
 <i>administração de um antigénio para induzir uma resposta imunitária</i> (pop) , <b>sensibilização</b> 
 <i>administração de um medicamento ou emprego de uma medida física</i> (pop) , <b>aplicação</b> 
 <i>administração gota-a-gota (solução oftálmica)</i> (pop) , <b>instilação</b> 
@@ -133,13 +133,13 @@ Glossário de Termos Médicos Técnicos e Populares <b>(em português de Portuga
 <b>agalactia</b> , <i>falta ou diminuição da secreção do leite</i> (pop) 
 <b>agamaglobulinémia</b> , <i>sem gamoglobinas</i> (pop) 
 <b>agente</b> , <i>substância activa</i> (pop) 
-<i>agente intermediário, substância química que transmite algo</i> (pop) , <b>mediador</b> 
+<i>agente intermediário, substância química que transmite algo</i> (pop) , <b>mediador</b>
 <i>agente que destrói ou dissolve a mucina</i> (pop) , <b>mucolítico</b> 
 <i>agente que dissolve a parte córnea da pele</i> (pop) , <b>ceratolítico</b> 
 <i>agente que promove a secreção urinária do ácido úrico</i> (pop) , <b>uricossúrico</b> 
 <i>agente que reduz a tensão</i> (pop) , <b>relaxante</b> 
 <b>agitação</b> , <i>desassossego, inquietação, excitação</i> (pop) 
-<b>agonista</b> , <i>músculo que participa com outro num movimento; medicamento que estimula células de maneira natural</i> (pop) 
+<b>agonista</b> , <i>músculo que participa com outro num movimento; medicamento que estimulacélulas de maneira natural</i> (pop) 
 <b>agranulocitose</b> , <i>inexistência de glóbulos no sangue, doença de Pfeiffer</i> (pop) 
 <b>agravação</b> , <i>agravamento, pioramento, piora</i> (pop) 
 <i>agravamento, pioramento, piora</i> (pop) , <b>agravação</b> 
@@ -175,7 +175,7 @@ Glossário de Termos Médicos Técnicos e Populares <b>(em português de Portuga
 <b>alopecia</b> , <i>careca, calvície, calva</i> (pop) 
 <i>alteração da relação ácido-base no sangue</i> (pop) , <b>alcalose</b> 
 <i>alteração do equilíbrio ácido básico do sangue e líquidos teciduais</i> (pop) , <b>acidose</b> 
-<i>alteração do metabolismo dos lípidos (obesidade das mulheres na região glútea e nas pernas)</i> (pop) , <b>lipodistrofia</b> 
+<i>alteração do metabolismo dos lípidos (obesidade das mulheres na região glútea e naspernas)</i> (pop) , <b>lipodistrofia</b> 
 <i>alteração do paladar</i> (pop) , <b>disgeusia</b> 
 <i>alteração mórbida na função ou estrutura de um órgão</i> (pop) , <b>lesão</b> 
 <i>alterar</i> (pop) , <b>modificar</b> 
@@ -206,7 +206,7 @@ Glossário de Termos Médicos Técnicos e Populares <b>(em português de Portuga
 <b>analéptico</b> , <i>droga estimulante do sistema nervoso</i> (pop) 
 <b>analgésico</b> , <i>que alivia a dor</i> (pop) 
 <b>análise</b> , <i>decomposição</i> (pop) 
-<b>análogo</b> , <i>com função semelhante mas diferente origem (diz-se de estruturas anatómicas) </i>(pop) 
+<b>análogo</b> , <i>com função semelhante mas diferente origem (diz-se de estruturas anatómicas)</i>(pop) 
 <i>análogo</i> (pop) , <b>idêntico</b> 
 
 <b>anamnésia</b> , <i>acto de relembrar os antecedentes do doente</i> (pop) 
@@ -225,13 +225,13 @@ Glossário de Termos Médicos Técnicos e Populares <b>(em português de Portuga
 <b>aneurisma</b> , <i>protuberância num ponto fraco de uma artéria</i> (pop) 
 <b>anexite</b> , <i>inflamações dos ovários e da trompa</i> (pop) 
 <b>angiite</b> , <i>flebite, inflamação de uma veia</i> (pop) 
-<i>angina (tonsilar), amigdalite, esquinência, antiadite, inflamação das amígdalas</i> (pop) , <b>tonsilite</b> 
+<i>angina (tonsilar), amigdalite, esquinência, antiadite, inflamação das amígdalas</i> (pop) ,<b>tonsilite</b> 
 <b>angina de peito</b> , <i>angina de peito, esternalgia</i> (pop) 
 <i>angina de peito, esternalgia</i> (pop) , <b>angina de peito</b> 
 <b>anginoso</b> , <i>relativo a angina</i> (pop) 
 <b>angioedema</b> , <i>inchaço sem inflamação</i> (pop) 
 <i>angioleucite, inflamação dos vasos linfáticos</i> (pop) , <b>linfangite</b> 
-<b>angioneurótico</b> , <i>indivíduo com eretismo do aparelho vascular e vasomotor, de origem nervosa</i> (pop) 
+<b>angioneurótico</b> , <i>indivíduo com eretismo do aparelho vascular e vasomotor, de origemnervosa</i> (pop) 
 <i>angústia</i> (pop) , <b>ansiedade</b> 
 <b>anidro</b> , <i>que não tem água</i> (pop) 
 
@@ -249,7 +249,7 @@ Glossário de Termos Médicos Técnicos e Populares <b>(em português de Portuga
 <b>anovulatório</b> , <i>ciclo sem óvulo</i> (pop) 
 <b>anoxia</b> , <i>falta de oxigénio no organismo por respiração deficiente</i> (pop) 
 <b>ansiedade</b> , <i>angústia</i> (pop) 
-<b>antagonista</b> , <i>músculo que produz movimento contrário ao de outro músculo; substância que anula a acção de outra</i> (pop) 
+<b>antagonista</b> , <i>músculo que produz movimento contrário ao de outro músculo; substânciaque anula a acção de outra</i> (pop) 
 <b>antecedente</b> , <i>passado do paciente</i> (pop) 
 <b>anterógrado</b> , <i>dirigido para a frente</i> (pop) 
 <i>antes do nascimento, durante a evolução da gravidez</i> (pop) , <b>pré-natal</b> 
@@ -291,7 +291,7 @@ Glossário de Termos Médicos Técnicos e Populares <b>(em português de Portuga
 
 <b>antifúngico</b> , <i>medicamento com os cogumelos ou leveduras parasitas no homem</i> (pop) 
 <b>antígeno</b> , <i>substância considerada estranha pelo organismo</i> (pop) 
-<i>antiléptico, contra-irritante, que provoca uma irritação destinada a aliviar outra</i> (pop) , <b>revulsivo</b> 
+<i>antiléptico, contra-irritante, que provoca uma irritação destinada a aliviar outra</i> (pop) ,<b>revulsivo</b> 
 <b>antimicótico</b> , <i>que impede a reprodução dos fungos</i> (pop) 
 <b>antimicrobiano</b> , <i>que impede o desenvolvimento de micróbios</i> (pop) 
 <b>antimitótico</b> , <i>que trava a divisão e crescimento das células</i> (pop) 
@@ -379,8 +379,8 @@ Glossário de Termos Médicos Técnicos e Populares <b>(em português de Portuga
 <b>atrioventricular</b> , <i>relativo a uma câmara superior e a um ventrículo do coração</i> (pop) 
 <b>atrofia</b> , <i>que não desenvolveu</i> (pop) 
 <b>auditivo</b> , <i>relativo ao ouvido e à audição</i> (pop) 
-<i>auge ou pico do fluxo, do débito</i> (pop) , <b>pico do débito </b> 
-<i>aumento anormal da diurese; doença caracterizada pela presença de açúcar na origina) </i>(pop) , <b>diabetes</b> 
+<i>auge ou pico do fluxo, do débito</i> (pop) , <b>pico do débito </b>
+<i>aumento anormal da diurese; doença caracterizada pela presença de açúcar na origina)</i>(pop) , <b>diabetes</b> 
 <i>aumento anormal do tecido conjuntivo</i> (pop) , <b>fibrose</b> 
 <i>aumento da espessura da capa córnea da pele</i> (pop) , <b>hiperceratose</b> 
 <i>aumento da espessura do pêlo do corpo</i> (pop) , <b>hipertricose</b> 
@@ -405,8 +405,8 @@ Glossário de Termos Médicos Técnicos e Populares <b>(em português de Portuga
 <b>aural</b> , <i>relativo à aura, percebido pelo ouvido</i> (pop) 
 <b>auricular</b> , <i>relativo à orelha; relativo a uma das câmaras superiores do coração</i> (pop) 
 <i>aurículo</i> (pop) , <b>átrio</b> 
-<b>auscultação</b> , <i>auscultar (os ruídos produzidos no interior de um organismo) com o estetoscópio</i> (pop) 
-<i>auscultar (os ruídos produzidos no interior de um organismo) com o estetoscópio</i> (pop) , <b>auscultação</b> 
+<b>auscultação</b> , <i>auscultar (os ruídos produzidos no interior de um organismo) com oestetoscópio</i> (pop) 
+<i>auscultar (os ruídos produzidos no interior de um organismo) com o estetoscópio</i> (pop) ,<b>auscultação</b> 
 <b>ausência</b> , <i>perda momentânea do conhecimento</i> (pop) 
 <i>ausência de movimento, acinese</i> (pop) , <b>acinesia</b> 
 <i>ausência de períodos menstruais</i> (pop) , <b>amenorreia</b> 
@@ -436,7 +436,7 @@ Glossário de Termos Médicos Técnicos e Populares <b>(em português de Portuga
 <i>barriga de água, hidropisia da cavidade abdominal, hidroperitoneu</i> (pop) , <b>ascite</b> 
 <i>barriga, ventre</i> (pop) , <b>abdómen</b> 
 <b>basal</b> , <i>situado junto de uma base, normal</i> (pop) 
-<b>base</b> , <i>substância que forma sal combinada com um ácido; veículo neutro de um medicamento; superfície ou parte inferior de um órgão</i> (pop) 
+<b>base</b> , <i>substância que forma sal combinada com um ácido; veículo neutro de ummedicamento; superfície ou parte inferior de um órgão</i> (pop) 
 <i>base, substância básica</i> (pop) , <b>substrato</b> 
 <i>baseado em ensaios</i> (pop) , <b>experimental</b> 
 <i>baseado na experiência</i> (pop) , <b>empírico</b> 
@@ -452,7 +452,7 @@ Glossário de Termos Médicos Técnicos e Populares <b>(em português de Portuga
 <b>biliar</b> , <i>relativo à vesícula biliar e ao fígado</i> (pop) 
 <b>bio-disponibilidade</b> , <i>medida de actividade de um medicamento ingerido</i> (pop) 
 <b>bio-equivalente</b> , <i>fármaco com potência e efeito similares a outra</i> (pop) 
-<b>biodegração</b> , <i>procedimento que transforma sistemas vivos em substâncias químicas nocivas</i> (pop) 
+<b>biodegração</b> , <i>procedimento que transforma sistemas vivos em substâncias químicasnocivas</i> (pop) 
 <b>biológico</b> , <i>biológico</i> (pop) 
 <i>biológico</i> (pop) , <b>biológico</b> 
 <b>biopsia</b> , <i>diagnóstico através da remoção de uma porção do tecido vivo para exame</i> (pop) 
@@ -505,7 +505,7 @@ Glossário de Termos Médicos Técnicos e Populares <b>(em português de Portuga
 <i>cancro da medula do osso, doença de Kahler</i> (pop) , <b>mielomatose</b> 
 <b>candidíase</b> , <i>infecção por fungo do género Candida</i> (pop) 
 <b>cânula</b> , <i>tubo utilizado em cirurgia</i> (pop) 
-<i>capa interna que reveste as cavidades cardíacas e os vasos sanguíneos e linfáticos</i> (pop) , <b>endotélio</b> 
+<i>capa interna que reveste as cavidades cardíacas e os vasos sanguíneos e linfáticos</i> (pop) ,<b>endotélio</b> 
 <b>capacidade</b> , <i>lotação, potência</i> (pop) 
 <i>capacidade de contracção</i> (pop) , <b>contractibilidade</b> 
 <i>capacidade de suportar doses elevadas de uma droga tóxica</i> (pop) , <b>tolerância</b> 
@@ -593,7 +593,7 @@ Glossário de Termos Médicos Técnicos e Populares <b>(em português de Portuga
 <b>cicloderma</b> , <i>cicloderma</i> (pop) 
 <i>cicloderma</i> (pop) , <b>cicloderma</b> 
 <b>cicloplegia</b> , <i>paralisia da pupila do globo ocular</i> (pop) 
-<i>ciência que se ocupa do efeito exercido pelo organismo sobre o medicamento</i> (pop) , <b>farmacocinética</b> 
+<i>ciência que se ocupa do efeito exercido pelo organismo sobre o medicamento</i> (pop) ,<b>farmacocinética</b> 
 <b>cinético</b> , <i>pertencente a ou que produz o movimento</i> (pop) 
 <b>circulação</b> , <i>circulação</i> (pop) 
 <i>circulação</i> (pop) , <b>circulação</b> 
@@ -653,7 +653,7 @@ Glossário de Termos Médicos Técnicos e Populares <b>(em português de Portuga
 <i>com dois lados, relativo a dois lados</i> (pop) , <b>bilateral</b> 
 <i>com escamas</i> (pop) , <b>escamoso</b> 
 <i>com forma de tubo; tubuloso</i> (pop) , <b>tubular</b> 
-<i>com função semelhante mas diferente origem (diz-se de estruturas anatómicas)</i> (pop) , <b>análogo</b> 
+<i>com função semelhante mas diferente origem (diz-se de estruturas anatómicas)</i> (pop) ,<b>análogo</b> 
 <i>com tensão ou pressão baixa</i> (pop) , <b>hipotenso</b> 
 <i>com tensão ou pressão normal</i> (pop) , <b>normotenso</b> 
 <b>comatoso</b> , <i>em coma, que se acompanha de coma</i> (pop) 
@@ -674,7 +674,7 @@ Glossário de Termos Médicos Técnicos e Populares <b>(em português de Portuga
 <i>compensação</i> (pop) , <b>compensação</b> 
 <b>competitivo</b> , <i>competitivo</i> (pop) 
 <i>competitivo</i> (pop) , <b>competitivo</b> 
-<b>complacente</b> , <i>que se compadece com os males ou desventuras de outrem; simpático </i>(pop) 
+<b>complacente</b> , <i>que se compadece com os males ou desventuras de outrem; simpático</i>(pop) 
 <b>complementar</b> , <i>suplementar, adicional, auxiliar</i> (pop) 
 <i>complementar</i> (pop) , <b>adicional</b> 
 <b>complemento</b> , <i>complemento</i> (pop) 
@@ -723,14 +723,14 @@ Glossário de Termos Médicos Técnicos e Populares <b>(em português de Portuga
 <b>conserva</b> , <i>conserva</i> (pop) 
 <i>conserva</i> (pop) , <b>conserva</b> 
 <i>conservação inalterada</i> (pop) , <b>integridade</b> 
-<i>conservação, dentro do corpo, de materiais ou líquidos que se excretam normalmente </i>(pop) , <b>retenção</b> 
+<i>conservação, dentro do corpo, de materiais ou líquidos que se excretam normalmente</i>(pop) , <b>retenção</b> 
 <b>conservador</b> , <i>sem intervenção cirúrgica</i> (pop) 
 <i>consistente em manchas e pápulas, borbulhas</i> (pop) , <b>maculopapular</b> 
 <b>constitucional</b> , <i>próprio à constituição de um indivíduo</i> (pop) 
 <i>constituído por três anéis entrelaçados</i> (pop) , <b>tricíclico</b> 
 <i>consumo anormal de substâncias pelo próprio corpo</i> (pop) , <b>deplecção</b> 
-<b>contacto</b> , <i>toque; indivíduo que esteve em relação com pessoa portadora de doença contagiosa</i> (pop) 
-<i>contágio mútuo entre duas pessoas por doenças infecciosas diferentes</i> (pop) , <b>infecção cruzada</b> 
+<b>contacto</b> , <i>toque; indivíduo que esteve em relação com pessoa portadora de doençacontagiosa</i> (pop) 
+<i>contágio mútuo entre duas pessoas por doenças infecciosas diferentes</i> (pop) , <b>infecçãocruzada</b> 
 <b>contaminação</b> , <i>inquinamento, poluição</i> (pop) 
 <i>contaminado por germes, podre</i> (pop) , <b>séptico</b> 
 <i>contemporâneo</i> (pop) , <b>simultâneo</b> 
@@ -761,7 +761,7 @@ Glossário de Termos Médicos Técnicos e Populares <b>(em português de Portuga
 <b>convalescença</b> , <i>analepsia; restabelecimento das forças (depois de uma doença)</i> (pop) 
 <b>convencional</b> , <i>convencional</i> (pop) 
 <i>convencional</i> (pop) , <b>convencional</b> 
-<b>conversão</b> , <i>transformação; transformação das emoções em manifestações corporais</i> (pop) 
+<b>conversão</b> , <i>transformação; transformação das emoções em manifestações corporais</i> (pop)
 <b>convulsão</b> , <i>contracções involuntárias desordenadas de músculos</i> (pop) 
 <i>convulsões e queda da tensão nas mulheres grávidas</i> (pop) , <b>eclampsia</b> 
 
@@ -779,7 +779,7 @@ Glossário de Termos Médicos Técnicos e Populares <b>(em português de Portuga
 <i>corpo que se forma no ovário após a ovulação</i> (pop) , <b>corpo lúteo</b> 
 <i>corporal, que se percebe pelos sentidos</i> (pop) , <b>físico</b> 
 <i>corpúsculo, parte elementar</i> (pop) , <b>partícula</b> 
-<b>correcção</b> , <i>substância que corrige a acção ou o sabor de um medicamento; compensação, rectificação</i> (pop) 
+<b>correcção</b> , <i>substância que corrige a acção ou o sabor de um medicamento; compensação,rectificação</i> (pop) 
 <b>correlação</b> , <i>relação recíproca ou mútua</i> (pop) 
 <b>corresponder</b> , <i>que equivale</i> (pop) 
 <b>corrimento</b> , <i>flúor branco</i> (pop) 
@@ -796,8 +796,8 @@ Glossário de Termos Médicos Técnicos e Populares <b>(em português de Portuga
 <i>córtex, cortiça; camada exterior distinta de um órgão</i> (pop) , <b>córtice</b> 
 <b>cortical</b> , <i>relativo ao córtex</i> (pop) 
 <b>córtice</b> , <i>córtex, cortiça; camada exterior distinta de um órgão</i> (pop) 
-<i>corticóide; hormonas essenciais à vida formada no córtex das glândulas supra-renais</i> (pop) , <b>corticosteróide</b> 
-<b>corticosteróide</b> , <i>corticóide; hormonas essenciais à vida formada no córtex das glândulas supra-renais</i> (pop) 
+<i>corticóide; hormonas essenciais à vida formada no córtex das glândulas supra-renais</i> (pop) ,<b>corticosteróide</b> 
+<b>corticosteróide</b> , <i>corticóide; hormonas essenciais à vida formada no córtex das glândulassupra-renais</i> (pop) 
 <b>cosmético</b> , <i>preparado para a higiene e beleza</i> (pop) 
 <b>coxalgia</b> , <i>dor na articulação da coxa</i> (pop) 
 <i>coxeadura</i> (pop) , <b>claudicação</b> 
@@ -821,7 +821,7 @@ Glossário de Termos Médicos Técnicos e Populares <b>(em português de Portuga
 <b>curva</b> , <i>diagrama</i> (pop) 
 <i>cuspo, cuspe, saliva, escarro</i> (pop) , <b>esputo</b> 
 <b>cutâneo</b> , <i>da pele</i> (pop) 
-<b></b><i>da mesma categoria, da mesma espécie, de estrutura igual; que tem as mesmas funções </i>(pop) , <b>homogéneo</b> 
+<b></b><i>da mesma categoria, da mesma espécie, de estrutura igual; que tem as mesmas funções</i>(pop) , <b>homogéneo</b> 
 <i>da natureza da cola de gelatina</i> (pop) , <b>coloidal</b> 
 <i>da pele</i> (pop) , <b>cutâneo</b> 
 <b>dador</b> , <i>pessoa que oferece um órgão, sangue, etc</i> (pop) 
@@ -843,7 +843,7 @@ Glossário de Termos Médicos Técnicos e Populares <b>(em português de Portuga
 <i>decomposição</i> (pop) , <b>análise</b> 
 
 <b>decoro</b> , <i>decência; pundonor; coisa preventiva</i> (pop) 
-<b>decúbito</b> , <i>deitado de costas; formação de necroses na pele ou nas mucosas por permanência prolongada na cama</i> (pop) 
+<b>decúbito</b> , <i>deitado de costas; formação de necroses na pele ou nas mucosas porpermanência prolongada na cama</i> (pop) 
 <b>defecação</b> , <i>evacuação dos excrementos</i> (pop) 
 <i>defeito hereditário da pele; pele de peixe</i> (pop) , <b>ictiose</b> 
 <i>defeito hereditário de muitas glândulas</i> (pop) , <b>fibrose cística</b> 
@@ -855,14 +855,14 @@ Glossário de Termos Médicos Técnicos e Populares <b>(em português de Portuga
 <i>deformação, distrofia, dos ossos</i> (pop) , <b>osteodistrofia</b> 
 <b>degenerativo</b> , <i>que produz degeneração</i> (pop) 
 <i>degenerescência calcária, infiltração calcária</i> (pop) , <b>calcificação</b> 
-<i>deglutição de alimentos ou outras substâncias para o interior do tubo digestivo</i> (pop) , <b>ingestão</b> 
+<i>deglutição de alimentos ou outras substâncias para o interior do tubo digestivo</i> (pop) ,<b>ingestão</b> 
 <b>degradação</b> , <i>degradação</i> (pop) 
 <i>degradação</i> (pop) , <b>degradação</b> 
 <i>degradação das substâncias alimentares no organismo</i> (pop) , <b>catabolismo</b> 
-<i>degradação e perda funcional dos órgãos com a idade; regressão das dimensões do útero e das estruturas envolventes após o parto</i> (pop) , <b>involução</b> 
+<i>degradação e perda funcional dos órgãos com a idade; regressão das dimensões do útero edas estruturas envolventes após o parto</i> (pop) , <b>involução</b> 
 <i>deitado de costas</i> (pop) , <b>supino</b> 
-<i>deitado de costas; formação de necroses na pele ou nas mucosas por permanência prolongada na cama</i> (pop) , <b>decúbito</b> 
-<b>delírio</b> , <i>perturbação mental por traumatismo, febre, envenenamento, etc. com confusão mental</i> (pop) 
+<i>deitado de costas; formação de necroses na pele ou nas mucosas por permanênciaprolongada na cama</i> (pop) , <b>decúbito</b> 
+<b>delírio</b> , <i>perturbação mental por traumatismo, febre, envenenamento, etc. com confusãomental</i> (pop) 
 <i>delírio maníaco, delírio furioso</i> (pop) , <b>mania</b> 
 <i>delírio, loucura raciocinante, monomania</i> (pop) , <b>paranóia</b> 
 <i>demasiado</i> (pop) , <b>excessivo</b> 
@@ -881,8 +881,8 @@ Glossário de Termos Médicos Técnicos e Populares <b>(em português de Portuga
 <i>depois do nascimento</i> (pop) , <b>pós-natal</b> 
 <i>depósito calcário (nos dentes)</i> (pop) , <b>cálculo</b> 
 <i>depósito de gorduras nas artérias</i> (pop) , <b>ateromatose</b> 
-<i>depósito de partículas sólidas de uma solução no fundo de um recipiente</i> (pop) , <b>sedimentação</b> 
-<i>depósito nos tecidos, principalmente de ácido úrico e seus sais, característico da gota </i>(pop) , <b>tofo</b> 
+<i>depósito de partículas sólidas de uma solução no fundo de um recipiente</i> (pop) ,<b>sedimentação</b> 
+<i>depósito nos tecidos, principalmente de ácido úrico e seus sais, característico da gota</i>(pop) , <b>tofo</b> 
 <i>depósito, assento, lia, pé, borra(s)</i> (pop) , <b>sedimento</b> 
 <i>depósito, cavidade que serve de armazém</i> (pop) , <b>reservatório</b> 
 <b>depressão</b> , <i>abaixamento, abatimento, prostração</i> (pop) 
@@ -899,7 +899,7 @@ Glossário de Termos Médicos Técnicos e Populares <b>(em português de Portuga
 <b>dermatose</b> , <i>doença da pele</i> (pop) 
 <b>dermografia</b> , <i>reacção local da pele a uma irritação mecânica ou efeito de pressão</i> (pop) 
 <i>derrame</i> (pop) , <b>efusão</b> 
-<i>derrame do fluido de um vaso para os tecidos circundantes devido a uma lesão</i> (pop) , <b>extravasação</b> 
+<i>derrame do fluido de um vaso para os tecidos circundantes devido a uma lesão</i> (pop) ,<b>extravasação</b> 
 <i>derrame sanguíneo na pele traumatizada; contusão</i> (pop) , <b>equimose</b> 
 <i>desassossego, inquietação, excitação</i> (pop) , <b>agitação</b> 
 <i>descamação da pele</i> (pop) , <b>pitiríase</b> 
@@ -949,7 +949,7 @@ Glossário de Termos Médicos Técnicos e Populares <b>(em português de Portuga
 
 <i>detergente</i> (pop) , <b>detergente</b> 
 <i>deterioração dentária</i> (pop) , <b>cárie</b> 
-<b>diabetes</b> , <i>aumento anormal da diurese; doença caracterizada pela presença de açúcar na origina)</i> (pop) 
+<b>diabetes</b> , <i>aumento anormal da diurese; doença caracterizada pela presença de açúcar naorigina)</i> (pop) 
 <b>diaforese</b> , <i>secreção de suor</i> (pop) 
 <b>diaforese</b> , <i>transpiração, (secreção de) suor</i> (pop) 
 <b>diagnóstico</b> , <i>identificação ou reconhecimento das doenças</i> (pop) 
@@ -971,7 +971,7 @@ Glossário de Termos Médicos Técnicos e Populares <b>(em português de Portuga
 <i>dificuldade na deglutição</i> (pop) , <b>disfagia</b> 
 <i>dificuldade nos movimentos voluntários</i> (pop) , <b>discinesia</b> 
 <b>difteria</b> , <i>garrotilho</i> (pop) 
-<b>difusão</b> , <i>movimento de moléculas num fluido de uma zona de alta concentração para outra de baixa concentração; dispersão</i> (pop) 
+<b>difusão</b> , <i>movimento de moléculas num fluido de uma zona de alta concentração para outrade baixa concentração; dispersão</i> (pop) 
 
 <i>difusão selectiva mediante uma membrana que serve como filtro molecular</i> (pop) , <b>diálise</b> 
 <b>difuso</b> , <i>disperso</i> (pop) 
@@ -990,13 +990,13 @@ Glossário de Termos Médicos Técnicos e Populares <b>(em português de Portuga
 <i>diminuição de O2 no sangue</i> (pop) , <b>hipoxemie</b> 
 <i>diminuição de O2 no sangue</i> (pop) , <b>hipoxia</b> 
 <i>diminuição de potássio no sangue</i> (pop) , <b>hipocalemia</b> 
-<i>diminuição de suprimento arterial a um órgão ou região a níveis condicionantes de lesão tecidular ainda reversível</i> (pop) , <b>isquemia</b> 
+<i>diminuição de suprimento arterial a um órgão ou região a níveis condicionantes de lesãotecidular ainda reversível</i> (pop) , <b>isquemia</b> 
 <i>diminuição de todos os glóbulos brancos</i> (pop) , <b>pacitopenia</b> 
 <i>diminuição do fluxo menstrual</i> (pop) , <b>oligomenorreia</b> 
 <i>diminuição do nível de glicose no sangue</i> (pop) , <b>hipoglicemia</b> 
 <i>diminuição do número de plaquetas no sangue</i> (pop) , <b>trombocitopenia</b> 
 <i>diminuição do sangue circulante</i> (pop) , <b>hipovolemia</b> 
-<i>diminuição do volume de ar que entra nos pulmões; respiração lenta e superficial</i> (pop) , <b>hiperventilação</b> 
+<i>diminuição do volume de ar que entra nos pulmões; respiração lenta e superficial</i> (pop) ,<b>hiperventilação</b> 
 <i>diminuição dos glóbulos brancos</i> (pop) , <b>granulopenia</b> 
 
 <i>diminuição temporal dos sintomas de uma doença</i> (pop) , <b>remissão</b> 
@@ -1007,7 +1007,7 @@ Glossário de Termos Médicos Técnicos e Populares <b>(em português de Portuga
 <b>disartria</b> , <i>gaguez</i> (pop) 
 <b>discinesia</b> , <i>dificuldade nos movimentos voluntários</i> (pop) 
 <b>discóide</b> , <i>em forma de disco</i> (pop) 
-<b>discrasia</b> , <i>equilíbrio defeituoso dos quatro humores; composição alterada do líquido corporal</i> (pop) 
+<b>discrasia</b> , <i>equilíbrio defeituoso dos quatro humores; composição alterada do líquidocorporal</i> (pop) 
 <b>disenteria</b> , <i>doença intestinal que causa a diarreia</i> (pop) 
 <b>disfagia</b> , <i>dificuldade na deglutição</i> (pop) 
 <b>disforia</b> , <i>desconforto psíquico, mal-estar, indisposição</i> (pop) 
@@ -1030,7 +1030,7 @@ Glossário de Termos Médicos Técnicos e Populares <b>(em português de Portuga
 <i>dissolver uma substância noutra</i> (pop) , <b>emulsionar</b> 
 <b>distal</b> , <i>periférico, distante do tronco</i> (pop) 
 <b>distensão</b> , <i>estiramento excessivo de um músculo</i> (pop) 
-<i>distensão excessiva de qualquer parte do corpo; deslocamento de um órgão para a frente; proptoma</i> (pop) , <b>proptose</b> 
+<i>distensão excessiva de qualquer parte do corpo; deslocamento de um órgão para a frente;proptoma</i> (pop) , <b>proptose</b> 
 <b>distonia</b> , <i>tonicidade anormal dos tecidos</i> (pop) 
 <b>distorção</b> , <i>imagem deformada, torção</i> (pop) 
 <b>distribuição</b> , <i>distribuição</i> (pop) 
@@ -1040,10 +1040,10 @@ Glossário de Termos Médicos Técnicos e Populares <b>(em português de Portuga
 <b>diurese</b> , <i>formação e excreção de urina</i> (pop) 
 <b>diurético</b> , <i>que ajuda a aumentar o fluxo de urina</i> (pop) 
 <b>diurno</b> , <i>que se produz durante o dia</i> (pop) 
-<b>diverticulite</b> , <i>presença de pequenas saliências ou bolsas em pontos fracos do intestino grosso, diverticulose</i> (pop) 
+<b>diverticulite</b> , <i>presença de pequenas saliências ou bolsas em pontos fracos do intestinogrosso, diverticulose</i> (pop) 
 <i>divisão cinética, cariocinese, divisão celular indirecta</i> (pop) , <b>mitose</b> 
 <i>diz respeito à regularidade e frequência de um ritmo cardíaco</i> (pop) , <b>cronotrópico</b> 
-<i>diz-se do microrganismo que produz doenças unicamente em determinadas circunstâncias </i>(pop) , <b>oportunista</b> 
+<i>diz-se do microrganismo que produz doenças unicamente em determinadas circunstâncias</i>(pop) , <b>oportunista</b> 
 <b>documento</b> , <i>documento</i> (pop) 
 <i>documento</i> (pop) , <b>documento</b> 
 <i>doença bulhosa da pele</i> (pop) , <b>pênfigo</b> 
@@ -1054,12 +1054,12 @@ Glossário de Termos Médicos Técnicos e Populares <b>(em português de Portuga
 
 <i>doença da pele causada pelos fungos do grupo dos dermatófitos</i> (pop) , <b>dermatofitia</b> 
 <i>doença da pele derivada de causas emocionais</i> (pop) , <b>neurodermatite</b> 
-<i>doença da pele que aparece sobretudo na face interna das coxas, virilhas e axilas</i> (pop) , <b>eritrasma</b> 
+<i>doença da pele que aparece sobretudo na face interna das coxas, virilhas e axilas</i> (pop) ,<b>eritrasma</b> 
 <i>doença das articulações</i> (pop) , <b>artropatia</b> 
 <i>doença de Glisson, nodosidade das articulações</i> (pop) , <b>raquitismo</b> 
 <b>doença de Parkinson</b> , <i>paralisia agitante</i> (pop) 
 <b>doença de Raynaud</b> , <i>gangrena simétrica das extremidades</i> (pop) 
-<i>doença de Werlhof, caracterizada por manchas de cor vermelha devidas à ocorrência de hemorragias subcutâneas</i> (pop) , <b>púrpura</b> 
+<i>doença de Werlhof, caracterizada por manchas de cor vermelha devidas à ocorrência dehemorragias subcutâneas</i> (pop) , <b>púrpura</b> 
 <i>doença do cólon</i> (pop) , <b>colopatia</b> 
 <i>doença do coração causada por perturbações pulmonares</i> (pop) , <b>cor pulmonar</b> 
 <i>doença do coração, enfermidade do coração</i> (pop) , <b>cardiopatia</b> 
@@ -1071,7 +1071,7 @@ Glossário de Termos Médicos Técnicos e Populares <b>(em português de Portuga
 <i>doença intestinal que causa a diarreia</i> (pop) , <b>disenteria</b> 
 <i>doença provocada pelos médicos ou pelo tratamento</i> (pop) , <b>iatorgénico</b> 
 <i>doença que afecta o funcionamento do cérebro</i> (pop) , <b>encefalopatia</b> 
-<i>doença que afecta os órgãos formadores do sangue, caracterizada pelo aumento dos glóbulos brancos em circulação</i> (pop) , <b>leucemia</b> 
+<i>doença que afecta os órgãos formadores do sangue, caracterizada pelo aumento dosglóbulos brancos em circulação</i> (pop) , <b>leucemia</b> 
 <i>doença renal</i> (pop) , <b>nefropatia</b> 
 <i>doença renal com inflamação dos glomérulos</i> (pop) , <b>glumerolonefrite</b> 
 <i>doença viral; bexigas loucas</i> (pop) , <b>varicela</b> 
@@ -1115,13 +1115,13 @@ Glossário de Termos Médicos Técnicos e Populares <b>(em português de Portuga
 <b>edema</b> , <i>excesso de líquido nos tecidos sob a pele; inchaço</i> (pop) 
 <b>efectivo</b> , <i>eficaz, eficiente</i> (pop) 
 <b>efeito</b> , <i>resultado</i> (pop) 
-<b>efeito colateral</b> , <i>efeito secundário indesejado de uma medida terapêutica ou medicamento </i>(pop) 
+<b>efeito colateral</b> , <i>efeito secundário indesejado de uma medida terapêutica ou medicamento</i>(pop) 
 <b>efeito de ressonância</b> , <i>efeito de ressonância</i> (pop) 
 <i>efeito de ressonância</i> (pop) , <b>efeito de ressonância</b> 
 <i>efeito decrescente de um medicamento</i> (pop) , <b>taquifilaxia</b> 
 <i>efeito nocivo de uma substância química</i> (pop) , <b>toxicidade</b> 
 <i>efeito ondulatório, flutuação</i> (pop) , <b>tremulação</b> 
-<i>efeito secundário indesejado de uma medida terapêutica ou medicamento</i> (pop) , <b>efeito colateral</b> 
+<i>efeito secundário indesejado de uma medida terapêutica ou medicamento</i> (pop) , <b>efeitocolateral</b> 
 <b>eficaz</b> , <i>eficiente</i> (pop) 
 <i>eficaz, eficiente</i> (pop) , <b>efectivo</b> 
 <i>eficiente</i> (pop) , <b>eficaz</b> 
@@ -1135,14 +1135,14 @@ Glossário de Termos Médicos Técnicos e Populares <b>(em português de Portuga
 <b>electivo</b> , <i>selectivo</i> (pop) 
 <b>electrocardiografia</b> , <i>exame e inscrição em registo dos movimentos cardíacos</i> (pop) 
 <b>electroencefalografia</b> , <i>registo das ondas cerebrais (para detecção de tumores)</i> (pop) 
-<b>electrofisiológico</b> , <i>relativo à electrofisiologia (estudo das reacções produzidas nos seres vivos por excitações eléctricas)</i> (pop) 
+<b>electrofisiológico</b> , <i>relativo à electrofisiologia (estudo das reacções produzidas nos seresvivos por excitações eléctricas)</i> (pop) 
 <b>electrólito</b> , <i>condutor de segunda classe, ácido para acumuladores</i> (pop) 
-<i>elemento de uma proteína; composto de dois ou mais aminoácidos unidos por ligações peptídicas</i> (pop) , <b>polipeptídeo</b> 
+<i>elemento de uma proteína; composto de dois ou mais aminoácidos unidos por ligaçõespeptídicas</i> (pop) , <b>polipeptídeo</b> 
 <b>eliminação</b> , <i>eliminação; remoção</i> (pop) 
 <i>eliminação de certas substâncias do sangue</i> (pop) , <b>depuração</b> 
 <i>eliminação de grandes quantidades de urina por dia</i> (pop) , <b>poliúria</b> 
 <i>eliminação espontânea do leite</i> (pop) , <b>galactorreia</b> 
-<i>eliminação prlo próprio organismo; eliminação de um medicamento sem substituição</i> (pop) , <b>excreção</b> 
+<i>eliminação prlo próprio organismo; eliminação de um medicamento sem substituição</i> (pop) ,<b>excreção</b> 
 <i>eliminação; remoção</i> (pop) , <b>eliminação</b> 
 <i>em coma, que se acompanha de coma</i> (pop) , <b>comatoso</b> 
 <i>em forma de disco</i> (pop) , <b>discóide</b> 
@@ -1166,7 +1166,7 @@ Glossário de Termos Médicos Técnicos e Populares <b>(em português de Portuga
 <b>emoliente</b> , <i>que amolece a pele</i> (pop) 
 <b>empiema</b> , <i>abcesso; acumulação de pus</i> (pop) 
 <b>empírico</b> , <i>baseado na experiência</i> (pop) 
-<i>empolamento por contacto com líquidos, extracção de drogas por humedecimento, extracção a frio</i> (pop) , <b>maceração</b> 
+<i>empolamento por contacto com líquidos, extracção de drogas por humedecimento,extracção a frio</i> (pop) , <b>maceração</b> 
 <b>emulsão</b> , <i>emulsão</i> (pop) 
 <i>emulsão</i> (pop) , <b>emulsão</b> 
 <b>emulsionar</b> , <i>dissolver uma substância noutra</i> (pop) 
@@ -1229,7 +1229,7 @@ Glossário de Termos Médicos Técnicos e Populares <b>(em português de Portuga
 <b>epistaxe</b> , <i>hemorragia nasal</i> (pop) 
 <b>epitélio</b> , <i>tecido de cobertura ou de revestimento interior; pele ou mucosas</i> (pop) 
 <b>epitelioma</b> , <i>tumor da pele ou da mucosa</i> (pop) 
-<i>equilíbrio defeituoso dos quatro humores; composição alterada do líquido corporal</i> (pop) , <b>discrasia</b> 
+<i>equilíbrio defeituoso dos quatro humores; composição alterada do líquido corporal</i> (pop) ,<b>discrasia</b> 
 <b>equimose</b> , <i>derrame sanguíneo na pele traumatizada; contusão</i> (pop) 
 <b>equivalente</b> , <i>de igual valor</i> (pop) 
 
@@ -1238,12 +1238,12 @@ Glossário de Termos Médicos Técnicos e Populares <b>(em português de Portuga
 <b>ergotismo</b> , <i>intoxicação crónica pelo uso alimentar do centeio atacado de cravagem</i> (pop) 
 <b>erisipela</b> , <i>infecção grave e contagiosa da pele por estreptococos</i> (pop) 
 <b>eritema</b> , <i>ruborização, inflamação da pele</i> (pop) 
-<b>eritrasma</b> , <i>doença da pele que aparece sobretudo na face interna das coxas, virilhas e axilas</i> (pop) 
+<b>eritrasma</b> , <i>doença da pele que aparece sobretudo na face interna das coxas, virilhas eaxilas</i> (pop) 
 <b>eritropoiese</b> , <i>formação de glóbulos vermelhos</i> (pop) 
 <b>erosão</b> , <i>desgaste; destruição ou ulceração de um tecido</i> (pop) 
 <b>eructação</b> , <i>arroto</i> (pop) 
 <b>erupção</b> , <i>evacuação súbita de sangue, pus, etc.</i> (pop) 
-<i>erupção cutânea caracterizada pelo aparecimento de manchas vermelhas e prurido intenso </i>(pop) , <b>urticária</b> 
+<i>erupção cutânea caracterizada pelo aparecimento de manchas vermelhas e prurido intenso</i>(pop) , <b>urticária</b> 
 <i>erupção nas mucosas</i> (pop) , <b>enantema</b> 
 <i>erupção vermelha da pele</i> (pop) , <b>exantema</b> 
 <b>escabiose</b> , <i>acaríase sarcóptica, sarna</i> (pop) 
@@ -1259,7 +1259,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>escoamento, despejo</i> (pop) , <b>drenagem</b> 
 <i>escondido, secrecto</i> (pop) , <b>oculto</b> 
 
-<b>escotoma</b> , <i>perda da faculdade visual em zonas bem circunscritas do campo visual; escotomia</i> (pop) 
+<b>escotoma</b> , <i>perda da faculdade visual em zonas bem circunscritas do campo visual;escotomia</i> (pop) 
 <i>escrófula(s), bócio, engrossamento dos tiróides</i> (pop) , <b>estruma(s)</b> 
 <b>esfíncter</b> , <i>músculo constritor, que aperta</i> (pop) 
 <b>esfoladela</b> , <i>desgaste, raspagem, erosão de origem químico-física</i> (pop) 
@@ -1291,7 +1291,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <b>esputo</b> , <i>cuspo, cuspe, saliva, escarro</i> (pop) 
 <i>esquecimento, perda de memória</i> (pop) , <b>amnésia</b> 
 <b>esquelético</b> , <i>relativo ao esqueleto, magro</i> (pop) 
-<b>esquizofrenia</b> , <i>psicose, doença mental em que o doente se alheia do mundo que o rodeia e se refugia em si mesmo</i> (pop) 
+<b>esquizofrenia</b> , <i>psicose, doença mental em que o doente se alheia do mundo que o rodeiae se refugia em si mesmo</i> (pop) 
 <b>estabilidade</b> , <i>estabilidade</i> (pop) 
 <i>estabilidade</i> (pop) , <b>estabilidade</b> 
 <b>estabilização</b> , <i>criação de um estado estável</i> (pop) 
@@ -1378,7 +1378,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <b>excipiente</b> , <i>substância inerte num preparado farmacológico</i> (pop) 
 <b>excitação</b> , <i>irritação, estímulo, estimulação</i> (pop) 
 <i>excitante</i> (pop) , <b>estimulante</b> 
-<b>excreção</b> , <i>eliminação prlo próprio organismo; eliminação de um medicamento sem substituição</i> (pop) 
+<b>excreção</b> , <i>eliminação prlo próprio organismo; eliminação de um medicamento semsubstituição</i> (pop) 
 <i>excreção de quantidades anormais de sódio na urina</i> (pop) , <b>natriurese</b> 
 <i>excreção excessiva de substâncias gordas</i> (pop) , <b>seborreia</b> 
 <i>excrescência similar à verruga</i> (pop) , <b>condiloma</b> 
@@ -1408,7 +1408,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <b>extracorporal</b> , <i>fora do corpo</i> (pop) 
 <b>extracto</b> , <i>preparação concentrada de uma droga</i> (pop) 
 <b>extrapiramidal</b> , <i>situado fora da via piramidal</i> (pop) 
-<b>extravasação</b> , <i>derrame do fluido de um vaso para os tecidos circundantes devido a uma lesão</i> (pop) 
+<b>extravasação</b> , <i>derrame do fluido de um vaso para os tecidos circundantes devido a umalesão</i> (pop) 
 <b>extravascular</b> , <i>situado fora de um vaso</i> (pop) 
 <i>extremamente pequeno</i> (pop) , <b>microscópico</b> 
 <b>extremidade</b> , <i>membros superior e inferior</i> (pop) 
@@ -1443,7 +1443,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>fármaco com potência e efeito similares a outra</i> (pop) , <b>bio-equivalente</b> 
 <i>fármaco para tratar infecções</i> (pop) , <b>antibiótico</b> 
 <i>fármaco que impede a coagulação do sangue</i> (pop) , <b>anticoagulante</b> 
-<b>farmacocinética</b> , <i>ciência que se ocupa do efeito exercido pelo organismo sobre o medicamento</i> (pop) 
+<b>farmacocinética</b> , <i>ciência que se ocupa do efeito exercido pelo organismo sobre omedicamento</i> (pop) 
 
 <b>farmacodinâmica</b> , <i>estudo do efeito de um medicamento sobre o organismo</i> (pop) 
 <b>farmacológico</b> , <i>relativo à ciência que investiga os medicamentos</i> (pop) 
@@ -1462,7 +1462,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <b>fenómeno</b> , <i>manifestação, sinal, sintoma</i> (pop) 
 <i>ferida irregular</i> (pop) , <b>laceração</b> 
 <i>ferida; lesão interna por golpe, compressão ou choque</i> (pop) , <b>contusão</b> 
-<b>fermentação</b> , <i>transformação de substâncias orgânicas noutras substâncias orgânicas </i>(pop) 
+<b>fermentação</b> , <i>transformação de substâncias orgânicas noutras substâncias orgânicas</i>(pop) 
 <b>ferropénico</b> , <i>que tem falta de ferro</i> (pop) 
 <b>fertilidade</b> , <i>fertilidade</i> (pop) 
 <i>fertilidade</i> (pop) , <b>fertilidade</b> 
@@ -1486,11 +1486,11 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>final, último</i> (pop) , <b>terminal</b> 
 <b>físico</b> , <i>corporal, que se percebe pelos sentidos</i> (pop) 
 <b>físico-químico</b> , <i>relativo à física e à química</i> (pop) 
-<b>fisiológico</b> , <i>normal, não devido a uma doença; relativo ao estudo das funções dos organismos vivos</i> (pop) 
+<b>fisiológico</b> , <i>normal, não devido a uma doença; relativo ao estudo das funções dosorganismos vivos</i> (pop) 
 <b>fissura</b> , <i>fenda</i> (pop) 
 <b>fístula</b> , <i>comunicação anormal entre dois órgãos entre si ou com o exterior</i> (pop) 
-<b>fixação</b> , <i>fixação; detenção do desenvolvimento da personalidade numa determinada etapa; apego a outra pessoa</i> (pop) 
-<i>fixação; detenção do desenvolvimento da personalidade numa determinada etapa; apego a outra pessoa</i> (pop) , <b>fixação</b> 
+<b>fixação</b> , <i>fixação; detenção do desenvolvimento da personalidade numa determinada etapa;apego a outra pessoa</i> (pop) 
+<i>fixação; detenção do desenvolvimento da personalidade numa determinada etapa; apego aoutra pessoa</i> (pop) , <b>fixação</b> 
 <b>flácido</b> , <i>frouxo, mole, languido</i> (pop) 
 <b>flatulência</b> , <i>gases no estômago ou no intestino, ventosidade, aerenterectasia</i> (pop) 
 <b>flebite</b> , <i>inflamação das paredes de uma veia</i> (pop) 
@@ -1596,7 +1596,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <b>gonádico</b> , <i>relativo às glândulas sexuais</i> (pop) 
 <b>gonadotrópico</b> , <i>que estimula as glândulas sexuais</i> (pop) 
 <b>gonioscopia</b> , <i>exame do ângulo da câmara interna do olho</i> (pop) 
-<b>gonorreia</b> , <i>infecção bacteriana pelo gonococo que invade as mucosas da uretra e do útero; esquentamento</i> (pop) 
+<b>gonorreia</b> , <i>infecção bacteriana pelo gonococo que invade as mucosas da uretra e doútero; esquentamento</i> (pop) 
 <i>gordura ou substância idêntica</i> (pop) , <b>lípido</b> 
 <b>gradual</b> , <i>gradual</i> (pop) 
 <i>gradual</i> (pop) , <b>gradual</b> 
@@ -1637,7 +1637,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>hemorragia nasal</i> (pop) , <b>epistaxe</b> 
 <i>hemorragia para dentro dos tecidos</i> (pop) , <b>hematoma</b> 
 <i>hemorragia sanguínea uterina não menstrual</i> (pop) , <b>metrorragia</b> 
-<b>hemorróides</b> , <i>veias distendidas na junção do recto e do canal anal; almorróidas, almorródias</i> (pop) 
+<b>hemorróides</b> , <i>veias distendidas na junção do recto e do canal anal; almorróidas,almorródias</i> (pop) 
 <b>hemostasia</b> , <i>estancamento do sangue</i> (pop) 
 <b>hepático</b> , <i>relativo ao fígado</i> (pop) 
 <b>hepatite</b> , <i>inflamação do fígado</i> (pop) 
@@ -1664,7 +1664,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <b>higiénico</b> , <i>higiénico</i> (pop) 
 <i>higiénico</i> (pop) , <b>higiénico</b> 
 <b>hiper-reflexia</b> , <i>reflexos aumentados</i> (pop) 
-<b>hiperaldosteronismo</b> , <i>produção excessiva de aldoresterona pela glândula supra-renal </i>(pop) 
+<b>hiperaldosteronismo</b> , <i>produção excessiva de aldoresterona pela glândula supra-renal</i>(pop) 
 <b>hiperalgesia</b> , <i>grande sensibilidade à dor</i> (pop) 
 <b>hiperbárico</b> , <i>aumento da pressão de O2 no sangue</i> (pop) 
 <b>hipercalemia</b> , <i>excesso de potássio no sangue</i> (pop) 
@@ -1690,14 +1690,14 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <b>hipertiroidismo</b> , <i>actividade excessiva da tiróide</i> (pop) 
 <b>hipertonia</b> , <i>aumento da tensão no olho</i> (pop) 
 <b>hipertricose</b> , <i>aumento da espessura do pêlo do corpo</i> (pop) 
-<b>hipertrofia</b> , <i>maior crescimento de um tecido por aumento, sem multiplicação, das suas células</i> (pop) 
+<b>hipertrofia</b> , <i>maior crescimento de um tecido por aumento, sem multiplicação, das suascélulas</i> (pop) 
 <i>hipertrofia de um osso</i> (pop) , <b>hiperostose</b> 
 <i>hipertrofia do baço, aumento de tamanho ou volume do baço</i> (pop) , <b>esplenomegalia</b> 
 <i>hipertrofia e obstrução da próstata</i> (pop) , <b>prostatismo</b> 
 <b>hiperuricemia</b> , <i>aumento do ácido úrico</i> (pop) 
 <b>hiperuricemia</b> , <i>excesso de ácido úrico no sangue</i> (pop) 
-<b>hiperventilação</b> , <i>diminuição do volume de ar que entra nos pulmões; respiração lenta e superficial</i> (pop) 
-<b>hiperventilação</b> , <i>respiração difícil, rápida e profunda; aumento do volume de ar que entra nos pulmões </i>(pop) 
+<b>hiperventilação</b> , <i>diminuição do volume de ar que entra nos pulmões; respiração lenta esuperficial</i> (pop) 
+<b>hiperventilação</b> , <i>respiração difícil, rápida e profunda; aumento do volume de ar que entranos pulmões </i>(pop) 
 <b>hipervitaminose</b> , <i>excesso de vitaminas no organismo</i> (pop) 
 <b>hipervolemia</b> , <i>aumento dos fluidos no organismo</i> (pop) 
 <b>hipnótico</b> , <i>sonífero</i> (pop) 
@@ -1727,14 +1727,14 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <b>histerectomia</b> , <i>operação cirúrgica do útero</i> (pop) 
 <b>histológico</b> , <i>relativo à histologia (parte da anatomia que trata dos tecidos orgânicos)</i> (pop) 
 <b>homeostase</b> , <i>estado de equilíbrio orgânico</i> (pop) 
-<b>homogéneo</b> , <i>da mesma categoria, da mesma espécie, de estrutura igual; que tem as mesmas funções</i> (pop) 
+<b>homogéneo</b> , <i>da mesma categoria, da mesma espécie, de estrutura igual; que tem asmesmas funções</i> (pop) 
 <b>homólogo</b> , <i>igual</i> (pop) 
 <b>hormonal</b> , <i>relativo às hormonas</i> (pop) 
 <i>hormonas mineralocorticosteróides</i> (pop) , <b>mineralocorticóide</b> 
 <i>hormônio adreno-córticotrófico, corticotrofina</i> (pop) , <b>ACTH</b> 
 <i>hormônio do crescimento</i> (pop) , <b>somatrotopina</b> 
 
-<i>hormônio que prepara o útero para a recepção e desenvolvimento do óvulo fecundado</i> (pop) , <b>progestogeno</b> 
+<i>hormônio que prepara o útero para a recepção e desenvolvimento do óvulo fecundado</i> (pop), <b>progestogeno</b> 
 <b>hospitalização</b> , <i>internar num hospital</i> (pop) 
 <b>humor</b> , <i>fluido corporal</i> (pop) 
 <b>humoral</b> , <i>relativo aos fluidos corporais</i> (pop) 
@@ -1762,7 +1762,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <b>implicação</b> , <i>implicação</i> (pop) 
 <i>implicação</i> (pop) , <b>implicação</b> 
 <i>importante</i> (pop) , <b>relevante</b> 
-<b>impotência</b> , <i>incapacidade de realização do coito; falta de virilidade; anandria, assinodia </i>(pop) 
+<b>impotência</b> , <i>incapacidade de realização do coito; falta de virilidade; anandria, assinodia</i>(pop) 
 <b>impregnação</b> , <i>fecundação do óvulo;</i> (pop) 
 <b>imune</b> , <i>relativo ao sistema imunitário; insensível</i> (pop) 
 <b>imunidade</b> , <i>resistência natural às infecções</i> (pop) 
@@ -1783,7 +1783,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>incapacidade</i> (pop) , <b>incompetência</b> 
 <i>incapacidade de fecundar ou conceber</i> (pop) , <b>esterilidade</b> 
 
-<i>incapacidade de realização do coito; falta de virilidade; anandria, assinodia</i> (pop) , <b>impotência</b> 
+<i>incapacidade de realização do coito; falta de virilidade; anandria, assinodia</i> (pop) ,<b>impotência</b> 
 <i>incapacidade de suportar um medicamento</i> (pop) , <b>intolerância</b> 
 <i>incapacidade em permanecer sentado</i> (pop) , <b>acatisia</b> 
 <b>incarceração</b> , <i>incarceração</i> (pop) 
@@ -1803,7 +1803,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <b>incontinência</b> , <i>não segura as fezes ou as urinas</i> (pop) 
 <i>incontinência das urinas durante a noite</i> (pop) , <b>nictúria</b> 
 <b>incorporação</b> , <i>união de uma substância no interior do organismo</i> (pop) 
-<i>incorporação de substâncias minerais por meio de tecidos do organismo</i> (pop) , <b>mineralização</b> 
+<i>incorporação de substâncias minerais por meio de tecidos do organismo</i> (pop) ,<b>mineralização</b> 
 <i>incorporação e digestão de partículas no interior de uma célula</i> (pop) , <b>fagocitose</b> 
 <b>incubação</b> , <i>período entre o contágio e a manifestação da doença; choco</i> (pop) 
 <i>indagação, pesquisa</i> (pop) , <b>investigação</b> 
@@ -1819,20 +1819,20 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <b>indisposição</b> , <i>mal-estar</i> (pop) 
 <b>individual</b> , <i>individual</i> (pop) 
 <i>individual</i> (pop) , <b>individual</b> 
-<i>indivíduo com eretismo do aparelho vascular e vasomotor, de origem nervosa</i> (pop) , <b>angioneurótico</b> 
+<i>indivíduo com eretismo do aparelho vascular e vasomotor, de origem nervosa</i> (pop) ,<b>angioneurótico</b> 
 <b>indução</b> , <i>método de aplicação de uma anestesia geral; provocação de um processo</i> (pop) 
 <b>induração</b> , <i>endurecimento anormal de um tecido</i> (pop) 
 <i>indutor de malformações fetais</i> (pop) , <b>teratogénico</b> 
 <b>inércia</b> , <i>inactividade, incapacidade de se mover espontaneamente</i> (pop) 
 <b>inerente</b> , <i>inato, implantado naturalmente</i> (pop) 
-<b>inervação</b> , <i>suprimento nervoso ou a condução de impulsos nervosos de um local para outro</i> (pop) 
+<b>inervação</b> , <i>suprimento nervoso ou a condução de impulsos nervosos de um local paraoutro</i> (pop) 
 <b>inespecífico</b> , <i>não específico, não característico</i> (pop) 
 <i>inexistência de glóbulos no sangue, doença de Pfeiffer</i> (pop) , <b>agranulocitose</b> 
 <b>infantil</b> , <i>relativo à infância</i> (pop) 
 <b>infecção</b> , <i>infecção</i> (pop) 
 <i>infecção</i> (pop) , <b>infecção</b> 
-<i>infecção bacteriana pelo gonococo que invade as mucosas da uretra e do útero; esquentamento</i> (pop) , <b>gonorreia</b> 
-<b>infecção cruzada</b> , <i>contágio mútuo entre duas pessoas por doenças infecciosas diferentes </i>(pop) 
+<i>infecção bacteriana pelo gonococo que invade as mucosas da uretra e do útero;esquentamento</i> (pop) , <b>gonorreia</b> 
+<b>infecção cruzada</b> , <i>contágio mútuo entre duas pessoas por doenças infecciosas diferentes</i>(pop) 
 
 <i>infecção da pele</i> (pop) , <b>pioderma</b> 
 <i>infecção das camadas exteriores da pele; impetigem</i> (pop) , <b>impetigo</b> 
@@ -1906,7 +1906,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>inflamação do rim</i> (pop) , <b>nefrite</b> 
 <i>inflamação dos brônquios</i> (pop) , <b>bronquite</b> 
 <i>inflamação dos intestinos delgado e grosso</i> (pop) , <b>enterocolite</b> 
-<i>inflamação dos órgãos genitais externos femininos, incluindo a vagina</i> (pop) , <b>vulvovaginite</b> 
+<i>inflamação dos órgãos genitais externos femininos, incluindo a vagina</i> (pop) , <b>vulvovaginite</b>
 <i>inflamação dos pequenos vasos sanguíneos</i> (pop) , <b>vasculite</b> 
 <i>inflamação dos tecidos que rodeiam uma articulação</i> (pop) , <b>periartrite</b> 
 <i>inflamação no ouvido</i> (pop) , <b>otite</b> 
@@ -1920,7 +1920,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>infundir</i> (pop) , <b>infundir</b> 
 <b>infusão</b> , <i>infusão</i> (pop) 
 <i>infusão</i> (pop) , <b>infusão</b> 
-<b>ingestão</b> , <i>deglutição de alimentos ou outras substâncias para o interior do tubo digestivo </i>(pop) 
+<b>ingestão</b> , <i>deglutição de alimentos ou outras substâncias para o interior do tubo digestivo</i>(pop) 
 <i>ingrediente</i> (pop) , <b>componente</b> 
 <b>inguinal</b> , <i>pertencente à virilha</i> (pop) 
 <b>inibição</b> , <i>atenuação, supressão ou bloqueamento de uma função ou reacção</i> (pop) 
@@ -1947,7 +1947,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>instável, facilmente alterável</i> (pop) , <b>lábil</b> 
 <b>instilação</b> , <i>administração gota-a-gota (solução oftálmica)</i> (pop) 
 <b>instrução</b> , <i>indicações</i> (pop) 
-<i>instrumento que se coloca na vagina como dispositivo contraceptivo; supositório vaginal </i>(pop) , <b>pessário</b> 
+<i>instrumento que se coloca na vagina como dispositivo contraceptivo; supositório vaginal</i>(pop) , <b>pessário</b> 
 <b>insuficiência</b> , <i>função inadequada de um órgão ou sistema</i> (pop) 
 <i>insuficiência de glóbulos brancos</i> (pop) , <b>neutropenia</b> 
 <b>insulto</b> , <i>ataque</i> (pop) 
@@ -1999,7 +1999,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <b>invalidar</b> , <i>infirmar</i> (pop) 
 <b>invasivo</b> , <i>que penatra, que invade</i> (pop) 
 <b>investigação</b> , <i>indagação, pesquisa</i> (pop) 
-<b>involução</b> , <i>degradação e perda funcional dos órgãos com a idade; regressão das dimensões do útero e das estruturas envolventes após o parto</i> (pop) 
+<b>involução</b> , <i>degradação e perda funcional dos órgãos com a idade; regressão dasdimensões do útero e das estruturas envolventes após o parto</i> (pop) 
 <b>ionização</b> , <i>processo pelo qual são produzidos iões numa substância</i> (pop) 
 <b>ionograma</b> , <i>ionograma</i> (pop) 
 <i>ionograma</i> (pop) , <b>ionograma</b> 
@@ -2014,12 +2014,12 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <b>isolar</b> , <i>isolar</i> (pop) 
 <i>isolar</i> (pop) , <b>isolar</b> 
 <b>isotónico</b> , <i>que tem a mesma tensão ou concentração</i> (pop) 
-<b>isquemia</b> , <i>diminuição de suprimento arterial a um órgão ou região a níveis condicionantes de lesão tecidular ainda reversível</i> (pop) 
+<b>isquemia</b> , <i>diminuição de suprimento arterial a um órgão ou região a níveis condicionantesde lesão tecidular ainda reversível</i> (pop) 
 <b>jacto</b> , <i>banho por duche</i> (pop) 
 <i>jejum</i> (pop) , <b>abstinência</b> 
 <b>jejuno</b> , <i>parte do intestino delgado desde o duodeno até ao íleo</i> (pop) 
 
-<i>jovem</i> (pop) , <b>adolescente </b> 
+<i>jovem</i> (pop) , <b>adolescente </b>
 <b>juvenil</b> , <i>relativo ao jovem</i> (pop) 
 <b>lábil</b> , <i>instável, facilmente alterável</i> (pop) 
 <b>laceração</b> , <i>ferida irregular</i> (pop) 
@@ -2040,12 +2040,12 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <b>letal</b> , <i>que provoca a morte</i> (pop) 
 <i>letal, letífero, mortífero</i> (pop) , <b>fatal</b> 
 <b>letargia</b> , <i>embriaguez, sonolência</i> (pop) 
-<b>leucemia</b> , <i>doença que afecta os órgãos formadores do sangue, caracterizada pelo aumento dos glóbulos brancos em circulação</i> (pop) 
+<b>leucemia</b> , <i>doença que afecta os órgãos formadores do sangue, caracterizada peloaumento dos glóbulos brancos em circulação</i> (pop) 
 <b>leucócito</b> , <i>glóbulo branco</i> (pop) 
 
 <b>leucocitose</b> , <i>aumento do número de glóbulos brancos em circulação</i> (pop) 
 <b>leucopenia</b> , <i>deficiência de glóbulos brancos no sangue</i> (pop) 
-<b>leucoplasia</b> , <i>aparecimento de uma mancha branca que pode preceder o aparecimento de um cancro nesse órgão</i> (pop) 
+<b>leucoplasia</b> , <i>aparecimento de uma mancha branca que pode preceder o aparecimento deum cancro nesse órgão</i> (pop) 
 <b>leucorreia</b> , <i>corrimento mucoso de cor branca oriundo da vagina; flores-brancas</i> (pop) 
 <b>líbido</b> , <i>desejo sexual</i> (pop) 
 <b>licor</b> , <i>solução, soluto</i> (pop) 
@@ -2058,7 +2058,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <b>linfocítico</b> , <i>relativo aos linfócitos, células com núcleo redondo</i> (pop) 
 <b>linfoma</b> , <i>tumor maligno gerado no tecido linfóide</i> (pop) 
 <b>lípido</b> , <i>gordura ou substância idêntica</i> (pop) 
-<b>lipodistrofia</b> , <i>alteração do metabolismo dos lípidos (obesidade das mulheres na região glútea e nas pernas)</i> (pop) 
+<b>lipodistrofia</b> , <i>alteração do metabolismo dos lípidos (obesidade das mulheres na regiãoglútea e nas pernas)</i> (pop) 
 <b>lipofílico</b> , <i>que dissolve as gorduras; que pode tornar-se obeso</i> (pop) 
 <b>lipoproteína</b> , <i>combinação de uma gordura e uma proteína</i> (pop) 
 <b>liposoma</b> , <i>liposoma</i> (pop) 
@@ -2085,11 +2085,11 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <b>lúmen</b> , <i>cavidade ou canal dentro de um órgão em forma de tubo</i> (pop) 
 <b>luxação</b> , <i>deslocação dos ossos de uma articulação</i> (pop) 
 <i>má digestão</i> (pop) , <b>dispepsia</b> 
-<b>maceração</b> , <i>empolamento por contacto com líquidos, extracção de drogas por humedecimento, extracção a frio</i> (pop) 
+<b>maceração</b> , <i>empolamento por contacto com líquidos, extracção de drogas porhumedecimento, extracção a frio</i> (pop) 
 <b>maciço</b> , <i>grande, amplo</i> (pop) 
 <b>mácula</b> , <i>sinal, mancha, cicatriz, estigma</i> (pop) 
 <b>maculopapular</b> , <i>consistente em manchas e pápulas, borbulhas</i> (pop) 
-<i>maior crescimento de um tecido por aumento, sem multiplicação, das suas células</i> (pop) , <b>hipertrofia</b> 
+<i>maior crescimento de um tecido por aumento, sem multiplicação, das suas células</i> (pop) ,<b>hipertrofia</b> 
 <b>mal-absorção</b> , <i>transtorno da absorção intestinal de nutrientes</i> (pop) 
 
 <i>mal-estar</i> (pop) , <b>indisposição</b> 
@@ -2143,7 +2143,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>medicamento para cuidar dos olhos</i> (pop) , <b>colírio</b> 
 <i>medicamento para tratamento da irregularidade da pulsação cardíaca</i> (pop) , <b>antiarrítmico</b> 
 <i>medicamento purgante</i> (pop) , <b>laxativo</b> 
-<i>medicamento que ataca os micróbios parasitas ou as células de um cancro</i> (pop) , <b>quimioterápico</b> 
+<i>medicamento que ataca os micróbios parasitas ou as células de um cancro</i> (pop) ,<b>quimioterápico</b> 
 <i>medicamento que contém ópio (droga)</i> (pop) , <b>opiato</b> 
 
 <i>medicamento que contém um álcali</i> (pop) , <b>alcalina</b> 
@@ -2183,13 +2183,13 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <b>menstruação</b> , <i>regras</i> (pop) 
 <b>mental</b> , <i>psíquico</i> (pop) 
 <i>mental</i> (pop) , <b>psíquico</b> 
-<b>mesentérico</b> , <i>relativo ao mesentério, membrana que contém os vasos sanguíneos mesentéricos</i> (pop) 
+<b>mesentérico</b> , <i>relativo ao mesentério, membrana que contém os vasos sanguíneosmesentéricos</i> (pop) 
 <b>metabolismo</b> , <i>conjunto de reacções bioquímicas dentro do organismo</i> (pop) 
 <b>metabolito</b> , <i>substância derivada de um medicamento dentro do organismo</i> (pop) 
 <b>metabolização</b> , <i>transformação de uma substância noutra durante o metabolismo</i> (pop) 
 <b>metaplasia</b> , <i>processo de transformação de células ou tecidos noutros distintos</i> (pop) 
 <b>metastase</b> , <i>migração de doença, aparecimento de um cancro à distância</i> (pop) 
-<b>metemoglobinemia</b> , <i>presença de metemoglobina no sangue de que resulta a cianose </i>(pop) 
+<b>metemoglobinemia</b> , <i>presença de metemoglobina no sangue de que resulta a cianose</i>(pop) 
 <b>meteorismo</b> , <i>timpanismo, timpanite, dilatação do ventre (devido a gases)</i> (pop) 
 <i>método de aplicação de uma anestesia geral; provocação de um processo</i> (pop) , <b>indução</b> 
 <i>método, processo</i> (pop) , <b>procedimento</b> 
@@ -2210,7 +2210,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <b>micrograma</b> , <i>a milionésima parte de um grama</i> (pop) 
 <b>micronizar</b> , <i>reduzir a pó fino</i> (pop) 
 <b>microrganismo</b> , <i>micróbio</i> (pop) 
-<i>microrganismo que vive a expensas de matérias orgânicas em decomposição; parasita que não causa doenças</i> (pop) , <b>saprófito</b> 
+<i>microrganismo que vive a expensas de matérias orgânicas em decomposição; parasita quenão causa doenças</i> (pop) , <b>saprófito</b> 
 <b>microscópico</b> , <i>extremamente pequeno</i> (pop) 
 <b>microspório</b> , <i>género de fungos ascomicetes, parasitas no homem</i> (pop) 
 <b>microssómico</b> , <i>derivado dos microssomas</i> (pop) 
@@ -2223,7 +2223,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>migração de doença, aparecimento de um cancro à distância</i> (pop) , <b>metastase</b> 
 <i>miíte, inflamação de um músculo voluntário</i> (pop) , <b>miosite</b> 
 <b>mímica</b> , <i>expressão de ideias ou pensamentos por meio de gestos</i> (pop) 
-<b>mineralização</b> , <i>incorporação de substâncias minerais por meio de tecidos do organismo </i>(pop) 
+<b>mineralização</b> , <i>incorporação de substâncias minerais por meio de tecidos do organismo</i>(pop) 
 
 <b>mineralocorticóide</b> , <i>hormonas mineralocorticosteróides</i> (pop) 
 <b>minimizar</b> , <i>reduzir (ao mínimo), limitar</i> (pop) 
@@ -2263,7 +2263,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>motor</i> (pop) , <b>propulsivo</b> 
 <i>movimento automático do intestino</i> (pop) , <b>peristaltismo</b> 
 <i>movimento de endireitar uma articulação</i> (pop) , <b>extensão</b> 
-<i>movimento de moléculas num fluido de uma zona de alta concentração para outra de baixa concentração; dispersão</i> (pop) , <b>difusão</b> 
+<i>movimento de moléculas num fluido de uma zona de alta concentração para outra de baixaconcentração; dispersão</i> (pop) , <b>difusão</b> 
 <i>movimento involuntário que se produz repetidamente</i> (pop) , <b>tique</b> 
 <i>movimento reflexo do globo ocular (dos olhos)</i> (pop) , <b>nistagmo</b> 
 <i>movimentos bruscos incontrolados nas crianças</i> (pop) , <b>coreia</b> 
@@ -2290,8 +2290,8 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <b>muscular</b> , <i>relativo ao músculo; com musculatura bem desenvolvida</i> (pop) 
 <b>musculatura</b> , <i>sistema muscular do corpo ou das suas partes</i> (pop) 
 <i>músculo constritor, que aperta</i> (pop) , <b>esfíncter</b> 
-<i>músculo que participa com outro num movimento; medicamento que estimula células de maneira natural</i> (pop) , <b>agonista</b> 
-<i>músculo que produz movimento contrário ao de outro músculo; substância que anula a acção de outra</i> (pop) , <b>antagonista</b> 
+<i>músculo que participa com outro num movimento; medicamento que estimula células demaneira natural</i> (pop) , <b>agonista</b> 
+<i>músculo que produz movimento contrário ao de outro músculo; substância que anula aacção de outra</i> (pop) , <b>antagonista</b> 
 <b>mutação</b> , <i>mudança do material genético</i> (pop) 
 <b>mutagénico</b> , <i>que induz mutações genéticas</i> (pop) 
 <b>mutismo</b> , <i>mudez</i> (pop) 
@@ -2353,7 +2353,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>nevrótico, neuropático, nevropático</i> (pop) , <b>neurótico</b> 
 <b>nictúria</b> , <i>incontinência das urinas durante a noite</i> (pop) 
 <b>nidação</b> , <i>implantação do óvulo na cavidade uterina</i> (pop) 
-<i>nidação do embrião na mucosa do útero da mãe, cerca de seis dias após a concepção </i>(pop) , <b>implantação</b> 
+<i>nidação do embrião na mucosa do útero da mãe, cerca de seis dias após a concepção</i>(pop) , <b>implantação</b> 
 <b>niilidade</b> , <i>niilismo, isto é, sensação de falta de esperança por parte do homem; nada</i> (pop) 
 
 <i>niilismo, isto é, sensação de falta de esperança por parte do homem; nada</i> (pop) , <b>niilidade</b> 
@@ -2366,7 +2366,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>nocivo para a medula do osso</i> (pop) , <b>mielotóxico</b> 
 <b>nocturno</b> , <i>de noite, da noite</i> (pop) 
 <b>nodoso</b> , <i>caracterizado por pequenos nós sólidos</i> (pop) 
-<i>normal, não devido a uma doença; relativo ao estudo das funções dos organismos vivos </i>(pop) , <b>fisiológico</b> 
+<i>normal, não devido a uma doença; relativo ao estudo das funções dos organismos vivos</i>(pop) , <b>fisiológico</b> 
 <b>normalização</b> , <i>estandardização, padronização, unificação</i> (pop) 
 <i>normalizar, unificar, padronizar</i> (pop) , <b>estandardizar</b> 
 <b>normotenso</b> , <i>com tensão ou pressão normal</i> (pop) 
@@ -2387,7 +2387,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>obliteração, fecho, de um canal ou de uma abertura natural</i> (pop) , <b>oclusão</b> 
 <b>observação</b> , <i>estudo de um fenómeno</i> (pop) 
 <b>obsessão</b> , <i>ideia fixa</i> (pop) 
-<b>obstetrício</b> , <i>parte da medicina que se ocupa da gravidez, parto e puerpério; obstétrico, tocológico</i> (pop) 
+<b>obstetrício</b> , <i>parte da medicina que se ocupa da gravidez, parto e puerpério; obstétrico,tocológico</i> (pop) 
 <i>obstipação</i> (pop) , <b>prisão de ventre</b> 
 <b>obstipação</b> , <i>dificuldade de expelir os excrementos, prisão de ventre</i> (pop) 
 <i>obstrução</i> (pop) , <b>barreira</b> 
@@ -2422,7 +2422,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>operação cirúrgica do útero</i> (pop) , <b>histerectomia</b> 
 <b>opiato</b> , <i>medicamento que contém ópio (droga)</i> (pop) 
 <b>opistótono</b> , <i>arqueamento posterior da cabeça e membros inferiores</i> (pop) 
-<b>oportunista</b> , <i>diz-se do microrganismo que produz doenças unicamente em determinadas circunstâncias</i> (pop) 
+<b>oportunista</b> , <i>diz-se do microrganismo que produz doenças unicamente em determinadascircunstâncias</i> (pop) 
 <b>óptico</b> , <i>relativo à vista ou ao nervo ótptico</i> (pop) 
 <b>óptimo</b> , <i>o mais propício ou favorável</i> (pop) 
 <b>oral</b> , <i>relativo à boca, pela boca</i> (pop) 
@@ -2488,7 +2488,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 
 <b>paralelo</b> , <i>paralelo</i> (pop) 
 <i>paralelo</i> (pop) , <b>paralelo</b> 
-<b>paralisia</b> , <i>privação ou diminuição considerável do movimento voluntário e da sensibilidade </i>(pop) 
+<b>paralisia</b> , <i>privação ou diminuição considerável do movimento voluntário e da sensibilidade</i>(pop) 
 <i>paralisia agitante</i> (pop) , <b>doença de Parkinson</b> 
 <i>paralisia da pupila do globo ocular</i> (pop) , <b>cicloplegia</b> 
 <i>paralisia das pernas e parte inferior do corpo</i> (pop) , <b>paraplegia</b> 
@@ -2499,9 +2499,9 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>parâmetro, critério</i> (pop) , <b>parâmetro</b> 
 <b>paranóia</b> , <i>delírio, loucura raciocinante, monomania</i> (pop) 
 <b>paraplegia</b> , <i>paralisia das pernas e parte inferior do corpo</i> (pop) 
-<i>parasitário; referente aos organismos que vivem à custa de outros organismos</i> (pop) , <b>parasítico</b> 
-<b>parasítico</b> , <i>parasitário; referente aos organismos que vivem à custa de outros organismos </i>(pop) 
-<b>parassimpaticomimétrico</b> , <i>substância que estimula directamente o sistema colinérgico ou parassimpático</i> (pop) 
+<i>parasitário; referente aos organismos que vivem à custa de outros organismos</i> (pop) ,<b>parasítico</b> 
+<b>parasítico</b> , <i>parasitário; referente aos organismos que vivem à custa de outros organismos</i>(pop) 
+<b>parassimpaticomimétrico</b> , <i>substância que estimula directamente o sistema colinérgico ouparassimpático</i> (pop) 
 <b>paratiróide</b> , <i>relativo à glândula paratiróide</i> (pop) 
 <b>paravenoso</b> , <i>próximo de uma veia</i> (pop) 
 <i>parecido com o ópalo ou que tem cores como ele</i> (pop) , <b>opalescente</b> 
@@ -2519,7 +2519,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>parte anterior transparente do olho</i> (pop) , <b>córnea</b> 
 <i>parte da célula não ocupada pelo núcleo</i> (pop) , <b>citoplasma</b> 
 <i>parte da medicina que estuda a boca e suas doenças</i> (pop) , <b>estomatológico</b> 
-<i>parte da medicina que se ocupa da gravidez, parto e puerpério; obstétrico, tocológico</i> (pop) , <b>obstetrício</b> 
+<i>parte da medicina que se ocupa da gravidez, parto e puerpério; obstétrico, tocológico</i> (pop) ,<b>obstetrício</b> 
 <i>parte de um organismo ou órgão</i> (pop) , <b>segmento</b> 
 <i>parte do corpo</i> (pop) , <b>região</b> 
 <i>parte do intestino delgado desde o duodeno até ao íleo</i> (pop) , <b>jejuno</b> 
@@ -2569,14 +2569,14 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>perceptível aos sentidos externos; meta</i> (pop) , <b>objectivo</b> 
 <b>percutâneo</b> , <i>através da pele</i> (pop) 
 <i>perda da capacidade de comunicar</i> (pop) , <b>afasia</b> 
-<i>perda da faculdade visual em zonas bem circunscritas do campo visual; escotomia</i> (pop) , <b>escotoma</b> 
+<i>perda da faculdade visual em zonas bem circunscritas do campo visual; escotomia</i> (pop) ,<b>escotoma</b> 
 <i>perda da própria personalidade</i> (pop) , <b>despersonalização</b> 
 <i>perda de sangue</i> (pop) , <b>hemorragia</b> 
 <i>perda de sangue pela vagina</i> (pop) , <b>spotting</b> 
 <i>perda do peso e enfraquecimento físico</i> (pop) , <b>caquexia</b> 
 <i>perda momentânea do conhecimento</i> (pop) , <b>ausência</b> 
 <i>perda parcial ou quase total da consciência; obnubilação, torpor</i> (pop) , <b>estupor</b> 
-<i>perda súbita da consciência por descida da pressão sanguínea no cérebro; desmaio</i> (pop) , <b>síncope</b> 
+<i>perda súbita da consciência por descida da pressão sanguínea no cérebro; desmaio</i> (pop) ,<b>síncope</b> 
 <b>perene</b> , <i>perpétuo</i> (pop) 
 <b>perfuração</b> , <i>abertura; orifício</i> (pop) 
 <b>perfusão</b> , <i>perfusão; transfusão</i> (pop) 
@@ -2589,7 +2589,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <b>periférico</b> , <i>fora do centro, fora do sistema nervoso central</i> (pop) 
 <i>periférico, distante do tronco</i> (pop) , <b>distal</b> 
 <b>perinatal</b> , <i>pouco antes ou depois do nascimento</i> (pop) 
-<b>perineal</b> , <i>relativo à região limitada pelo escroto-ânus, no homem, e pela vulva-ânus, na mulher</i> (pop) 
+<b>perineal</b> , <i>relativo à região limitada pelo escroto-ânus, no homem, e pela vulva-ânus, namulher</i> (pop) 
 
 <b>periódico</b> , <i>cíclico, regular</i> (pop) 
 <i>período</i> (pop) , <b>ciclo</b> 
@@ -2628,9 +2628,9 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>perturbação</i> (pop) , <b>interferência</b> 
 <i>perturbação da nutrição de vários tecidos do organismo</i> (pop) , <b>distrofia</b> 
 <i>perturbação do funcionamento de um órgão; alteração de função</i> (pop) , <b>disfunção</b> 
-<i>perturbação mental por traumatismo, febre, envenenamento, etc. com confusão mental </i>(pop) , <b>delírio</b> 
+<i>perturbação mental por traumatismo, febre, envenenamento, etc. com confusão mental</i>(pop) , <b>delírio</b> 
 <b>perversão</b> , <i>desvio sexual</i> (pop) 
-<b>pessário</b> , <i>instrumento que se coloca na vagina como dispositivo contraceptivo; supositório vaginal</i> (pop) 
+<b>pessário</b> , <i>instrumento que se coloca na vagina como dispositivo contraceptivo; supositóriovaginal</i> (pop) 
 <i>pessoa que oferece um órgão, sangue, etc</i> (pop) , <b>dador</b> 
 <b>petéquias</b> , <i>pequenas manchas avermelhado-rouxas na pele</i> (pop) 
 <b>Petit mal; epilepsia menor</b> , <i>pequeno mal, epilepsia com ataques pouco intensos</i> (pop) 
@@ -2656,8 +2656,8 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <b>placenta</b> , <i>placenta</i> (pop) 
 <i>placenta</i> (pop) , <b>placenta</b> 
 <b>plasminogénio</b> , <i>precursor inactivo da plasmina</i> (pop) 
-<b>pleurisia</b> , <i>pleurite, inflamação da membrana que reveste os pulmões e a cavidade torácica </i>(pop) 
-<i>pleurite, inflamação da membrana que reveste os pulmões e a cavidade torácica</i> (pop) , <b>pleurisia</b> 
+<b>pleurisia</b> , <i>pleurite, inflamação da membrana que reveste os pulmões e a cavidade torácica</i>(pop) 
+<i>pleurite, inflamação da membrana que reveste os pulmões e a cavidade torácica</i> (pop) ,<b>pleurisia</b> 
 <b>plexo</b> , <i>rede de vasos linfáticos, nervos ou veias</i> (pop) 
 <i>plurivalente, multivalente</i> (pop) , <b>polivalente</b> 
 <b>pneumonia</b> , <i>pulmonia, inflamação dos pulmões e brônquios respiratórios</i> (pop) 
@@ -2665,12 +2665,12 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <b>pneumopatia</b> , <i>doença dos pulmões</i> (pop) 
 <i>poder; capacidade sexual; poder de um medicamento produzir efeitos</i> (pop) , <b>potência</b> 
 <b>poliartrite</b> , <i>inflamação simultânea de várias articulações</i> (pop) 
-<b>polidipsia</b> , <i>sede excessiva persistente; sintoma de diabetes mellitus descompensada</i> (pop) 
+<b>polidipsia</b> , <i>sede excessiva persistente; sintoma de diabetes mellitus descompensada</i> (pop)
 <b>polimorfo</b> , <i>que apresenta diversas formas</i> (pop) 
 <b>polinevrite</b> , <i>neurite múltipla; inflamação de muitos nervos um por cada vez</i> (pop) 
 <b>poliomielite</b> , <i>paralisia infantil</i> (pop) 
 
-<b>polipeptídeo</b> , <i>elemento de uma proteína; composto de dois ou mais aminoácidos unidos por ligações peptídicas</i> (pop) 
+<b>polipeptídeo</b> , <i>elemento de uma proteína; composto de dois ou mais aminoácidos unidospor ligações peptídicas</i> (pop) 
 <b>politerapia</b> , <i>terapia múltipla</i> (pop) 
 <b>poliúria</b> , <i>eliminação de grandes quantidades de urina por dia</i> (pop) 
 <b>polivalente</b> , <i>plurivalente, multivalente</i> (pop) 
@@ -2708,7 +2708,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <b>pré-carga</b> , <i>pré-carga</i> (pop) 
 <i>pré-carga</i> (pop) , <b>pré-carga</b> 
 <b>pré-clínico</b> , <i>que ocorre antes da doença ser clinicamente reconhecível</i> (pop) 
-<b>pré-medicação</b> , <i>administração de medicamentos como sedativos antes de uma anestesia geral</i> (pop) 
+<b>pré-medicação</b> , <i>administração de medicamentos como sedativos antes de uma anestesiageral</i> (pop) 
 <b>pré-menstrual</b> , <i>que ocorre antes da menstruação</i> (pop) 
 <b>pré-natal</b> , <i>antes do nascimento, durante a evolução da gravidez</i> (pop) 
 <b>pré-operatório</b> , <i>que precede uma operação</i> (pop) 
@@ -2734,7 +2734,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>preparação farmacológica em forma de grânulos</i> (pop) , <b>grânulos</b> 
 <i>preparado a partir de drogas vegetais em vez de substâncias químicas</i> (pop) , <b>galénico</b> 
 <i>preparado com alcool diluído</i> (pop) , <b>didralcoólico</b> 
-<i>preparado líquido que contém várias substâncias químicas solúveis; soluto, licor; meio</i> (pop) , <b>solução</b> 
+<i>preparado líquido que contém várias substâncias químicas solúveis; soluto, licor; meio</i> (pop), <b>solução</b> 
 <i>preparado para a higiene e beleza</i> (pop) , <b>cosmético</b> 
 <i>preparado, confecção, solução, fabricação</i> (pop) , <b>preparação</b> 
 <b>prepúcio</b> , <i>prega de pele que recobre a glande do pénis ou o clítoris</i> (pop) 
@@ -2742,9 +2742,9 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>presença de bactérias no sangue</i> (pop) , <b>bacteriemia</b> 
 <i>presença de creatina no sangue</i> (pop) , <b>creatinemia</b> 
 <i>presença de glicose nas urinas</i> (pop) , <b>glicosúria</b> 
-<i>presença de metemoglobina no sangue de que resulta a cianose</i> (pop) , <b>metemoglobinemia</b> 
+<i>presença de metemoglobina no sangue de que resulta a cianose</i> (pop) ,<b>metemoglobinemia</b> 
 <i>presença de pedras nas condutas biliares, litíase biliar</i> (pop) , <b>colelitíase</b> 
-<i>presença de pequenas saliências ou bolsas em pontos fracos do intestino grosso, diverticulose</i> (pop) , <b>diverticulite</b> 
+<i>presença de pequenas saliências ou bolsas em pontos fracos do intestino grosso,diverticulose</i> (pop) , <b>diverticulite</b> 
 <i>presença excessiva de ar nos pulmões ou tecidos corporais</i> (pop) , <b>enfisema</b> 
 <i>presente desde a nascença, mas não necessariamente hereditário</i> (pop) , <b>congénito</b> 
 <i>pressão</i> (pop) , <b>tensão</b> 
@@ -2762,10 +2762,10 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>primeiro, principal, originário</i> (pop) , <b>primário</b> 
 <b>prisão de ventre</b> , <i>obstipação</i> (pop) 
 <b>privação</b> , <i>falta ou carência</i> (pop) 
-<i>privação ou diminuição considerável do movimento voluntário e da sensibilidade</i> (pop) , <b>paralisia</b> 
+<i>privação ou diminuição considerável do movimento voluntário e da sensibilidade</i> (pop) ,<b>paralisia</b> 
 <b>procedimento</b> , <i>método, processo</i> (pop) 
 <i>procedimento que torna um indivíduo incapaz de reproduzir</i> (pop) , <b>esterilização</b> 
-<i>procedimento que transforma sistemas vivos em substâncias químicas nocivas</i> (pop) , <b>biodegração</b> 
+<i>procedimento que transforma sistemas vivos em substâncias químicas nocivas</i> (pop) ,<b>biodegração</b> 
 <i>processo de formação de uma úlcera; helcose</i> (pop) , <b>ulceração</b> 
 <i>processo de formação dos espermatozóides</i> (pop) , <b>espermatogénese</b> 
 <i>processo de tornar móvel uma parte fixa ou uma substância presa</i> (pop) , <b>mobilização</b> 
@@ -2778,9 +2778,9 @@ escamação, descamação (pop) , <b>esfoliação</b>
 
 <i>produção de calor num tecido por correntes eléctricas de alta frequência</i> (pop) , <b>diatermia</b> 
 <i>produção excessiva de aldoresterona pela glândula supra-renal</i> 
-(pop) , 
+(pop) ,
 <b>hiperaldosteronismo</b> 
-<b>produtivo</b> , <i>que produz tecido novo (diz-se de uma inflamação); que produz escarros e muco (diz-se da tosse)</i> (pop) 
+<b>produtivo</b> , <i>que produz tecido novo (diz-se de uma inflamação); que produz escarros emuco (diz-se da tosse)</i> (pop) 
 <i>produto acrescentado</i> (pop) , <b>aditivo</b> 
 <b>produto liofilizado</b> , <i>produto preparado mediante congelação e desidratação</i> (pop) 
 <i>produto preparado mediante congelação e desidratação</i> (pop) , <b>produto liofilizado</b> 
@@ -2788,7 +2788,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>produzido por fungos</i> (pop) , <b>micótico</b> 
 <i>produzido por manipulação química de substâncias naturais</i> (pop) , <b>semi-sintético</b> 
 <b>profilaxia</b> , <i>medicina preventiva</i> (pop) 
-<b>progestogeno</b> , <i>hormona que prepara o útero para a recepção e desenvolvimento do óvulo fecundado</i> (pop) 
+<b>progestogeno</b> , <i>hormona que prepara o útero para a recepção e desenvolvimento do óvulofecundado</i> (pop) 
 <b>prognose</b> , <i>prognóstico</i> (pop) 
 <i>prognóstico</i> (pop) , <b>prognose</b> 
 <b>progressivo</b> , <i>continuado, que avança lentamente</i> (pop) 
@@ -2840,8 +2840,8 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <b>psicomotor</b> , <i>relativo aos efeitos motores da actividade cerebral ou psíquica</i> (pop) 
 <i>psicopatia, alienação (mental), doença mental</i> (pop) , <b>psicose</b> 
 <b>psicose</b> , <i>psicopatia, alienação (mental), doença mental</i> (pop) 
-<i>psicose, doença mental em que o doente se alheia do mundo que o rodeia e se refugia em si mesmo</i> (pop) , <b>esquizofrenia</b> 
-<b>psicossomático</b> , <i>que tem sintomas corporais de origem psíquica, emocional e mental </i>(pop) 
+<i>psicose, doença mental em que o doente se alheia do mundo que o rodeia e se refugia emsi mesmo</i> (pop) , <b>esquizofrenia</b> 
+<b>psicossomático</b> , <i>que tem sintomas corporais de origem psíquica, emocional e mental</i>(pop) 
 <b>psicotrópico</b> , <i>que afecta o estado mental</i> (pop) 
 <b>psiquiátrico</b> , <i>relativo à psiquiatria</i> (pop) 
 <b>psíquico</b> , <i>mental</i> (pop) 
@@ -2859,7 +2859,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <b>punção</b> , <i>paracentese, puntura</i> (pop) 
 <i>purgante, que produz evacuação do intestino</i> (pop) , <b>purgativo</b> 
 <b>purgativo</b> , <i>purgante, que produz evacuação do intestino</i> (pop) 
-<b>púrpura</b> , <i>doença de Werlhof, caracterizada por manchas de cor vermelha devidas à ocorrência de hemorragias subcutâneas</i> (pop) 
+<b>púrpura</b> , <i>doença de Werlhof, caracterizada por manchas de cor vermelha devidas àocorrência de hemorragias subcutâneas</i> (pop) 
 <b>purulento</b> , <i>que contém ou produz pus</i> (pop) 
 <i>pústula maligna, baceira, mal-do-baço, mal-do-sangue</i> (pop) , <b>antraz</b> 
 <i>pustulento, com formação de pústulas</i> (pop) , <b>pustuloso</b> 
@@ -2897,7 +2897,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>que causa arritmia, pulsão irregular</i> (pop) , <b>arritmogénico</b> 
 <i>que causa febre</i> (pop) , <b>pirogénico</b> 
 <i>que causa imunidade</i> (pop) , <b>imunogénico</b> 
-<i>que combate a ansiedade, tranquilizante</i> (pop) , <b>anxiolítico </b> 
+<i>que combate a ansiedade, tranquilizante</i> (pop) , <b>anxiolítico </b>
 <i>que combate a formação de tumores</i> (pop) , <b>antitumor</b> 
 <i>que combate a infecção</i> (pop) , <b>anti-infeccioso</b> 
 <i>que combate a inflamação, anti-inflamatório</i> (pop) , <b>antiflogístico</b> 
@@ -2970,14 +2970,14 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>que precede uma operação</i> (pop) , <b>pré-operatório</b> 
 <i>que precede, dianteiro</i> (pop) , <b>precursor</b> 
 <i>que produz degeneração</i> (pop) , <b>degenerativo</b> 
-<i>que produz e restabelece o tom normal; que se caracteriza por tensão contínua</i> (pop) , <b>tónico</b> 
+<i>que produz e restabelece o tom normal; que se caracteriza por tensão contínua</i> (pop) ,<b>tónico</b> 
 <i>que produz sono, soporífero</i> (pop) , <b>soporífico</b> 
-<i>que produz tecido novo (diz-se de uma inflamação); que produz escarros e muco (diz-se da tosse)</i> (pop) , <b>produtivo</b> 
+<i>que produz tecido novo (diz-se de uma inflamação); que produz escarros e muco (diz-se datosse)</i> (pop) , <b>produtivo</b> 
 <i>que protege, protector</i> (pop) , <b>protectivo</b> 
 <i>que provoca a morte</i> (pop) , <b>letal</b> 
 <i>que provoca o cancro, cancerígeno</i> (pop) , <b>carcinogénico</b> 
 <i>que reduz a febre, antitérmico, febrífugo, antifebril</i> (pop) , <b>antipirético</b> 
-<i>que se compadece com os males ou desventuras de outrem; simpático</i> (pop) , <b>complacente</b> 
+<i>que se compadece com os males ou desventuras de outrem; simpático</i> (pop) ,<b>complacente</b> 
 <i>que se desenvolve ou surge num organismo</i> (pop) , <b>endógeno</b> 
 <i>que se encontra adiante da zona de contacto entre dois neuronas</i> (pop) , <b>pré-sinático</b> 
 <i>que se encontra ou produz fora do lugar habitual</i> (pop) , <b>ectópico</b> 
@@ -2998,7 +2998,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>que tem febre, pirético</i> (pop) , <b>febril</b> 
 <i>que tem horror à água ou foge dela</i> (pop) , <b>hidrófobo</b> 
 <i>que tem origem emocional ou psicológica</i> (pop) , <b>psicogénico</b> 
-<i>que tem sintomas corporais de origem psíquica, emocional e mental</i> (pop) , <b>psicossomático</b> 
+<i>que tem sintomas corporais de origem psíquica, emocional e mental</i> (pop) ,<b>psicossomático</b> 
 <i>que teve vários filhos</i> (pop) , <b>multípara</b> 
 <i>que tira a sensibilidade</i> (pop) , <b>anestésico</b> 
 <i>que toma o corante de Gram</i> (pop) , <b>Gram-positivo</b> 
@@ -3017,7 +3017,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>químico</i> (pop) , <b>químico</b> 
 <b>químio-receptor</b> , <i>célula capaz de receber substâncias químicas</i> (pop) 
 <b>quimioterapia</b> , <i>tratamento do cancro com substâncias químicas</i> (pop) 
-<b>quimioterápico</b> , <i>medicamento que ataca os micróbios parasitas ou as células de um cancro</i> (pop) 
+<b>quimioterápico</b> , <i>medicamento que ataca os micróbios parasitas ou as células de umcancro</i> (pop) 
 <b>quisto</b> , <i>tumefacção anormal com conteúdo líquido; ciste</i> (pop) 
 <b>radioactividade</b> , <i>radioactividade</i> (pop) 
 <i>radioactividade</i> (pop) , <b>radioactividade</b> 
@@ -3050,17 +3050,17 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>reactivo, eficaz</i> (pop) , <b>activo</b> 
 <i>reactivo, substância utilizada para produzir uma reacção química</i> (pop) , <b>reagente</b> 
 <b>reagente</b> , <i>reactivo, substância utilizada para produzir uma reacção química</i> (pop) 
-<i>reanimação de doentes que pareciam mortos, como após afogamento, etc.</i> (pop) , <b>ressuscitação</b> 
+<i>reanimação de doentes que pareciam mortos, como após afogamento, etc.</i> (pop) ,<b>ressuscitação</b> 
 <b>reavaliação</b> , <i>reavaliação</i> (pop) 
 <i>reavaliação</i> (pop) , <b>reavaliação</b> 
 <i>rebelde, que não cede facilmente com o tratamento</i> (pop) , <b>refractário</b> 
 <i>receita</i> (pop) , <b>prescrição</b> 
 <b>receptor</b> , <i>receptor</i> (pop) 
-<i>receptor</i> (pop) , <b>receptor </b> 
-<b>recidivista</b> , <i>reincidente, pessoa que repete os actos delinquentes depois de receber tratamento</i> (pop) 
+<i>receptor</i> (pop) , <b>receptor </b>
+<b>recidivista</b> , <i>reincidente, pessoa que repete os actos delinquentes depois de recebertratamento</i> (pop) 
 <b>recipiente</b> , <i>beneficiário</i> (pop) 
 <b>recombinante</b> , <i>célula com nova combinação genética, não herdada dos pais</i> (pop) 
-<b>reconstituição</b> , <i>acrescentar um solvente a um medicamento em pó; tipo de regeneração de uma superfície lesionada; retorno à forma líquida do soro ou plasma sanguíneo previamente dessecado</i> (pop) 
+<b>reconstituição</b> , <i>acrescentar um solvente a um medicamento em pó; tipo de regeneraçãode uma superfície lesionada; retorno à forma líquida do soro ou plasma sanguíneo previamente dessecado</i> (pop) 
 
 <b>reconvalescença</b> , <i>fase de recuperação</i> (pop) 
 <b>recorrente</b> , <i>que volta à sua origem</i> (pop) 
@@ -3093,13 +3093,13 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>registo das ondas cerebrais (para detecção de tumores)</i> (pop) , <b>electroencefalografia</b> 
 <i>regra</i> (pop) , <b>critério</b> 
 <i>regras</i> (pop) , <b>menstruação</b> 
-<b>regressão</b> , <i>retorno a um estado ou fase anterior; desaparecimento dos sintomas ou de um processo anormal; involução</i> (pop) 
+<b>regressão</b> , <i>retorno a um estado ou fase anterior; desaparecimento dos sintomas ou de umprocesso anormal; involução</i> (pop) 
 <b>regulação</b> , <i>afinação, ajustamento</i> (pop) 
 <i>regulação</i> (pop) , <b>retroacção</b> 
 <i>regulação do calor ou da temperatura</i> (pop) , <b>termorregulação</b> 
 <b>regurgitação</b> , <i>voltar à boca [por exemplo, alimentos sólidos que...]</i> (pop) 
 <b>reidratação</b> , <i>restauração da água ou do conteúdo líquido num organismo</i> (pop) 
-<i>reincidente, pessoa que repete os actos delinquentes depois de receber tratamento</i> (pop) , <b>recidivista</b> 
+<i>reincidente, pessoa que repete os actos delinquentes depois de receber tratamento</i> (pop) ,<b>recidivista</b> 
 <b>reinfecção</b> , <i>nova infecção num mesmo agente, depois de ter curado a primeira</i> (pop) 
 <i>relação entre dois elementos</i> (pop) , <b>interacção</b> 
 <i>relação recíproca ou mútua</i> (pop) , <b>correlação</b> 
@@ -3120,7 +3120,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>relativo à ciência dos microrganismos (organismos minúsculos)</i> (pop) , <b>microbiológico</b> 
 <i>relativo à ciência que estuda os venenos</i> (pop) , <b>toxicológico</b> 
 <i>relativo à ciência que investiga os medicamentos</i> (pop) , <b>farmacológico</b> 
-<i>relativo à ciência que se ocupa do desenvolvimento anormal e das malformações congénitas</i> (pop) , <b>teratológico</b> 
+<i>relativo à ciência que se ocupa do desenvolvimento anormal e das malformaçõescongénitas</i> (pop) , <b>teratológico</b> 
 <i>relativo à clínica; baseado na observação e no tratamento</i> (pop) , <b>clínico</b> 
 <i>relativo à coluna vertebral</i> (pop) , <b>espinal</b> 
 <i>relativo à correlação entre os nervos e os músculos</i> (pop) , <b>neuromuscular</b> 
@@ -3129,7 +3129,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>relativo à digestão; úlcera gástrica</i> (pop) , <b>péptico</b> 
 <i>relativo à disástole (fase de relaxamento do músculo cardíaco)</i> (pop) , <b>diastólico</b> 
 <i>relativo à divisão dos cromossomas e replicação das células</i> (pop) , <b>miótico</b> 
-<i>relativo à electrofisiologia (estudo das reacções produzidas nos seres vivos por excitações eléctricas)</i> (pop) , <b>electrofisiológico</b> 
+<i>relativo à electrofisiologia (estudo das reacções produzidas nos seres vivos por excitaçõeseléctricas)</i> (pop) , <b>electrofisiológico</b> 
 <i>relativo à energia</i> (pop) , <b>energético</b> 
 <i>relativo à farmácia</i> (pop) , <b>farmacêutico</b> 
 <i>relativo à física e à química</i> (pop) , <b>físico-químico</b> 
@@ -3159,14 +3159,14 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>relativo à qualidade</i> (pop) , <b>qualitativo</b> 
 <i>relativo à quantidade</i> (pop) , <b>quantitativo</b> 
 <i>relativo à química dos processos vitais e organismos vivos</i> (pop) , <b>bioquímico</b> 
-<i>relativo à região limitada pelo escroto-ânus, no homem, e pela vulva-ânus, na mulher</i> (pop) , <b>perineal</b> 
+<i>relativo à região limitada pelo escroto-ânus, no homem, e pela vulva-ânus, na mulher</i> (pop) ,<b>perineal</b> 
 <i>relativo à respiração</i> (pop) , <b>respiratório</b> 
 <i>relativo à retina</i> (pop) , <b>retinal</b> 
 <i>relativo a um ciclo, que passa por etapas sucessivas</i> (pop) , <b>cíclico</b> 
 <i>relativo a um trauma ou traumatismo, ou causado por ele</i> (pop) , <b>traumático</b> 
 <i>relativo a um vestíbulo ou que se dirige para ele</i> (pop) , <b>vestibular</b> 
 <i>relativo a uma artéria e a uma veia</i> (pop) , <b>artério-venoso</b> 
-<i>relativo a uma bolsa ou cavidade, particularmente na câmara superior do coração</i> (pop) , 
+<i>relativo a uma bolsa ou cavidade, particularmente na câmara superior do coração</i> (pop) ,
 
 <b>sinusal</b> 
 <i>relativo a uma borda ou margem</i> (pop) , <b>límbico</b> 
@@ -3199,7 +3199,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>relativo ao corpo: desenvolvimento somático, por exemplo</i> (pop) , <b>somático</b> 
 <i>relativo ao córtex</i> (pop) , <b>cortical</b> 
 <i>relativo ao crânio</i> (pop) , <b>craniano</b> 
-<i>relativo ao crescimento e à nutrição; que funciona de maneira involuntária ou inconsciente; em repouso; relativo às plantas; relativo à reprodução assexual</i> (pop) , <b>vegetativo</b> 
+<i>relativo ao crescimento e à nutrição; que funciona de maneira involuntária ou inconsciente;em repouso; relativo às plantas; relativo à reprodução assexual</i> (pop) , <b>vegetativo</b> 
 <i>relativo ao cromossoma</i> (pop) , <b>cromossómico</b> 
 <i>relativo ao dorso, às costas</i> (pop) , <b>dorsal</b> 
 <i>relativo ao esqueleto, magro</i> (pop) , <b>esquelético</b> 
@@ -3219,7 +3219,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>relativo ao jovem</i> (pop) , <b>juvenil</b> 
 <i>relativo ao líquido secretado pela membrana sinovial ou que o secreta</i> (pop) , <b>sinovial</b> 
 <i>relativo ao membro viril</i> (pop) , <b>fálico</b> 
-<i>relativo ao mesentério, membrana que contém os vasos sanguíneos mesentéricos</i> (pop) , 
+<i>relativo ao mesentério, membrana que contém os vasos sanguíneos mesentéricos</i> (pop) ,
 
 <b>mesentérico</b> 
 <i>relativo ao músculo; com musculatura bem desenvolvida</i> (pop) , <b>muscular</b> 
@@ -3293,14 +3293,14 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>resistência natural às infecções</i> (pop) , <b>imunidade</b> 
 <i>resistência, robustez</i> (pop) , <b>rigidez</b> 
 <b>resistente</b> , <i>que não reage a determinados medicamentos</i> (pop) 
-<i>respiração difícil, rápida e profunda; aumento do volume de ar que entra nos pulmões </i>(pop) , <b>hiperventilação</b> 
+<i>respiração difícil, rápida e profunda; aumento do volume de ar que entra nos pulmões</i>(pop) , <b>hiperventilação</b> 
 <b>respiratório</b> , <i>relativo à respiração</i> (pop) 
 <b>responder</b> , <i>responder</i> (pop) 
 <i>responder</i> (pop) , <b>responder</b> 
 <b>resposta</b> , <i>reacção a um estímulo</i> (pop) 
 <b>ressecção</b> , <i>corte, extirpação cirúrgica parcial ou total de um órgão</i> (pop) 
 <b>ressorção</b> , <i>absorção de água e de solutos por células vivas</i> (pop) 
-<b>ressuscitação</b> , <i>reanimação de doentes que pareciam mortos, como após afogamento, etc.</i> \(pop) 
+<b>ressuscitação</b> , <i>reanimação de doentes que pareciam mortos, como após afogamento, etc.</i>\(pop) 
 <i>restabelecimento da pulsação cardíaca</i> (pop) , <b>desfibrilhação</b> 
 <i>restante, que deposita</i> (pop) , <b>residual</b> 
 <i>restauração da actividade num corpo inactivo</i> (pop) , <b>reactivação</b> 
@@ -3310,14 +3310,14 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>resultado</i> (pop) , <b>efeito</b> 
 <b>retardamento</b> , <i>retardo, atraso no desenvolvimento de determinada actividade</i> (pop) 
 <i>retardo, atraso no desenvolvimento de determinada actividade</i> (pop) , <b>retardamento</b> 
-<b>retenção</b> , <i>conservação, dentro do corpo, de materiais ou líquidos que se excretam normalmente</i> (pop) 
+<b>retenção</b> , <i>conservação, dentro do corpo, de materiais ou líquidos que se excretamnormalmente</i> (pop) 
 <i>retenção de fel nas condutas</i> (pop) , <b>colestase</b> 
 <i>retenção no sangue de produtos azotados</i> (pop) , <b>azotemia</b> 
 <b>retinal</b> , <i>relativo à retina</i> (pop) 
 <b>retinopatia</b> , <i>lesão patológica que afecta a retina</i> (pop) 
 <i>retirada, supressão</i> (pop) , <b>retracção</b> 
 <i>retorno à forma inicial ou normal</i> (pop) , <b>redução</b> 
-<i>retorno a um estado ou fase anterior; desaparecimento dos sintomas ou de um processo anormal; involução</i> (pop) , <b>regressão</b> 
+<i>retorno a um estado ou fase anterior; desaparecimento dos sintomas ou de um processoanormal; involução</i> (pop) , <b>regressão</b> 
 <b>retracção</b> , <i>contracção, retraimento, encolhimento de um órgão ou tecido</i> (pop) 
 <b>retracção</b> , <i>retirada, supressão</i> (pop) 
 <b>retroacção</b> , <i>regulação</i> (pop) 
@@ -3329,7 +3329,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <b>reversível</b> , <i>que pode desaparecer totalmente com a supressão da causa</i> (pop) 
 <b>revestimento intestinal</b> , <i>revestimento intestinal</i> (pop) 
 <i>revestimento intestinal</i> (pop) , <b>revestimento intestinal</b> 
-<b>revulsivo</b> , <i>antiléptico, contra-irritante, que provoca uma irritação destinada a aliviar outra </i>(pop) 
+<b>revulsivo</b> , <i>antiléptico, contra-irritante, que provoca uma irritação destinada a aliviar outra</i>(pop) 
 <b>rigidez</b> , <i>resistência, robustez</i> (pop) 
 <b>rinite</b> , <i>inflamação do nariz, nasite, defluxo, constipação (nasal), catarro nasal</i> (pop) 
 <b>rinofaringite</b> , <i>nasofaringite, retrofaringite, angina retronasal</i> (pop) 
@@ -3364,7 +3364,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <b>salpingite</b> , <i>inflamação da trompa uterina, da trompa auditiva</i> (pop) 
 <b>salúrico</b> , <i>que induz a eliminação de sal pela urina</i> (pop) 
 <i>sangue nas urinas, emissão de sangue pelas vias urinárias</i> (pop) , <b>hematúria</b> 
-<b>saprófito</b> , <i>microrganismo que vive a expensas de matérias orgânicas em decomposição; parasita que não causa doenças</i> (pop) 
+<b>saprófito</b> , <i>microrganismo que vive a expensas de matérias orgânicas em decomposição;parasita que não causa doenças</i> (pop) 
 <i>sarampo alemão</i> (pop) , <b>rubéola</b> 
 <b>sarcoma</b> , <i>tumor maligno</i> (pop) 
 <b>seborreia</b> , <i>excreção excessiva de substâncias gordas</i> (pop) 
@@ -3378,9 +3378,9 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>secura, ulceração da córnea por falta de vitamina A</i> (pop) , <b>xeroftalmia</b> 
 
 <b>sedativo</b> , <i>calmante, anódino, paregórico</i> (pop) 
-<i>sede excessiva persistente; sintoma de diabetes mellitus descompensada</i> (pop) , <b>polidipsia</b> 
+<i>sede excessiva persistente; sintoma de diabetes mellitus descompensada</i> (pop) , <b>polidipsia</b>
 <b>sedentário</b> , <i>que se senta habitualmente; de hábitos inactivos</i> (pop) 
-<b>sedimentação</b> , <i>depósito de partículas sólidas de uma solução no fundo de um recipiente </i>(pop) 
+<b>sedimentação</b> , <i>depósito de partículas sólidas de uma solução no fundo de um recipiente</i>(pop) 
 <b>sedimento</b> , <i>depósito, assento, lia, pé, borra(s)</i> (pop) 
 <b>segmento</b> , <i>parte de um organismo ou órgão</i> (pop) 
 <b>selectivo</b> , <i>muito exigente quanto à indicação</i> (pop) 
@@ -3425,7 +3425,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>sinal</i> (pop) , <b>sintoma</b> 
 <i>sinal, mancha, cicatriz, estigma</i> (pop) , <b>mácula</b> 
 <b>sináptico</b> , <i>relativo à zona de contacto entre dois neuronas</i> (pop) 
-<b>síncope</b> , <i>perda súbita da consciência por descida da pressão sanguínea no cérebro; desmaio</i> (pop) 
+<b>síncope</b> , <i>perda súbita da consciência por descida da pressão sanguínea no cérebro;desmaio</i> (pop) 
 <b>síndroma</b> , <i>complexo mórbido, conjunto de sintomas</i> (pop) 
 <b>sinergético</b> , <i>que age simultaneamente com outra coisa</i> (pop) 
 <b>sinovial</b> , <i>relativo ao líquido secretado pela membrana sinovial ou que o secreta</i> (pop) 
@@ -3436,7 +3436,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>sintomas combinados de uma doença</i> (pop) , <b>sintomatologia</b> 
 <b>sintomático</b> , <i>pertencente aos sintomas</i> (pop) 
 <b>sintomatologia</b> , <i>sintomas combinados de uma doença</i> (pop) 
-<b>sinusal</b> , <i>relativo a uma bolsa ou cavidade, particularmente na câmara superior do coração </i>(pop) 
+<b>sinusal</b> , <i>relativo a uma bolsa ou cavidade, particularmente na câmara superior do coração</i>(pop) 
 <b>sinusite</b> , <i>inflamação de uma bolsa ou cavidade, especialmente dos ossos do crânio</i> (pop) 
 <i>sistema muscular do corpo ou das suas partes</i> (pop) , <b>musculatura</b> 
 <b>sistemático</b> , <i>que segue um sistema, um método</i> (pop) 
@@ -3504,15 +3504,15 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>substância que combate a acção da histamina</i> (pop) , <b>anti-histamina</b> 
 <i>substância que combate as contraturas, cãibras e convulsões</i> (pop) , <b>antispasmódico</b> 
 <i>substância que contribui para a auxiliar</i> (pop) , <b>adjuvante</b> 
-<i>substância que corrige a acção ou o sabor de um medicamento; compensação, rectificação </i>(pop) , <b>correcção</b> 
+<i>substância que corrige a acção ou o sabor de um medicamento; compensação, rectificação</i>(pop) , <b>correcção</b> 
 <i>substância que destrói os germes</i> (pop) , <b>germicida</b> 
 <i>substância que diminui a pressão sanguínea</i> (pop) , <b>anti-hipertensivo</b> 
-<i>substância que estimula directamente o sistema colinérgico ou parassimpático</i> (pop) , <b>parassimpaticomimétrico</b> 
+<i>substância que estimula directamente o sistema colinérgico ou parassimpático</i> (pop) ,<b>parassimpaticomimétrico</b> 
 
 <i>substância que estimula o sistema nervoso simpático</i> (pop) , <b>simpaticomimético</b> 
 <i>substância que evita as convulsões</i> (pop) , <b>anticonvulsivante</b> 
 <i>substância que favorece a produção de fel</i> (pop) , <b>colerético</b> 
-<i>substância que forma sal combinada com um ácido; veículo neutro de um medicamento; superfície ou parte inferior de um órgão</i> (pop) , <b>base</b> 
+<i>substância que forma sal combinada com um ácido; veículo neutro de um medicamento;superfície ou parte inferior de um órgão</i> (pop) , <b>base</b> 
 <i>substância que imita a acção dos receptores adrenérgicos B</i> (pop) , <b>betamimético</b> 
 <i>substância que inibe a biossíntese e/ou a secreção de hormonas tiróides</i> (pop) , <b>tirostático</b> 
 <i>substância que inibe a resposta à adrenalina</i> (pop) , <b>adrenolítico</b> 
@@ -3540,7 +3540,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <b>supraventricular</b> , <i>por cima de uma pequena cavidade</i> (pop) 
 <b>supressivo</b> , <i>supressivo</i> (pop) 
 <i>supressivo</i> (pop) , <b>supressivo</b> 
-<i>suprimento nervoso ou a condução de impulsos nervosos de um local para outro</i> (pop) , <b>inervação</b> 
+<i>suprimento nervoso ou a condução de impulsos nervosos de um local para outro</i> (pop) ,<b>inervação</b> 
 <b>supuração</b> , <i>formação de pus</i> (pop) 
 <i>supuração, corrimento do ouvido</i> (pop) , <b>otorreia</b> 
 <b>surdez</b> , <i>diminuição da audição</i> (pop) 
@@ -3579,7 +3579,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>terapia destinada a reduzir uma alergia</i> (pop) , <b>dessensibilização</b> 
 <i>terapia múltipla</i> (pop) , <b>politerapia</b> 
 <b>teratogénico</b> , <i>indutor de malformações fetais</i> (pop) 
-<b>teratológico</b> , <i>relativo à ciência que se ocupa do desenvolvimento anormal e das malformações congénitas</i> (pop) 
+<b>teratológico</b> , <i>relativo à ciência que se ocupa do desenvolvimento anormal e dasmalformações congénitas</i> (pop) 
 <b>termal</b> , <i>térmico, que faz referência ao calor ou à temperatura</i> (pop) 
 <i>térmico, que faz referência ao calor ou à temperatura</i> (pop) , <b>termal</b> 
 <b>terminal</b> , <i>final, último</i> (pop) 
@@ -3603,15 +3603,15 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <b>tirostático</b> , <i>substância que inibe a biossíntese e/ou a secreção de hormonas tiróides</i> (pop) 
 <b>tirotoxicose</b> , <i>conjunto de sintomas devido a um excesso de hormonas tiróides</i> (pop) 
 <b>título</b> , <i>valor, grau, proporção</i> (pop) 
-<b>tofo</b> , <i>depósito nos tecidos, principalmente de ácido úrico e seus sais, característico da gota </i>(pop) 
+<b>tofo</b> , <i>depósito nos tecidos, principalmente de ácido úrico e seus sais, característico da gota</i>(pop) 
 <b>tolerância</b> , <i>capacidade de suportar doses elevadas de uma droga tóxica</i> (pop) 
 <b>tomografia</b> , <i>radiografia de uma secção do corpo ou de um órgão</i> (pop) 
 <i>tonicidade anormal dos tecidos</i> (pop) , <b>distonia</b> 
-<b>tónico</b> , <i>que produz e restabelece o tom normal; que se caracteriza por tensão contínua </i>(pop) 
+<b>tónico</b> , <i>que produz e restabelece o tom normal; que se caracteriza por tensão contínua</i>(pop) 
 <b>tono</b> , <i>tensão</i> (pop) 
-<b>tonsilite</b> , <i>angina (tonsilar), amigdalite, esquinência, antiadite, inflamação das amígdalas </i>(pop) 
+<b>tonsilite</b> , <i>angina (tonsilar), amigdalite, esquinência, antiadite, inflamação das amígdalas</i>(pop) 
 <b>tópico</b> , <i>local</i> (pop) 
-<i>toque; indivíduo que esteve em relação com pessoa portadora de doença contagiosa</i> (pop) , 
+<i>toque; indivíduo que esteve em relação com pessoa portadora de doença contagiosa</i> (pop) ,
 
 <b>contacto</b> 
 <b>torácico</b> , <i>relativo ao tórax ou que o afecta</i> (pop) 
@@ -3635,7 +3635,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <b>toxina</b> , <i>veneno</i> (pop) 
 <b>toxoplasmose</b> , <i>doença infecciosa causada por Toxoplasma gondi</i> (pop) 
 <b>tracoma</b> , <i>doença infecciosa da conjuntiva e da córnea do olho</i> (pop) 
-<b>tracto (gastrintestinal)</b> , <i>tubo digestivo, incluindo a boca, esófago, estômago, intestinos delgado e grosso, recto, ânos e glândulas anexas (vesícula biliar e pâncreas)</i> (pop) 
+<b>tracto (gastrintestinal)</b> , <i>tubo digestivo, incluindo a boca, esófago, estômago, intestinosdelgado e grosso, recto, ânos e glândulas anexas (vesícula biliar e pâncreas)</i> (pop) 
 <b>tranquilizante</b> , <i>medicamento que serve para tranquilizar; calmante</i> (pop) 
 <i>tranquilizante</i> (pop) , <b>antipsicótico</b> 
 
@@ -3644,10 +3644,10 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <b>transdérmico</b> , <i>que passa através da pele</i> (pop) 
 <b>transferência</b> , <i>passagem de um sintoma ou doença para outro(a)</i> (pop) 
 <b>transformação</b> , <i>mudança de forma ou estrutura, alteração</i> (pop) 
-<i>transformação de substâncias orgânicas noutras substâncias orgânicas</i> (pop) , <b>fermentação</b> 
+<i>transformação de substâncias orgânicas noutras substâncias orgânicas</i> (pop) ,<b>fermentação</b> 
 <i>transformação de uma substância noutra durante o metabolismo</i> (pop) , <b>metabolização</b> 
 <i>transformação química de um composto no organismo</i> (pop) , <b>biotransformação</b> 
-<i>transformação; transformação das emoções em manifestações corporais</i> (pop) , <b>conversão</b> 
+<i>transformação; transformação das emoções em manifestações corporais</i> (pop) , <b>conversão</b>
 <b>transfusão</b> , <i>transfusão</i> (pop) 
 <i>transfusão</i> (pop) , <b>transfusão</b> 
 <b>trânsito</b> , <i>passagem</i> (pop) 
@@ -3675,8 +3675,8 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <b>traumático</b> , <i>relativo a um trauma ou traumatismo, ou causado por ele</i> (pop) 
 <b>tremor</b> , <i>tremor</i> (pop) 
 <i>tremor</i> (pop) , <b>tremor</b> 
-<b>tremor intencional</b> , <i>tremor que aparece ao efectuar um movimento voluntário coordenado </i>(pop) 
-<i>tremor que aparece ao efectuar um movimento voluntário coordenado</i> (pop) , <b>tremor intencional</b> 
+<b>tremor intencional</b> , <i>tremor que aparece ao efectuar um movimento voluntário coordenado</i>(pop) 
+<i>tremor que aparece ao efectuar um movimento voluntário coordenado</i> (pop) , <b>tremorintencional</b> 
 <b>tremulação</b> , <i>efeito ondulatório, flutuação</i> (pop) 
 <b>tricíclico</b> , <i>constituído por três anéis entrelaçados</i> (pop) 
 <b>trismo</b> , <i>espasmo dos músculos mandibulares; tétano</i> (pop) 
@@ -3694,7 +3694,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 
 <b>tuberculostático</b> , <i>medicamento que inibe o crescimento do bacilo da tuberculose</i> (pop) 
 <b>tubo</b> , <i>tubo, cano</i> (pop) 
-<i>tubo digestivo, incluindo a boca, esófago, estômago, intestinos delgado e grosso, recto, ânos e glândulas anexas (vesícula biliar e pâncreas)</i> (pop) , <b>tracto (gastrintestinal)</b> 
+<i>tubo digestivo, incluindo a boca, esófago, estômago, intestinos delgado e grosso, recto,ânos e glândulas anexas (vesícula biliar e pâncreas)</i> (pop) , <b>tracto (gastrintestinal)</b> 
 <i>tubo utilizado em cirurgia</i> (pop) , <b>cânula</b> 
 <i>tubo, cano</i> (pop) , <b>tubo</b> 
 <b>tubular</b> , <i>com forma de tubo; tubuloso</i> (pop) 
@@ -3735,7 +3735,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>urinário</i> (pop) , <b>urinário</b> 
 <b>urogenital</b> , <i>referente aos órgãos urinários e genitais; geniturinário</i> (pop) 
 <b>urografia</b> , <i>radiografia de uma parte do aparelho urinário</i> (pop) 
-<b>urticária</b> , <i>erupção cutânea caracterizada pelo aparecimento de manchas vermelhas e prurido intenso</i> (pop) 
+<b>urticária</b> , <i>erupção cutânea caracterizada pelo aparecimento de manchas vermelhas eprurido intenso</i> (pop) 
 <b>útero</b> , <i>matriz</i> (pop) 
 <b>uveíte</b> , <i>inflamação da úvea</i> (pop) 
 <b>vacina</b> , <i>vacina</i> (pop) 
@@ -3765,10 +3765,10 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <b>vasomotor</b> , <i>que afecta o calibre dos vasos</i> (pop) 
 <b>vasopressor</b> , <i>que contrai os vasos sanguíneos</i> (pop) 
 <i>vegetação, excrescência, neoplasma</i> (pop) , <b>tumor</b> 
-<b>vegetativo</b> , <i>relativo ao crescimento e à nutrição; que funciona de maneira involuntária ou inconsciente; em repouso; relativo às plantas; relativo à reprodução assexual</i> (pop) 
+<b>vegetativo</b> , <i>relativo ao crescimento e à nutrição; que funciona de maneira involuntária ouinconsciente; em repouso; relativo às plantas; relativo à reprodução assexual</i> (pop) 
 
 <b>veia varicosa</b> , <i>de varicose, isto é, inflamação provocada por varizes; varicosidade</i> (pop) 
-<i>veias distendidas na junção do recto e do canal anal; almorróidas, almorródias</i> (pop) , <b>hemorróides</b> 
+<i>veias distendidas na junção do recto e do canal anal; almorróidas, almorródias</i> (pop) ,<b>hemorróides</b> 
 <b>veículo</b> , <i>transportador; excipiente</i> (pop) 
 <i>velhice</i> (pop) , <b>senilidade</b> 
 <i>veneno</i> (pop) , <b>toxina</b> 
@@ -3813,7 +3813,7 @@ escamação, descamação (pop) , <b>esfoliação</b>
 <i>vómitos excessivos</i> (pop) , <b>hiperémese</b> 
 <i>vontade de vomitar; enjoo; repugnância, sentimento de repulsão</i> (pop) , <b>náusea</b> 
 <b>vulvar</b> , <i>relativo aos órgãos sexuais externos da mulher</i> (pop) 
-<b>vulvovaginite</b> , <i>inflamação dos órgãos genitais externos femininos, incluindo a vagina</i> (pop) 
+<b>vulvovaginite</b> , <i>inflamação dos órgãos genitais externos femininos, incluindo a vagina</i> (pop)
 <b>xantoma</b> , <i>tipo de tumor benigno da pele; xantelasma</i> (pop) 
 <b>xantopsia</b> , <i>visão amarelada</i> (pop) 
 <b>xeroftalmia</b> , <i>secura, ulceração da córnea por falta de vitamina A</i> (pop) 
